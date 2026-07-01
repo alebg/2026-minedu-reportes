@@ -350,7 +350,9 @@ def compare_texts(
 # Phase 2: side-by-side alignment
 # ---------------------------------------------------------------------------
 
-def _ngram_set(words: tuple[str, ...], n: int = NGRAM_SIZE) -> frozenset[tuple[str, ...]]:
+def _ngram_set(
+    words: tuple[str, ...], n: int = NGRAM_SIZE,
+) -> frozenset[tuple[str, ...]]:
     """Return the set of n-grams for fast Jaccard computation."""
     return frozenset(
         tuple(words[i : i + n]) for i in range(len(words) - n + 1)

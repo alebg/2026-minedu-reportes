@@ -10,7 +10,6 @@ from compare import (
     AlignmentSummary,
     ComparisonResult,
     FullReport,
-    NormalizedText,
     Passage,
     _build_ngram_index,
     _collect_matching_positions,
@@ -29,7 +28,6 @@ from compare import (
     extract_ngrams,
     normalize_with_spans,
 )
-
 
 # ---------------------------------------------------------------------------
 # _pct / _ratio
@@ -521,7 +519,8 @@ class TestAlignPassages:
 
     def test_returns_all_candidates(self) -> None:
         paras = [
-            f"párrafo número {i} con texto suficiente para generar ocho gramas distintos"
+            f"párrafo número {i} con texto suficiente para generar"
+            " ocho gramas distintos"
             for i in range(5)
         ]
         text = "\n\n".join(paras)
