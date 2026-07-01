@@ -1,0 +1,51 @@
+[project]
+name = "plagiarism-analysis"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "python-docx",
+    "pymupdf",
+    "attrs",
+]
+
+[project.optional-dependencies]
+dev = [
+    "mypy",
+    "pytest",
+    "ruff",
+]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+explicit_package_bases = true
+warn_unreachable = true
+disallow_any_explicit = true
+disallow_any_unimported = true
+disallow_any_decorated = true
+enable_error_code = [
+    "possibly-undefined",
+    "redundant-expr",
+    "truthy-bool",
+    "truthy-iterable",
+    "exhaustive-match",
+]
+mypy_path = "."
+
+[[tool.mypy.overrides]]
+module = [
+    "docx",
+    "docx.document",
+    "fitz",
+]
+ignore_missing_imports = true
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "TCH"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
