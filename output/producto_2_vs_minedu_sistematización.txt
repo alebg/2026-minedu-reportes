@@ -1,0 +1,146 @@
+================================================================================
+COMPARACIÓN: Producto 2 vs MINEDU Sistematización
+  Fuente (consultora): Producto_2_v06.03.2024 (2).txt
+  Destino (publicación): Sistematización de experiencias y buenas prácticas para la igualdad de género en el ámbito universitario.txt
+================================================================================
+
+FASE 1: Escaneo de 8-gramas
+--------------------------------------------------------------------------------
+  Documento fuente (consultora): 42,337 palabras
+  Documento destino (publicación): 22,839 palabras
+  8-gramas coincidentes: 5,408 / 42,330 del documento fuente
+
+  Texto de la consultora en la publicación: 17.9%
+  Texto de la publicación copiado de la consultora: 33.3%
+
+  SOLO CUERPO (sin bibliografía):
+    Fuente: 42,337 -> 38,993 palabras | Destino: 22,839 -> 18,102 palabras
+    Texto de la consultora en la publicación: 13.0% (era 17.9% con bibliografía)
+    Texto de la publicación copiado de la consultora: 28.1% (era 33.3% con bibliografía)
+
+  Total de pasajes coincidentes (solo cuerpo): 60
+
+  [1] 535 palabras (palabra 27691): "manera integral las violencias de género en el ámbito educativo. Estas responsabilidades abarcan tanto procesos internos (como la inducción, contratación y formación del personal) como procesos externos (como la acreditación institucional y la fiscalización), involucrando a diversas instituciones que componen el Sistema de Educación Superior. Este sistema incluye todas las IES mencionadas en la ley, abarcando los subsistemas Universitario y Técnico Profesional y servicios públicos relacionados c..."
+  [2] 481 palabras (palabra 34144): "con la participación activa de todo el personal, incluidos los directivos. El Gran Programa I se basa en la colaboración de los Estados Miembros y asociados, fortaleciendo la capacidad y conocimientos de la UNESCO. Se busca que las políticas educativas vayan más allá de enfoques cuantitativos y convencionales para ampliar el acceso a la escuela. Se presta mayor atención a mejorar la calidad y pertinencia del aprendizaje, considerando las cuestiones de género y respondiendo a las necesidades de n..."
+  [3] 286 palabras (palabra 27311): "369, que aborda el acoso sexual, la violencia y la discriminación de género en la educación superior en Chile, surge como respuesta a demandas históricas relacionadas con la erradicación de las violencias de género en la sociedad. Nace a partir de las movilizaciones feministas de mayo de 2018, las cuales cuestionaron a diversas instituciones educativas, tanto estatales como privadas, así como al Sistema de Educación Superior en su totalidad y al Estado, señalando la carencia de mecanismos instit..."
+  [4] 211 palabras (palabra 30854): "ades de género en el acceso a espacios vinculados con las nuevas tecnologías, incluyendo el ámbito educativo. En respuesta a esto, Aprender Conectados, una iniciativa de alfabetización digital busca equipar a estudiantes de todos los niveles con las competencias necesarias para la era digital. Esta propuesta no solo fomenta la participación de las mujeres en la educación relacionada con programación, robótica y el ámbito digital, sino que también busca atraer a niñas y jóvenes mediante iniciativ..."
+  [5] 198 palabras (palabra 30643): "y críticas en temas relacionados con el cuerpo, las relaciones interpersonales, la sexualidad y los derechos de niños y jóvenes en todo el país. El Programa Nacional de ESI realiza capacitaciones docentes, cursos virtuales, monitoreo y evaluación sistemáticos, con el respaldo de UNICEF. Además, se estableció una la planificación de Jornadas Educar en Igualdad en colaboración con las escuelas, con el propósito de prevenir y erradicar la violencia de género. Se destaca la existencia de la cartilla..."
+  [6] 177 palabras (palabra 16451): "rma de violencia, material o simbólica, ejercida contra una mujer o minoría sexual por motivos de género. Esta puede ser de carácter físico, sexual, psicológico, patrimonial o sexista; y tiene la finalidad de humillar, manipular o forzar la voluntad de la víctima con algún fin vinculado a la subordinación frente a otro que ejerce poder. Esta constituye la expresión más cruda de la discriminación sexual, siendo por tanto una problemática social de carácter público. En particular, en el caso del á..."
+  [7] 165 palabras (palabra 17621): "empo en dar resultados, y que afectarán a muchas generaciones antes de esa transformación. Así, por ejemplo, se calcula que faltan más de 130 años para cerrar la brecha de género a nivel global. Ante esta evidencia, surge el paradigma de la igualdad de resultados o posiciones que llevan a la “creación de un entorno social favorable abordando la ideología y construcciones culturales que crean jerarquías dentro de las relaciones de género (…) (siendo) las medidas positivas (las que más) han mostra..."
+  [8] 165 palabras (palabra 31073): "perspectiva de género para los funcionarios de los tres poderes del Estado. Aunque muchas instituciones universitarias han establecido equipos y herramientas para abordar la prevención e intervención en casos de violencia de género, existe una variabilidad en el grado de implementación. En respuesta a esta diversidad, la Secretaría de Políticas Universitarias, a través de la Dirección Nacional de Desarrollo Universitario, ha lanzado una convocatoria para que las instituciones presenten proyectos..."
+  [9] 164 palabras (palabra 34632): "elos en todas las regiones. La asociación UNESCO-L'Oréal "La mujer y la ciencia" y redes como la Organización de Mujeres Científicas para el Mundo en Desarrollo resultan claves para celebrar modelos ejemplares, inspirar la participación de mujeres y niñas en carreras científicas, y fomentar el diálogo entre científicas. Además, el Gran Programa II seguirá estableciendo normas, asegurando que las perspectivas de las científicas, incluidos los conocimientos indígenas y tradicionales, se integren e..."
+  [10] 156 palabras (palabra 33980): "os son niñas, la disparidad de género también puede afectar a niños y hombres, especialmente en niveles secundarios y superiores. La estigmatización, discriminación, violencia y estereotipos de género en la educación, junto con disparidades en los resultados del aprendizaje, son problemas globales que trascienden el desarrollo económico o educativo de los países. La desigualdad de género en la educación es una preocupación mundial que afecta a todos, no solo a niñas y mujeres en países en desarr..."
+  [11] 131 palabras (palabra 33767): "n ocupacional por género y elevar el estatus, la voz y las oportunidades profesionales de cualquier grupo identificado infravalorado y en riesgo. Mitigar el impacto de género de las responsabilidades de cuidado y las interrupciones profesionales, y apoyar la flexibilidad y el mantenimiento de un “equilibrio saludable en toda la vida”. Mitigar el impacto de género de los contratos ocasionales y de corto plazo para el personal que busca carreras sostenibles. Políticas de la Unesco para la priorida..."
+  [12] 121 palabras (palabra 17344): "mos de medidas para la igualdad hacemos alusión a tres conceptos claves: equidad, igualdad de oportunidades e igualdad de posiciones o resultados. Estas medidas nos permiten contextualizar las diversas situaciones de desigualdad de facto que existen, teniendo en cuenta que las necesidades de cada grupo social no son necesariamente diferentes. En ese sentido se entiende que la igualdad, como principio de justicia social, constituye una aspiración vinculada a la igualdad de trato y ante la ley per..."
+  [13] 101 palabras (palabra 28231): "a las movilizaciones feministas, se estableció la Comisión de Género y Diversidades del Senado Universitario de la Universidad de Chile con el propósito de promover políticas de género y diversidad, trabajar en objetivos estratégicos del Plan de Desarrollo Institucional y supervisar la implementación de políticas en la Universidad. Para ello, se crea la Dirección de Igualdad de Género (DIGEN) y un Consejo Consultivo para reforzar la institucionalidad de género. Es así como desde el 2018, varias ..."
+  [14] 93 palabras (palabra 34801): "nstruye en el marco del Plan Estratégico del PNUD 2022-2025; el Programa Regional 2022-2025 y la Estrategia de Igualdad de Género del PNUD 2022-2025. Asimismo, el Plan Estratégico del PNUD 2022-2025 tiene como prioridades: 1) la promoción de economías inclusivas y el empoderamiento económico de las mujeres; 2) apoyar la transformación inclusiva e igualitaria de las sociedades; 3) promover un desarrollo basado en la naturaleza, género transformador e informado en los riesgos y; 4)fomentar una gob..."
+  [15] 88 palabras (palabra 3860): "de los procesos de toma decisión en las facultades de las carreras STEM. Así, a nivel de segregación, lo que encontramos es que tantos hombres como mujeres provienen de procesos formativos marcadamente heteronormativos, donde las vocaciones u opciones profesionales vienen ya marcadas por su propia trayectoria educativa anterior. Esto es especialmente desventajoso para las mujeres que prefieren no vincularse a los campos STEM, donde no sólo hay menos pares y menos docentes o investigadoras mujere..."
+  [16] 87 palabras (palabra 17475): "erechos en condiciones de igualdad con otras personas debido a una distinción injustificada que se establece en la política, la ley o el trato aplicados; o por a falta de condiciones adecuadas para el desarrollo de las personas, y que perpetúa la desigualdad. En esa línea, la igualdad de oportunidades “busca nivelar las oportunidades (…) que están fuera del control del individuo, no influyan en los resultados de una persona”. Para ello, es necesario poder distribuir servicios básicos y garantiza..."
+  [17] 82 palabras (palabra 33482): "de académicos y personal profesional y de apoyo valiosos, demostrando el compromiso de una institución con un entorno de trabajo equitativo. Todo esto, en base a de apoyar a una mayor inclusión de las personas en todos los roles, de todas las identidades de género y de quienes enfrentan desigualdades interseccionales. Y, empoderar a los participantes para que asuman compromisos activos en línea con sus objetivos de igualdad de género, así como para reconocer y recompensar el trabajo en materia d..."
+  [18] 81 palabras (palabra 3776): "Esta división sexual del conocimiento se refleja también en la segregación vertical, en donde persisten importantes brechas en el ejercicio del gobierno universitario, habiendo menos de una rectora o decana por cada 5 rectores o decanos; y menos de 1 por cada 10 en el caso de los puestos de rector (Chávez y Penelas, 2021). Cuestión que se repite a su vez en el gobierno de las facultades, en dónde la gran parte de decanas se encuentran en las facultades históricamente"
+  [19] 72 palabras (palabra 30567): "ción, Cultura, Ciencia y Tecnología de la Nación trabaja en eliminar disparidades y prejuicios mediante nuevas formas de enseñanza. Se enfatiza que la educación es clave para otorgar a las mujeres los mismos derechos y oportunidades que a los hombres, promoviendo el respeto, la inclusión y la reprobación de cualquier forma de discriminación. Es así como se impulsó la implementación de la Educación Sexual Integral (ESI), que busca proporcionar conocimientos y habil"
+  [20] 72 palabras (palabra 33314): "apoyar y transformar la igualdad de género en la educación superior (ES) y la investigación. Establecida en 2005 para alentar y reconocer el compromiso de promover las carreras de las mujeres en el empleo en ciencia, tecnología, ingeniería, matemáticas y medicina (STEMM), la Carta se está utilizando ahora en todo el mundo para abordar la igualdad de género de manera más amplia, y no solo las barreras a la progresión que a"
+  [21] 72 palabras (palabra 33901): "estos progresos, muchas niñas y mujeres aún carecen de una educación de calidad debido a las complejas desigualdades de género presentes en diversos aspectos educativos, como infraestructura, acceso, retención, planes de estudio, material didáctico, pedagogía, vida escolar, resultados del aprendizaje y opciones de educación y carrera. La discriminación es más extrema para las niñas y mujeres en zonas rurales y marginales de países de bajos ingresos. Aunque las estadísticas sugieren"
+  [22] 70 palabras (palabra 30387): "Equidad de Género La Universidad de Chile ha implementado el Programa de Ingreso Prioritario de Equidad de Género (PEG) desde el proceso de Admisión 2014, con el objetivo de fomentar la equidad de género en carreras con brechas significativas en la participación de mujeres. Este programa busca eliminar sesgos culturales que históricamente han limitado las opciones de elección y desarrollo de las mujeres en áreas como la ingeniería y ciencias"
+  [23] 67 palabras (palabra 27621): "sonas. Estas afectan negativamente los derechos individuales y tienen un impacto en la comunidad educativa en su totalidad. Por lo tanto, la calidad y pertinencia de la educación superior actual implican la capacidad de crear ambientes respetuosos, seguros y de bienestar, eliminando las violencias y discriminaciones de género. Asimismo, la implementación de esta ley representa un desafío para la educación superior en Chile, asignando responsabi"
+  [24] 60 palabras (palabra 4081): "los más masculinizados, los que reciben mayores retornos económicos; y viceversa, los campos más femenizados reciben menos ingresos. Así, si el ingreso promedio en las carreras vinculadas al campo de la Ingeniería, Industria y Construcción, y Tecnología de la Información y Comunicación es de 2998 soles mensuales; el del campo de la educación es de 1832 (Chávez 2023, p. 22"
+  [25] 59 palabras (palabra 4016): "las mujeres con estudios universitarios completos pueden ganar hasta 20% menos en relación a los hombres en la misma condición (cifras al 2020, Sunedu, 2022, pp. 219-220), cifra que se mantiene estable desde el 2018 (Sunedu, 2020, p. 168). Una de las variables claves para entender esta diferencia está relacionada justamente a las carreras elegidas por los estudiantes"
+  [26] 54 palabras (palabra 3958): "Estas múltiples segregaciones tienen consecuencias en el tránsito de las trayectorias de vida fuera del sistema educativo, en particular, en lo relacionado a sus retornos profesionales. Siguiendo la tendencia global, las mujeres ganan hasta un tercio menos que sus pares varones en los mismos puestos y capacidades, situación que se replica en el país"
+  [27] 47 palabras (palabra 7003): "la Estrategia de Igualdad de Género 2023-2025 para América Latina y el Caribe que busca ofrecer una visión estratégica que aborde la igualdad de género y el empoderamiento de las mujeres en toda su diversidad como eje central y transversal de un desarrollo inclusivo, sostenible y"
+  [28] 45 palabras (palabra 3667): "feminizadas (con umbrales del 30% de la matrícula minoritaria). Lo preocupante en términos de política pública educacional es si estas diferencias se deben estrictamente a preferencias y no a variables limitantes que dificulten el acceso a las distintas áreas de estudio. Así, la evidencia presentada"
+  [29] 43 palabras (palabra 3359): "Entendemos por segregación la acción por la cual sujetos o grupos de personas se encuentra separadas, física y simbólicamente, por barreras geográficas, socioculturales u económicas, y que afectan el ejercicio de sus derechos y el acceso a servicios y espacios de bienestar social"
+  [30] 43 palabras (palabra 17570): "das tan distintas por razones injustificadas como el género, la raza o etnicidad, el lugar de nacimiento, el entorno familiar u otras características. Sin embargo, no siempre estas medidas generan una transformación de los sistemas debido a que en ocasiones se trata de barr"
+  [31] 43 palabras (palabra 28399): "econocimiento a los Derechos Humanos, lo que se alinea con convenciones internacionales, reconociendo la igualdad inherente en dignidad y derechos para todas las personas, tanto en el ámbito institucional como en el contexto de la política de igualdad de género; (iii) Reconocimiento"
+  [32] 39 palabras (palabra 3435): "a ocupar posiciones no sólo distintas sino desiguales y que afectan sus trayectorias de vida. En términos de segregación horizontal nos encontramos que la menor presencia de mujeres en la matrícula por campos de conocimiento se da en los"
+  [33] 38 palabras (palabra 6949): "se centra en abordar las persistentes disparidades de género en la educación, buscando promover la igualdad a lo largo de todo el sistema educativo, y el Gran Programa II, bajo el primer Plan de Acción para "Igualdad entre"
+  [34] 37 palabras (palabra 3495): "estudiantes como en Mecánica, Metalúrgica, Electricidad o Electrónica) (Chávez 2023, p. 15); y altamente feminizados como educación o salud (con programas con práctica inexistencia de estudiantado masculino como educación inicial, educación especial u obstetricia, con menos de"
+  [35] 37 palabras (palabra 31269): "y no discriminación e impulsa procesos de armonización normativa en dos diferentes niveles en la UNAM, a nivel de la administración central y de manera transversal en todas sus estructuras académicas y administrativas. A continuación, se"
+  [36] 36 palabras (palabra 4144): "en donde la gran mayoría de trabajadores son mujeres. Es decir, la segregación horizontal en los estudios de pregrado incide en la igualdad de oportunidades que mujeres y hombres tendrán en su vida profesional. 2.2"
+  [37] 36 palabras (palabra 33394): "vos de la Carta Athena Swan son: 1. ayudar a las instituciones a alcanzar sus objetivos de igualdad de género; 2. ayudar a las instituciones a cumplir con los requisitos de la legislación sobre igualdad, así como co"
+  [38] 35 palabras (palabra 28449): "o que todos los miembros de la comunidad universitaria gocen de los mismos derechos y libertades, sin distinción por género, identidad, orientación sexual, origen social, étnico u otra condición, valorando la diversidad de expresiones; (iv) Participación,"
+  [39] 33 palabras (palabra 30505): "ía y la Facultad de Ciencias al programa. Además, la Facultad de Ciencias Sociales ha implementado un programa similar en las carreras de Pedagogía en Educación Parvularia y Trabajo Social, permitiendo el ingre"
+  [40] 32 palabras (palabra 28336): "ciones de Género. La política de igualdad de género de la Universidad de Chile se basa en los siguientes principios: (i) Igualdad de género, que busca la igualdad sustantiva, garantizando trato y"
+  [41] 32 palabras (palabra 33699): "s y culturas que restan valor a la seguridad y la colegialidad de nuestros entornos de trabajo y estudio, incluida la no tolerancia a la violencia de género, la discriminación, la intimidación, el acos"
+  [42] 31 palabras (palabra 3626): "Esto sigue la tendencia global, en tanto la OECD enfatiza las desigualdades de género en la matrícula de carreras STEM en el pregrado y en las carreras de salud y educación"
+  [43] 30 palabras (palabra 7055): "esta Estrategia, se construye en el marco del Plan Estratégico del PNUD 2022-2025; el Programa Regional 2022-2025 y la Estrategia de Igualdad de Género del PNUD 2022-2025"
+  [44] 30 palabras (palabra 31719): "fensoría de los Derechos Universitarios, Igualdad y Atención de la Violencia de Género La Defensoría de los Derechos Universitarios, Igualdad y Atención de la Violencia de Género es un órgano de la Un"
+  [45] 28 palabras (palabra 28512): "Universidad de Chile, destacando su capacidad para influir en la construcción de una sociedad más justa y democrática, resaltando la importancia de la igualdad de género; y"
+  [46] 28 palabras (palabra 29181): "Política de Igualdad de género Revisión y adecuación de normas internas e instrumentos de planificación que favorezcan el pleno desarrollo de las personas En el marco de la po"
+  [47] 26 palabras (palabra 3537): "Chávez 2023, p. 16). Otro ejemplo, de acuerdo análisis realizado por el Sistema de Información Universitaria (SIU), Portal TUNI, de Sunedu, al 2022-II, Por cada"
+  [48] 24 palabras (palabra 3723): "tienen más dificultades al elegir carreras STEM, mientras que los hombres eligen en menor medidas las carreras menos rentables como educación y salud, pero"
+  [49] 21 palabras (palabra 31241): "a de México La universidad Autónoma de México cuenta con una Dirección de Políticas de Igualdad y No Discriminación, institucionalidad qu"
+  [50] 20 palabras (palabra 31449): "dades, entidades y dependencias, órganos colegiados y de la participación organizada de los miembros de la comunidad universitar"
+  [51] 19 palabras (palabra 33743): "onas pueden determinar su propia identidad de género y abordar los problemas específicos que enfrentan las personas trans y no b"
+  [52] 18 palabras (palabra 615): "Programa para la Mejora de la Calidad y Pertinencia de los Servicios de Educación Superior Universitaria y Tecnológica"
+  [53] 18 palabras (palabra 3408): "puede dar al interior de las organizaciones educativas (entre grupos sociales de pares al interior de las escuelas"
+  [54] 18 palabras (palabra 33677): "des estructurales y las injusticias sociales que se manifiestan como experiencias y resultados diferenciales para el personal y los estudi"
+  [55] 17 palabras (palabra 30546): "ticipación femenina. Esta iniciativa busca promover la diversidad de género en diversas disciplinas académicas. El caso de Argentin"
+  [56] 17 palabras (palabra 33434): "tativas de algunos financiadores y consejos de investigación; 3. utilizar un marco de autoevaluación específico para ayuda"
+  [57] 16 palabras (palabra 13146): "ca el artículo 52 e incorpora los artículos 19-A y 62-A en la ley 28044"
+  [58] 16 palabras (palabra 27601): "sentido amplio como dirigidas hacia mujeres y disidencias sexo genéricas, se considera una vulnera"
+  [59] 16 palabras (palabra 33459): "va, así como a reconocer y compartir buenas prácticas y; 4. apoyar la promoción de práctica"
+  [60] 15 palabras (palabra 28547): "oderamiento de todas las personas en la comunidad universitaria, sin discriminación alguna. Estrategias para"
+
+
+FASE 2: Alineación lado a lado por párrafos (sin bibliografía)
+--------------------------------------------------------------------------------
+  Párrafos elegibles en documento fuente: 438
+  Párrafos con coincidencia (Jaccard >= 15%): 14 / 438 (3.2%)
+  Similitud Jaccard promedio (entre los coincidentes): 30.7%
+    Idénticos (>=99%): 0 | Altos (50-99%): 2 | Moderados (15-50%): 12
+
+  [1] Similitud Jaccard: 66.7% | Fuente: 12 palabras, Destino: 12 palabras
+    FUENTE:  "Creación de sistemas de información en torno a las relaciones de género"
+    DESTINO: "y Creación de sistemas de información en torno a las relaciones de"
+
+  [2] Similitud Jaccard: 60.0% | Fuente: 10 palabras, Destino: 12 palabras
+    FUENTE:  "Líneas de Acción de la Política de Igualdad de género"
+    DESTINO: "Entre las líneas de acción de la política de igualdad de género"
+
+  [3] Similitud Jaccard: 40.0% | Fuente: 12 palabras, Destino: 9 palabras
+    FUENTE:  "Políticas de la Unesco para la prioridad “Igualdad de género” (2014-2021)"
+    DESTINO: "Políticas de la Unesco para la prioridad «Igualdad de"
+
+  [4] Similitud Jaccard: 35.7% | Fuente: 20 palabras, Destino: 13 palabras
+    FUENTE:  "Mitigar el impacto de género de los contratos ocasionales y de corto plazo para el personal que busca carreras sostenibles."
+    DESTINO: "y Mitigar el impacto de género de los contratos ocasionales y de corto"
+
+  [5] Similitud Jaccard: 33.3% | Fuente: 10 palabras, Destino: 12 palabras
+    FUENTE:  "Ámbitos de Acción de la Política de Igualdad de género"
+    DESTINO: "Entre las líneas de acción de la política de igualdad de género"
+
+  [6] Similitud Jaccard: 28.6% | Fuente: 13 palabras, Destino: 10 palabras
+    FUENTE:  "Defensoría de los Derechos Universitarios, Igualdad y Atención de la Violencia de Género"
+    DESTINO: "Universitarios, Igualdad y Atención de la Violencia de Género, Centro"
+
+  [7] Similitud Jaccard: 28.6% | Fuente: 12 palabras, Destino: 11 palabras
+    FUENTE:  "En ese marco, la Carta Athena Swan cuenta con 8 compromisos principales:"
+    DESTINO: "En ese marco, la Carta Athena Swan cuenta con ocho compromisos"
+
+  [8] Similitud Jaccard: 25.0% | Fuente: 11 palabras, Destino: 8 palabras
+    FUENTE:  "Por consiguiente, resulta necesario para las instituciones de Educación Superior (IES)"
+    DESTINO: "Por consiguiente, resulta necesario para las instituciones de"
+
+  [9] Similitud Jaccard: 25.0% | Fuente: 10 palabras, Destino: 9 palabras
+    FUENTE:  "Incorporación y participación de las mujeres y diversidades sexo genérica"
+    DESTINO: "y Incorporación y participación de las mujeres y diversidades"
+
+  [10] Similitud Jaccard: 18.8% | Fuente: 22 palabras, Destino: 11 palabras
+    FUENTE:  "Abordar las desigualdades estructurales y las injusticias sociales que se manifiestan como experiencias y resultados diferenciales para el personal y los estudiantes."
+    DESTINO: "y Abordar las desigualdades estructurales y las injusticias sociales que se"
+
+  [11] Similitud Jaccard: 18.2% | Fuente: 18 palabras, Destino: 9 palabras
+    FUENTE:  "Revisión y adecuación de normas internas e instrumentos de planificación que favorezcan el pleno desarrollo de las personas"
+    DESTINO: "planificación que favorezcan el pleno desarrollo de las personas."
+
+  [12] Similitud Jaccard: 17.4% | Fuente: 29 palabras, Destino: 12 palabras
+    FUENTE:  "Mitigar el impacto de género de las responsabilidades de cuidado y las interrupciones profesionales, y apoyar la flexibilidad y el mantenimiento de un “equilibrio saludable en toda la vida”."
+    DESTINO: "y Mitigar el impacto de género de las responsabilidades de cuidado y"
+
+  [13] Similitud Jaccard: 16.7% | Fuente: 24 palabras, Destino: 11 palabras
+    FUENTE:  "reconocer que las personas pueden determinar su propia identidad de género y abordar los problemas específicos que enfrentan las personas trans y no binarias."
+    DESTINO: "de género y abordar los problemas específicos que enfrentan las per-"
+
+  [14] Similitud Jaccard: 15.4% | Fuente: 32 palabras, Destino: 12 palabras
+    FUENTE:  "Promover políticas institucionales a favor de la igualdad de género a través de las autoridades, entidades y dependencias, órganos colegiados y de la participación organizada de los miembros de la comunidad universitaria;"
+    DESTINO: "colegiados y de la participación organizada de los miembros de la comuni-"
