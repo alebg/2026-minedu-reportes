@@ -1,0 +1,171 @@
+================================================================================
+ANÁLISIS DE PLAGIO: Productos de Consultoría vs Publicaciones Oficiales
+================================================================================
+
+METODOLOGÍA
+--------------------------------------------------------------------------------
+
+  FASE 1: Escaneo de 8-gramas
+
+    Ambos documentos se normalizan: se convierten a minúsculas, se eliminan
+    tildes y signos de puntuación. Luego se extraen ventanas deslizantes de 8
+    palabras consecutivas ('8-gramas'). Cuando la misma secuencia de 8 palabras
+    aparece en ambos documentos, se cuenta como coincidencia textual. Una
+    secuencia de 8 palabras idénticas es suficientemente larga como para
+    descartar la coincidencia.
+
+    Esta técnica (document fingerprinting mediante n-gramas) pertenece a la
+    familia de métodos de string-matching usados en detección académica de
+    plagio, junto con algoritmos como Rabin-Karp y Knuth-Morris-Pratt empleados
+    por herramientas como Turnitin y CopyCatch (ver: Hamed et al., 'Plagiarism
+    types and detection methods', Frontiers in Computer Science, 2025,
+    https://doi.org/10.3389/fcomp.2025.1504725).
+
+    'Texto de la consultora en la publicación' = porcentaje de las palabras
+    del trabajo de la consultora que aparecen textualmente en la publicación
+    oficial. Responde a: ¿cuánto del trabajo original fue copiado?
+
+    'Texto de la publicación copiado de la consultora' = porcentaje de las
+    palabras de la publicación oficial que provienen del trabajo de la
+    consultora. Responde a: ¿cuánto de la publicación es texto copiado?
+
+    'Solo cuerpo' repite el mismo análisis después de eliminar las secciones
+    de bibliografía de ambos documentos, de modo que los porcentajes reflejan
+    reuso de texto sustantivo, no citas académicas compartidas.
+
+  FASE 2: Alineación lado a lado por párrafos
+
+    Cada párrafo del documento fuente se compara con todos los párrafos del
+    documento destino usando el índice de Jaccard: la cantidad de 8-gramas
+    compartidos dividida por la cantidad total de 8-gramas distintos entre
+    ambos párrafos (ver: https://es.wikipedia.org/wiki/%C3%8Dndice_de_Jaccard).
+    Se muestra el párrafo destino más parecido junto al párrafo fuente.
+
+    Se eligió el índice de Jaccard por tres razones:
+      1. Está normalizado entre 0 y 1, lo que permite comparar párrafos de
+         distinta longitud sin que el tamaño distorsione el resultado.
+      2. Es simétrico: mide la coincidencia entre ambos textos por igual,
+         sin privilegiar la dirección fuente-destino ni destino-fuente.
+      3. Penaliza el relleno: si se copia un párrafo pero se agrega texto
+         adicional alrededor, la unión crece pero la intersección no, y el
+         puntaje baja. Esto distingue correctamente una copia textual de una
+         coincidencia parcial.
+
+    100% = texto idéntico. Sobre 50% = copiado sustancial con ediciones menores.
+    Se excluyen coincidencias por debajo de 15%.
+
+  NOTA SOBRE VERIFICACIÓN MANUAL
+
+    Los pasajes mostrados provienen de los archivos .txt extraídos de los
+    documentos originales (.docx y .pdf). Para verificar un pasaje en el PDF o
+    DOCX original usando Ctrl+F, busque fragmentos cortos (5-10 palabras) del
+    pasaje, no el pasaje completo. Los saltos de línea y de página en el
+    documento original pueden impedir que Ctrl+F encuentre frases largas que
+    cruzan esos límites.
+
+
+RESPONSABLE DEL ANÁLISIS
+--------------------------------------------------------------------------------
+
+  Luis Bordo
+  COO y cofundador, Dream Aim Deliver AI (Suiza)
+  Candidato a doctor en Filosofía de la Ciencia, Université de Genève
+  Sociólogo licenciado, Pontificia Universidad Católica del Perú (PUCP)
+  https://www.linkedin.com/in/luisbordo/
+
+  Experiencia relevante para este análisis:
+
+    - Investigador social cuantitativo con 8 años de experiencia en diseño
+      de encuestas, modelamiento estadístico y análisis de datos, incluyendo
+      trabajo en el Ministerio de Educación del Perú (MINEDU) y la PUCP.
+    - Formación doctoral en causalidad e inferencia causal aplicada a las
+      ciencias sociales (Université de Genève, supervisor: Prof. Marcel Weber).
+    - Maestría en Filosofía con especialización en Filosofía de la Ciencia
+      (Université de Genève, tesis calificada 6/6, Premio Humbert 2021).
+    - Competencias técnicas: Python, Rust, R, SQL, modelamiento
+      estadístico, ingeniería de datos.
+
+
+================================================================================
+COMPARACIÓN: Producto 3 vs MINEDU Estudio Desigualdades
+  Fuente (consultora): Producto_3_v170524 modificado.txt
+  Destino (publicación): Estudio para la identificación de desigualdades y barreras de acceso y permanencia en la educación superior universit.txt
+================================================================================
+
+  FASE 1: Escaneo de 8-gramas
+  Documento fuente (consultora): 40,280 palabras
+  Documento destino (publicación): 71,452 palabras
+  8-gramas coincidentes: 11,964 / 40,273 del documento fuente
+  >> Texto de la consultora en la publicación: 42.5% de las palabras de la consultora aparecen en la publicación
+  >> Texto de la publicación copiado de la consultora: 25.7% de las palabras de la publicación provienen del trabajo de la consultora
+  Pasajes coincidentes encontrados: 240
+
+  SOLO CUERPO (sin bibliografía):
+    Fuente: 40,280 -> 40,280 palabras | Destino: 71,452 -> 70,322 palabras
+    >> Texto de la consultora en la publicación: 42.5% (era 42.5% con bibliografía)
+    >> Texto de la publicación copiado de la consultora: 26.0% (era 25.7% con bibliografía)
+
+  FASE 2: Alineación por párrafos
+
+  Párrafos elegibles en documento fuente: 939
+  Párrafos con coincidencia (Jaccard >= 15%): 342 / 939 (36.4%)
+  Similitud Jaccard promedio (entre los coincidentes): 45.5%
+    Idénticos (>=99%): 26 | Altos (50-99%): 105 | Moderados (15-50%): 211
+
+  Reporte completo: output/producto_3_vs_minedu_estudio_desigualdades.txt
+
+================================================================================
+COMPARACIÓN: Producto 5 vs MINEDU Propuesta Reducción Brechas
+  Fuente (consultora): Informe_Producto_5_08012025.txt
+  Destino (publicación): Propuesta para reduccion de brechas.txt
+================================================================================
+
+  FASE 1: Escaneo de 8-gramas
+  Documento fuente (consultora): 37,650 palabras
+  Documento destino (publicación): 33,446 palabras
+  8-gramas coincidentes: 15,216 / 37,643 del documento fuente
+  >> Texto de la consultora en la publicación: 59.6% de las palabras de la consultora aparecen en la publicación
+  >> Texto de la publicación copiado de la consultora: 67.2% de las palabras de la publicación provienen del trabajo de la consultora
+  Pasajes coincidentes encontrados: 318
+
+  SOLO CUERPO (sin bibliografía):
+    Fuente: 37,650 -> 34,409 palabras | Destino: 33,446 -> 28,709 palabras
+    >> Texto de la consultora en la publicación: 58.0% (era 59.6% con bibliografía)
+    >> Texto de la publicación copiado de la consultora: 69.8% (era 67.2% con bibliografía)
+
+  FASE 2: Alineación por párrafos
+
+  Párrafos elegibles en documento fuente: 542
+  Párrafos con coincidencia (Jaccard >= 15%): 97 / 542 (17.9%)
+  Similitud Jaccard promedio (entre los coincidentes): 29.8%
+    Idénticos (>=99%): 2 | Altos (50-99%): 16 | Moderados (15-50%): 79
+
+  Reporte completo: output/producto_5_vs_minedu_propuesta_reducción_brechas.txt
+
+================================================================================
+COMPARACIÓN: Producto 2 vs MINEDU Sistematización
+  Fuente (consultora): Producto_2_v06.03.2024 (2).txt
+  Destino (publicación): Sistematización de experiencias y buenas prácticas para la igualdad de género en el ámbito universitario.txt
+================================================================================
+
+  FASE 1: Escaneo de 8-gramas
+  Documento fuente (consultora): 42,337 palabras
+  Documento destino (publicación): 22,839 palabras
+  8-gramas coincidentes: 5,408 / 42,330 del documento fuente
+  >> Texto de la consultora en la publicación: 17.9% de las palabras de la consultora aparecen en la publicación
+  >> Texto de la publicación copiado de la consultora: 33.3% de las palabras de la publicación provienen del trabajo de la consultora
+  Pasajes coincidentes encontrados: 102
+
+  SOLO CUERPO (sin bibliografía):
+    Fuente: 42,337 -> 38,993 palabras | Destino: 22,839 -> 18,102 palabras
+    >> Texto de la consultora en la publicación: 13.0% (era 17.9% con bibliografía)
+    >> Texto de la publicación copiado de la consultora: 28.1% (era 33.3% con bibliografía)
+
+  FASE 2: Alineación por párrafos
+
+  Párrafos elegibles en documento fuente: 438
+  Párrafos con coincidencia (Jaccard >= 15%): 14 / 438 (3.2%)
+  Similitud Jaccard promedio (entre los coincidentes): 30.7%
+    Idénticos (>=99%): 0 | Altos (50-99%): 2 | Moderados (15-50%): 12
+
+  Reporte completo: output/producto_2_vs_minedu_sistematización.txt

@@ -18,6 +18,8 @@ from compare import (
     _extract_passages,
     _jaccard,
     _original_preview,
+    _pct,
+    _ratio,
     _slugify,
     _split_paragraphs,
     _strip_bibliography,
@@ -27,6 +29,28 @@ from compare import (
     extract_ngrams,
     normalize_with_spans,
 )
+
+
+# ---------------------------------------------------------------------------
+# _pct / _ratio
+# ---------------------------------------------------------------------------
+
+
+class TestPctAndRatio:
+    def test_pct_basic(self) -> None:
+        assert _pct(1, 3) == 33.3
+
+    def test_pct_zero_denominator(self) -> None:
+        assert _pct(5, 0) == 0.0
+
+    def test_pct_exact(self) -> None:
+        assert _pct(1, 4) == 25.0
+
+    def test_ratio_basic(self) -> None:
+        assert _ratio(1, 3) == pytest.approx(1 / 3)
+
+    def test_ratio_zero_denominator(self) -> None:
+        assert _ratio(5, 0) == 0.0
 
 
 # ---------------------------------------------------------------------------
