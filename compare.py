@@ -14,11 +14,26 @@ import logging
 import re
 import unicodedata
 from collections import defaultdict
+from decimal import Decimal
 from pathlib import Path
 
 import attrs
 
 logger = logging.getLogger(__name__)
+
+def _pct(numerator: int, denominator: int) -> float:
+    """Compute a percentage via Decimal to avoid floating-point drift."""
+    if denominator == 0:
+        return 0.0
+    return float(round(Decimal(numerator) / Decimal(denominator) * 100, 1))
+
+
+def _ratio(numerator: int, denominator: int) -> float:
+    """Compute a ratio via Decimal to avoid floating-point drift."""
+    if denominator == 0:
+        return 0.0
+    return float(Decimal(numerator) / Decimal(denominator))
+
 
 NGRAM_SIZE = 8
 MIN_PASSAGE_WORDS = 15
@@ -314,8 +329,6 @@ def compare_texts(
 
     s_count = len(s_normalized.words)
     t_count = len(t_normalized.words)
-    s_overlap = len(s_positions) / s_count * 100.0 if s_count else 0.0
-    t_overlap = len(t_positions) / t_count * 100.0 if t_count else 0.0
 
     passages = _extract_passages(s_positions, s_normalized)
 
@@ -327,8 +340,8 @@ def compare_texts(
         target_words=t_count,
         source_words_in_overlap=len(s_positions),
         target_words_in_overlap=len(t_positions),
-        source_overlap_pct=round(s_overlap, 1),
-        target_overlap_pct=round(t_overlap, 1),
+        source_overlap_pct=_pct(len(s_positions), s_count),
+        target_overlap_pct=_pct(len(t_positions), t_count),
         passages=passages,
     )
 
@@ -348,7 +361,7 @@ def _jaccard(a: frozenset[tuple[str, ...]], b: frozenset[tuple[str, ...]]) -> fl
     """Jaccard similarity between two n-gram sets."""
     if not a and not b:
         return 0.0
-    return len(a & b) / len(a | b)
+    return _ratio(len(a & b), len(a | b))
 
 
 def _split_paragraphs(text: str) -> tuple[str, ...]:
@@ -424,22 +437,21 @@ def align_passages(
             target_preview=t_preview,
             source_words=len(s_norm.words),
             target_words=len(target_normalized[best_idx].words),
-            similarity_pct=round(best_score * 100.0, 1),
+            similarity_pct=float(round(Decimal(str(best_score)) * 100, 1)),
         ))
 
     matched_count = len(candidates)
+    similarity_sum = sum(
+        Decimal(str(c.similarity_pct)) for c in candidates
+    )
     summary = AlignmentSummary(
         source_paragraphs=eligible_count,
         matched_paragraphs=matched_count,
-        matched_pct=round(
-            matched_count / eligible_count * 100.0 if eligible_count else 0.0,
-            1,
-        ),
-        avg_similarity=round(
-            sum(c.similarity_pct for c in candidates) / matched_count
+        matched_pct=_pct(matched_count, eligible_count),
+        avg_similarity=float(
+            round(similarity_sum / Decimal(matched_count), 1)
             if matched_count
-            else 0.0,
-            1,
+            else Decimal("0"),
         ),
         count_identical=sum(
             1 for c in candidates if c.similarity_pct >= 99.9
@@ -858,12 +870,18 @@ def run_comparison(pairs: tuple[DocumentPair, ...]) -> None:
 
 def main() -> None:
     """Entry point: configure logging and run comparisons."""
+    OUTPUT_DIR.mkdir(exist_ok=True)
+    summary_path = OUTPUT_DIR / "resumen.txt"
+
     logging.basicConfig(
         level=logging.INFO,
         format="%(message)s",
     )
+    file_handler = logging.FileHandler(summary_path, mode="w", encoding="utf-8")
+    file_handler.setFormatter(logging.Formatter("%(message)s"))
+    logger.addHandler(file_handler)
 
-    base = Path("/home/alebg/test/sha/minedu_files")
+    base = Path(__file__).resolve().parent / "minedu_files"
 
     pairs = (
         DocumentPair(

@@ -22,21 +22,46 @@ entre los documentos fuente y las publicaciones.
 
 ## Metodología
 
-El análisis tiene dos fases:
+El análisis tiene dos fases. En ambas se excluyen las secciones de bibliografía
+para que los porcentajes reflejen reuso de texto sustantivo, no citas académicas
+compartidas.
 
 **Fase 1: Escaneo de 8-gramas.** Se extraen ventanas deslizantes de 8 palabras
 consecutivas de ambos documentos (normalizados a minúsculas, sin tildes ni
 puntuación). Cada secuencia de 8 palabras idénticas cuenta como coincidencia
-textual. Esta técnica (document fingerprinting mediante n-gramas) pertenece a la familia
-de métodos de string-matching usados en detección académica de plagio, junto con
-algoritmos como Rabin-Karp y KMP empleados por Turnitin y CopyCatch (Hamed et
-al., *Frontiers in Computer Science*, 2025,
+textual. Esta técnica (document fingerprinting mediante n-gramas) pertenece a la
+familia de métodos de string-matching usados en detección académica de plagio,
+junto con algoritmos como Rabin-Karp y Knuth-Morris-Pratt empleados por
+Turnitin y CopyCatch (Hamed et al., *Frontiers in Computer Science*, 2025,
 https://doi.org/10.3389/fcomp.2025.1504725).
 
+Se reportan dos métricas:
+- *Texto de la consultora en la publicación*: porcentaje de las palabras del
+  trabajo original que aparecen textualmente en la publicación oficial.
+  Responde a: ¿cuánto del trabajo original fue copiado?
+- *Texto de la publicación copiado de la consultora*: porcentaje de las
+  palabras de la publicación que provienen del trabajo de la consultora.
+  Responde a: ¿cuánto de la publicación es texto copiado?
+
 **Fase 2: Alineación por párrafos.** Cada párrafo del documento fuente se
-compara con todos los párrafos de la publicación usando el índice de Jaccard
-(https://es.wikipedia.org/wiki/%C3%8Dndice_de_Jaccard). Se reportan métricas
-agregadas y los párrafos con mayor similitud, lado a lado.
+compara con todos los párrafos de la publicación usando el índice de Jaccard:
+la cantidad de 8-gramas compartidos dividida por la cantidad total de 8-gramas
+distintos entre ambos párrafos
+(https://es.wikipedia.org/wiki/%C3%8Dndice_de_Jaccard).
+
+Se eligió el índice de Jaccard por tres razones: (1) está normalizado entre 0 y
+1, lo que permite comparar párrafos de distinta longitud; (2) es simétrico, sin
+privilegiar una dirección sobre la otra; (3) penaliza el relleno, ya que agregar
+texto alrededor de una copia hace crecer la unión sin aumentar la intersección.
+
+100% = texto idéntico. Sobre 50% = copiado sustancial con ediciones menores.
+Se excluyen coincidencias por debajo de 15%.
+
+**Verificación manual.** Los pasajes mostrados provienen de los archivos .txt
+extraídos de los documentos originales. Para verificar un pasaje en el PDF o
+DOCX original usando Ctrl+F, busque fragmentos cortos (5-10 palabras), no el
+pasaje completo. Los saltos de línea y de página pueden impedir que Ctrl+F
+encuentre frases largas.
 
 ## Requisitos
 
@@ -54,11 +79,9 @@ pip install python-docx pymupdf attrs
 python3 compare.py
 ```
 
-El reporte se imprime por salida estándar. Para guardarlo:
-
-```bash
-python3 compare.py > reporte.txt 2>&1
-```
+El resumen se imprime por salida estándar. Los reportes completos (todos los
+pasajes y alineaciones) se escriben en `output/`, un archivo `.txt` por cada
+par de documentos comparados.
 
 ## Tests
 
