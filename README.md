@@ -63,6 +63,26 @@ DOCX original usando Ctrl+F, busque fragmentos cortos (5-10 palabras), no el
 pasaje completo. Los saltos de línea y de página pueden impedir que Ctrl+F
 encuentre frases largas.
 
+## Estructura de datos
+
+Los documentos fuente y las publicaciones se organizan por par en `data/`:
+
+```
+data/
+  producto_3_vs_estudio_desigualdades/
+    Producto_3_v170524 modificado.txt          (fuente)
+    Estudio para la identificación de ...txt   (publicación)
+    Estudio para la identificación de ...pdf   (PDF original)
+  producto_5_vs_propuesta_brechas/
+    Informe_Producto_5_08012025.txt            (fuente)
+    Propuesta para reduccion de brechas.txt    (publicación)
+    Propuesta para reduccion de brechas.pdf    (PDF original)
+  producto_2_vs_sistematizacion/
+    Producto_2_v06.03.2024 (2).txt             (fuente)
+    Sistematización de experiencias ...txt     (publicación)
+    Sistematización de experiencias ...pdf     (PDF original)
+```
+
 ## Requisitos
 
 - Python 3.12+

@@ -883,26 +883,44 @@ def main() -> None:
     file_handler.setFormatter(logging.Formatter("%(message)s"))
     logger.addHandler(file_handler)
 
-    base = Path(__file__).resolve().parent / "minedu_files"
+    data = Path(__file__).resolve().parent / "data"
 
     pairs = (
         DocumentPair(
-            source_path=base / "Producto_3_v170524 modificado.txt",
-            target_path=base / "Estudio para la identificación de desigualdades"
-            " y barreras de acceso y permanencia en la educación"
-            " superior universit.txt",
+            source_path=(
+                data / "producto_3_vs_estudio_desigualdades"
+                / "Producto_3_v170524 modificado.txt"
+            ),
+            target_path=(
+                data / "producto_3_vs_estudio_desigualdades"
+                / "Estudio para la identificación de desigualdades"
+                " y barreras de acceso y permanencia en la educación"
+                " superior universit.txt"
+            ),
             label="Producto 3 vs MINEDU Estudio Desigualdades",
         ),
         DocumentPair(
-            source_path=base / "Informe_Producto_5_08012025.txt",
-            target_path=base / "Propuesta para reduccion de brechas.txt",
+            source_path=(
+                data / "producto_5_vs_propuesta_brechas"
+                / "Informe_Producto_5_08012025.txt"
+            ),
+            target_path=(
+                data / "producto_5_vs_propuesta_brechas"
+                / "Propuesta para reduccion de brechas.txt"
+            ),
             label="Producto 5 vs MINEDU Propuesta Reducción Brechas",
         ),
         DocumentPair(
-            source_path=base / "Producto_2_v06.03.2024 (2).txt",
-            target_path=base / "Sistematización de experiencias y buenas"
-            " prácticas para la igualdad de género en el ámbito"
-            " universitario.txt",
+            source_path=(
+                data / "producto_2_vs_sistematizacion"
+                / "Producto_2_v06.03.2024 (2).txt"
+            ),
+            target_path=(
+                data / "producto_2_vs_sistematizacion"
+                / "Sistematización de experiencias y buenas"
+                " prácticas para la igualdad de género en el ámbito"
+                " universitario.txt"
+            ),
             label="Producto 2 vs MINEDU Sistematización",
         ),
     )
