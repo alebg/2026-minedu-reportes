@@ -1,0 +1,2792 @@
+Sistematización de experiencias y buenas prácticas para la igualdad
+de género en el ámbito universitario
+Brechas de género
+universitaria en el Perú
+en la educación superior
+
+Brechas de género en la educación superior universitaria en el Perú.
+Sistematización de experiencias y buenas prácticas para la igualdad de género
+en el ámbito universitario
+© Ministerio de Educación
+Calle del Comercio N° 193, San Borja, Lima, Perú
+Teléfono: (511) 615-5800
+www.minedu.gob.pe
+© UE 118
+Calle Los Laureles N° 399, San Isidro, Lima, Perú
+Teléfono: (511) 442-5500
+www.ue118.gob.pe
+Primera edición digital, marzo 2026
+Depósito Legal N.° 2026-04558
+MARÍA ESTHER CUADROS ESPINOZA
+Ministra de Educación
+JUAN MARIANO NAVARRO PANDO
+Viceministro de Gestión Pedagógica
+KAREN JULIA CARMEN PINEDA HIGA
+Directora General de la Dirección General
+de Educación Superior Universitaria
+JESSICA AMELIA GUERRERO PORTUGAL
+Directora de la Dirección de Políticas para el Desarrollo y Aseguramiento
+de la Calidad de la Educación Superior Universitaria
+JUAN CARLOS NORABUENA CASTAÑEDA
+Director de la Dirección de Coordinación y Promoción de la Calidad
+de la Educación Superior Universitaria
+GERMÁN ABELARDO LÓPEZ HERENCIA
+Director Ejecutivo de la UE 118
+Equipo técnico
+Carla Geraldine Solano Pineda
+Carolina Iveth Vera Torres
+Giovanna Elvira Carmona Chávez
+Leoncio Filemón Santos España
+Corrección de estilo: Edgar Saavedra Vásquez
+Diseño y diagramación: Rodolfo Loyola Mejía
+Ilustraciones: Luis Enrique Robledo
+Documento elaborado en base al estudio desarrollado por el Grupo de Análisis para el
+Desarrollo (GRADE) por encargo del Programa para la Mejora de la Calidad y Pertinencia
+de los Servicios de Educación Superior Universitaria y Tecnológica (PMESUT)
+
+1. BUENAS PRÁCTICAS NACIONALES
+1.1 Revisión y análisis de documentos de gestión
+1.1.1 Pontificia Universidad Católica del Perú (PUCP)
+1.1.2 Universidad Nacional Mayor de San Marcos
+1.1.3 Universidad Nacional del Altiplano
+1.1.4 Universidad Nacional de Ingeniería
+1.1.5 Universidad Autónoma del Perú
+1.1.6 Universidad Nacional de Piura
+1.1.7 Universidad Nacional Hermilio Valdizán
+1.1.8 Universidad Nacional de Ucayali
+1.1.9 Universidad Nacional de Moquegua
+1.1.10 Universidad Nacional Intercultural Fabiola Salazar
+Leguía de Bagua
+1.2 Cuestionarios a universidades
+1.3 A manera de balance de buenas prácticas institucionales
+2. SISTEMATIZACIÓN DE PRÁCTICAS INTERNACIONALES
+2.1	 Medidas para la igualdad
+2.1.1 Políticas de género a nivel institucional
+2.1.2 Desde la sociedad civil global
+2.1.3 Desde espacios multilaterales
+2.2 Fomento para el ingreso en paridad
+2.2.1 Desde la política pública
+2.2.2 Desde el ámbito universitario
+2.3 Lucha contra la violencia de género
+2.3.1 Argentina y la educación sexual integral en el sistema 
+educativo
+2.3.2 Argentina: La ley Micaela o cómo prevenir la violencia
+de género en las universidades
+2.3.3 Chile y la lucha contra la discriminación de Género
+(Ley 21.369)
+Hallazgos
+REFERENCIAS BIBLIOGRÁFICAS
+4
+6
+7
+11
+13
+14
+15
+16
+17
+18
+18
+20
+21
+25
+28
+29
+30
+32
+33
+35
+37
+38
+39
+40
+40
+41
+42
+47
+Índice
+
+Buenas prácticas nacionales
+1
+
+Brechas de género en la educación superior universitaria en el Perú  |  5
+Buenas prácticas nacionales
+1
+E 
+sta sección incluye la revisión y el análisis de la gestión institucional 
+y pedagógica de las diez universidades seleccionadas. A partir de 
+una revisión documentaria de fuentes secundarias, entrevistas y 
+grupos focales a los diversos actores, se obtuvieron medios de verificación 
+sobre instrumentos de gestión institucional y pedagógica. Entre los 
+documentos que se revisaron se encuentran proyectos educativos insti­
+tucionales, curriculares y de trabajo. Asimismo, otros documentos que 
+hagan sus veces, así como acciones evidenciadas en redes sociales y en las 
+páginas oficiales de las universidades que puedan complementar a modo 
+de acciones y actividades.
+A modo de síntesis, en las entrevistas y grupos focales se destacaron 
+algunas buenas prácticas en planeamiento, en proceso de implementa-
+ción y otras ya implementadas, que evidenciaron, en primer lugar, la 
+promoción de la accesibilidad de género en la gestión académica uni-
+versitaria y la adecuación de mecanismos para eliminar barreras que 
+dificultan el Acceso, la Permanencia y el Egreso de las mujeres en la edu-
+cación superior. Específicamente, se destaca la importancia de abordar 
+la economía del cuidado, ya que ellas, a menudo, asumen responsabi-
+lidades desproporcionadas en el hogar, lo que afecta su rendimiento 
+académico y oportunidades educativas. Para enfrentar esto, se sugiere 
+que las universidades implementen políticas que faciliten el acceso a 
+recursos como becas, apoyo comunitario y servicios de cuidado infantil. 
+De esta manera, se estará promoviendo una mayor equidad de género. 
+Además, la integración de una educación que rompa con los imaginarios 
+de género y la creación de protocolos para la prevención y sanción del 
+hostigamiento sexual y sexista, dentro de las instituciones educativas, 
+son esenciales para fomentar un ambiente de igualdad y seguridad para 
+todos los estudiantes. En este punto, en particular, se evidenció que solo 
+una de las universidades cuenta con servicios de guardería, cuna y lacta-
+rio. Sin embargo, todas las universidades cuentan con mecanismos para 
+contrarrestar el hostigamiento sexual.
+En segundo lugar, se busca la eliminación de las barreras de acceso 
+y permanencia para las mujeres, especialmente en áreas como las 
+
+Brechas de género en la educación superior universitaria en el Perú  |  6
+carreras STEM, donde están subrepresentadas. Un ejemplo relevante 
+es la implementación de mecanismos que promuevan la igualdad de 
+oportunidades, desde una perspectiva de género, como becas específicas 
+para mujeres en carreras de ciencias y tecnología, la creación de entor-
+nos educativos seguros para prevenir el acoso sexual y la capacitación de 
+docentes en temas de género. Además, las instituciones deben promover 
+políticas que faciliten la conciliación entre estudios y responsabilidades 
+familiares, como la provisión de servicios de cuidado infantil. Ello per-
+mitirá que las mujeres con hijos puedan continuar sus estudios. Sobre 
+este punto, todas las universidades cuentan con mecanismos para preve-
+nir y sancionar el acoso sexual, así como acciones de sensibilización. Sin 
+embargo, solo tres universidades, específicamente, realizan acciones para 
+fomentar de la participación de mujeres en carreras STEM.
+En tercer lugar, se enfatiza que la formación sobre hostigamiento 
+sexual es una de las áreas donde se han implementado capacitaciones con 
+una aceptación significativa entre los estudiantes. La tabla 21 (p. 61 del 
+primer fascículo), en análisis de datos, respecto de si escolares de quinto 
+de secundaria han recibido charlas sobre hostigamiento por género, 
+muestra que un 80 % de los hombres y un 71,16 % de las mujeres 
+las han tenido. Ello evidencia que existe un conocimiento previo desde 
+la escuela que, luego, en la universidad podría potenciarse. Aunque la 
+diferencia de género es notable, esta práctica se menciona como esencial 
+para abordar y prevenir la violencia sexual en el entorno educativo, lo 
+cual es un paso importante hacia la igualdad de género y la creación de 
+entornos educativos más seguros. En el recojo de fuentes secundarias, 
+todas las universidades de la muestra evidencian tener acciones rela-
+cionadas a capacitación sobre género. En esa misma línea, las fuentes 
+primarias destacan, en general, que es crucial que las instituciones edu-
+cativas refuercen este tipo de capacitaciones para cerrar las brechas de 
+género y asegurar que todas las personas, independientemente de su sexo 
+o identidad, comprendan la importancia de prevenir el acoso, y fomen-
+tar el respeto mutuo dentro de la comunidad universitaria.
+1.1 Revisión y análisis de documentos de 
+gestión
+Seguidamente, se presenta la revisión y análisis de la gestión institucio-
+nal y pedagógica de las diez universidades seleccionadas, a partir de una 
+revisión documentaria de fuentes secundarias. 
+Además, las 
+instituciones deben 
+promover políticas 
+que faciliten la 
+conciliación 
+entre estudios y 
+responsabilidades 
+familiares, como 
+la provisión de 
+servicios de cuidado 
+infantil. Ello per­mitirá 
+que las mujeres 
+con hijos puedan 
+continuar sus 
+estudios.
+
+Brechas de género en la educación superior universitaria en el Perú  |  7
+1.1.1 Pontificia Universidad Católica del Perú (PUCP)
+•	 Política de Igualdad de Género para la Docencia, aprobada con 
+Resolución de Consejo Universitario N° 119/2015:1 promueve la 
+igualdad entre varones y mujeres en las distintas áreas estratégicas 
+de la universidad, con especial énfasis en la formación, investigación 
+y gestión. Ello aterriza en: 1. Ingreso, promoción y participación en 
+comisiones académicas (consideraciones para mujeres y madres); 2. 
+Equilibrio en la composición por sexo del profesorado (departamen-
+tos académicos con al menos 20 % de mujeres); 3. Conciliación entre 
+el rol de cuidado y el trabajo académico (atención a las necesidades 
+vinculadas a la maternidad y al rol de cuidado: lactario, guardería para 
+estudiantes y docentes, cambiadores en baños de mujeres y hombres); 
+4. Actividades curriculares y extracurriculares: a. Mallas curriculares 
+con cursos y tópicos en los que se traten explícitamente los temas 
+de igualdad de género; b. Paridad estudiantil: promoción de una 
+mayor presencia de mujeres en carreras masculinizadas y viceversa. 
+En este sentido, se diseñará con la Oficina Central de Admisión una 
+estrategia para atraer a un mayor número de postulantes mujeres a 
+carreras masculinizadas (estrategia conocida como Girl’s Day) y, por 
+el contrario,  atraer a mayor número de postulantes varones a carre-
+ras feminizadas; c. Desarrollo de actividades de sensibilización sobre 
+la importancia de la igualdad y la no discriminación por razones de 
+género al menos dos veces al año.
+•	 Oficina para la Igualdad de Género y Diversidad (OIGD) (2022):2 
+tiene como misión articular, facilitar e impulsar el fortalecimiento de 
+la igualdad de género y el reconocimiento de la diversidad en benefi-
+cio de la comunidad PUCP (alumnado, personal docente y personal 
+administrativo). Para ello, trabaja en el diseño, la implementación y la 
+evaluación de políticas institucionales con enfoque de género y reco-
+noce la diversidad de todas las personas que integran la comunidad 
+PUCP. Dentro de sus objetivos estratégicos tiene los siguientes: 1. 
+Crear y gestionar el Observatorio de Género; 2. Coordinar, articular 
+y brindar asistencia técnica a las unidades para el fortalecimiento del 
+ámbito de prevención de la violencia basada en el género; 3. Brindar 
+asistencia técnica a los contenidos en materia de género, de manera 
+transversal a todas las unidades de la institución, desde el ámbito de la 
+prevención; 4. Asegurar la asistencia técnica y el fortalecimiento del 
+ámbito de atención, mediante el trabajo coordinado con la Secretaría 
+1	 https://investigacion.pucp.edu.pe/grupos/genero/wp-content/uploads/
+sites/119/2016/03/DARS-politicas-igualdad-genero-docencia.pdf
+2	 https://vicerrectorado.academico.pucp.edu.pe/unidades/oficina-de-igualdad-genero-y-
+diversidad-oigd
+https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F3MdgSQA&h= 
+AT2yHX9SvX0BZWPHgjJdYoaosAUsLKfKj2n1iKDt APbGSLnVuVQSLlxfKj1CY 
+n61JgjrwoGqgKXiMECXraIONJlZHXJM-6zMjh5SMtpy4KR5asBGGmVyXaTfMy 
+ZIlIStktDO1Xw&s=1
+
+Brechas de género en la educación superior universitaria en el Perú  |  8
+de Instrucción, con la DAES y con la Dirección de Gestión del 
+Talento Humano (DGTH) para los casos de hostigamiento sexual y 
+de violencia basada en género que afecte a los integrantes de la comu-
+nidad PUCP; entre otros.3
+•	 Plan Institucional de Género PUCP 2024-2028:4 tiene por obje-
+tivo contar con una comunidad consciente, inclusiva, respetuosa y 
+comprometida con la igualdad de género en la cual hay tolerancia 
+cero frente al hostigamiento sexual y a la violencia basada en género. 
+Asimismo, se busca que ello evidencie resultados concretos en el cierre 
+de brechas de género, en la valoración de la diversidad de las perso-
+nas y la no discriminación. En ese marco, destaca que las brechas 
+de género en la educación superior vienen siendo una preocupación 
+constante, ya que comprenden diversos retos, tales como la mayor 
+incorporación de las mujeres en la carrera docente, su participación 
+como autoridades, la integración del enfoque de género en las mallas 
+curriculares, las brechas de género entre estudiantes de ciencias y 
+letras, la violencia basada en el género, entre otros muchos temas. 
+Este Plan abarca 5 áreas estratégicas: 1. Sensibilización e incorpora-
+ción del enfoque de género y del enfoque interseccional, 2. Fomento 
+de la participación de mujeres en diversos ámbitos, 3. Conciliación de 
+vida familiar, personal y laboral, 4. Hostigamiento sexual y violencia 
+basada en género y, 5. Reconocimiento de la diversidad. A partir de 
+dichas áreas estratégicas, el Plan cuenta con 4 objetivos principales: 
+1. Incrementar el nivel de conciencia y compromiso con la igualdad 
+de género y el respeto a la diversidad en la comunidad PUCP (autori-
+dades, directivas/os, docentes, estudiantes, personal administrativo), 
+2. Lograr que las facultades incorporen progresivamente el enfoque 
+de género en su experiencia de enseñanza-aprendizaje, 3. Contribuir 
+a que la comunidad PUCP (docentes, estudiantes, personal admi-
+nistrativo y otros) se desenvuelva en un ambiente seguro y libre de 
+discriminación de género considerando la diversidad de las personas 
+(tolerancia cero), y 4. Promover el bienestar y la participación iguali-
+taria de mujeres y varones en todos los niveles de la vida universitaria.
+•	 Comité Directivo del Plan Institucional de Género:5 tiene como 
+meta implementar las estrategias para lograr los objetivos referidos a 
+la igualdad de género en la PUCP. Estas estrategias son: incrementar 
+el nivel de conciencia y compromiso con la igualdad de género, así 
+como el respeto a la diversidad en la comunidad PUCP; lograr que 
+las facultades incorporen progresivamente el enfoque de género en su 
+3	 https://www.facebook.com/share/p/yR3qVPbQJfxyxXpr/
+4	 https://cdn.prod.website-files.com/64c90f45f4631e9b0ab83a31/6682ec9b5b38a1 
+edf67a70e7_Plan%20Institucional%20de%20Género%20PUCP%202024-2028%20
+-%20Web.pdf
+5	 https://puntoedu.pucp.edu.pe/institucional/la-pucp-instala-comite-directivo-del-plan-
+-institucional-de-genero/
+
+Brechas de género en la educación superior universitaria en el Perú  |  9
+experiencia de enseñanza-aprendizaje; contribuir a que la comunidad 
+PUCP se desenvuelva en un ambiente seguro y libre de discriminación 
+de género, considerando la diversidad de las personas; y promover el 
+bienestar y la participación igualitaria de mujeres y varones en todos 
+los niveles de la vida universitaria. El comité tiene como responsabi-
+lidad no solo compartir las iniciativas estratégicas que se prioricen, 
+sino también hacer seguimiento a su implementación en cada una 
+de las áreas que representan, así como, también, compartir los avan-
+ces, desafíos y oportunidades que se vayan obteniendo de manera 
+específica.
+•	 Política para el Respeto de la Identidad de Género en la PUCP, apro-
+bada por Consejo Universitario (2017), propone: 1. Sensibilización 
+de la comunidad universitaria, incluido el cuerpo estudiantil, docen-
+tes, personal administrativo y personal de tercerización; 2. Acceso 
+e idoneidad de los servicios, desde servicios higiénicos y camerinos 
+hasta sensibilización al personal de deportes y salud; 3. Respuesta, 
+dentro de los reglamentos disciplinarios, ante situaciones de discrimi-
+nación entre estudiantes, docentes y personal no docente que trabaja 
+en la PUCP; y 4. Promoción de una formación curricular que incluya 
+un adecuado enfoque sobre la diversidad sexual.
+•	 Lineamientos para incorporar el enfoque de género en la forma-
+ción académica del pregrado, aprobado por el Consejo Universitario 
+en la sesión del 1 de marzo del 2023, según la Transcripción 
+No. 244/2023.6 Tiene por objetivo facilitar la incorporación del enfo-
+que de género, desde una perspectiva interseccional, en la formación 
+académica del pregrado para disminuir las desigualdades en nuestra 
+sociedad, comprender su importancia en la formación profesional 
+universitaria y fomentar el reconocimiento de la diversidad en nues-
+tra comunidad. Se aplica a todas las áreas de pregrado.
+•	 Cátedra UNESCO de Igualdad de Género en Instituciones de 
+Educación Superior7 para promover el desarrollo de capacidades en 
+las IES, a través de la creación de redes e intercambio de conoci-
+mientos. Dicha Cátedra busca promover la equidad en la formación 
+académica y el ejercicio laboral de las docentes, a través de la inves-
+tigación y la sensibilización de la población universitaria sobre las 
+desigualdades que enfrentan las mujeres.8
+6	 https://drive.google.com/file/d/15PRVOjRyUpDHnxGqiMtjWj9PQxXWGgmt/view
+7	 https://catedra.pucp.edu.pe/unesco/quienes-somos/presentacion/
+8	 https://www.facebook.com/share/p/rgnm7FeZk8Ctbtc3/
+https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F3PrYzYJ&h=AT0Hi 
+PBK-aorSkljwmg1Qc6FRT6cLYB10eH9GVLTtuvYjQSM9K35Uu4X4wSmwia 
+2Cg4fia7BR751gQOyCw9AIPxqTcIAXd 2_nTD-iK7n_P1pKyEM96hH8XJuZuPQ 
+bK_s2F6LJ_M&s=1
+
+Brechas de género en la educación superior universitaria en el Perú  |  10
+•	 Dos grupos de investigación en género conformado por investiga-
+dores e investigadoras de diversas áreas de conocimiento, reconocidos 
+por el Vicerrectorado de Investigación: Grupo de Investigación 
+Derecho, Género y Sexualidad - DEGESE9 y Grupo de Investigación 
+en Estudios de Género.10
+•	 Normas relativas a la inclusión del nombre social, aprobadas por 
+Consejo Universitario (2018):11 tienen como objetivo lograr una 
+correcta identificación de las personas trans y de género no binario 
+en la comunidad universitaria. Busca regular el procedimiento para 
+la inclusión del nombre social de los alumnos ordinarios transgé-
+nero. El nombre social será usado en las listas de asistencia, en las 
+comunicaciones internas y en las ceremonias de entrega de premios 
+y reconocimientos, así como en todos los ámbitos y servicios de la 
+universidad, con excepción de aquellos en los que, por ley, se tenga 
+que consignar el nombre legal del DNI, tales como las constancias de 
+notas o el título universitario.
+•	 Comisión disciplinaria para actos de hostigamiento sexual:12 es 
+el órgano de resolución de primera instancia del procedimiento dis-
+ciplinario para casos de hostigamiento sexual. Asimismo, decide, a 
+través de una resolución, si sanciona a la persona denunciada o la no 
+existencia de la falta, con el consecuente archivo del procedimiento 
+disciplinario.
+•	 Sala cuna:13 dirigida a niños y niñas de hasta tres años, hijos de colabo-
+radores administrativos, docentes y alumnos. Ofrece varios beneficios 
+para la comunidad académica. Al proporcionar servicios de cuidado 
+infantil en el campus, se pueden abordar diversas necesidades y faci-
+litar la vida de aquellos que tienen responsabilidades parentales. Aquí 
+hay algunas ventajas y beneficios de contar con una guardería en una 
+universidad: 1. Facilita la conciliación laboral y familiar, 2. Sirve de 
+apoyo a estudiantes padres y madres, 3. Fomenta la diversidad e inclu-
+sión, 4. Mejora el rendimiento académico y laboral, 5. Promueve el 
+9	 https://investigacion.pucp.edu.pe/grupo-investigacion/grupo-de-investigacion-
+derecho-genero-y-sexualidad/
+10 	https://investigacion.pucp.edu.pe/grupos/genero/
+https://www.facebook.com/share/p/HHXtFSRtrwddY5pg/
+11	 https://estudiante.pucp.edu.pe/wp-content/uploads/2018/03/2018002Normas 
+RelativasALaInclusionDelNombreSocial.pdf
+12	 https://regimendisciplinario.pucp.edu.pe/autoridad/comision-disciplinaria-para-ac-
+tos-de-hostigamiento-sexual
+https://www.facebook.com/share/p/sBgB9oqkyB3JEG3Y/
+https://www.facebook.com/share/v/3W9s4FQ8cB4pz51n/
+https://www.facebook.com/share/p/x8HEtmpidXTkxJe6/
+https://www.facebook.com/share/p/Q4pdJBnX9eLJ5XkC/
+13	https://profesorado.pucp.edu.pe/beneficios/sala-lactario-pucp/
+
+Brechas de género en la educación superior universitaria en el Perú  |  11
+bienestar familiar, 6. Fomenta la retención de estudiantes y talento 
+académico; y 7. Fortalece la comunidad universitaria.
+•	 Modelo educativo PUCP:14 señala que uno de sus ejes transversales 
+es la inclusión, equidad y reconocimiento de la diversidad. Asimismo, 
+propone que se tiene como principio la promoción de la equidad 
+de género (igualdad de oportunidades para profesoras y profesores 
+en la docencia, investigación y participación en la gobernanza de la 
+Universidad), así como la no discriminación.
+1.1.2 Universidad Nacional Mayor de San Marcos
+•	 Reglamento de Prevención y Sanción del Hostigamiento Sexual, 
+aprobado con Resolución Rectoral 003706-2023-R/UNMSM:15 
+comprende a la comunidad sanmarquina, constituida por docentes 
+ordinarios y extraordinarios, estudiantes, graduados, y trabajadores 
+no docentes, así como la Comisión de Proceso Disciplinario para 
+Docentes, Comisión Disciplinaria para Estudiantes de la UNMSM, 
+y autoridades, regulados bajo el ámbito de la Ley N.º 30220. Además, 
+se aplica a egresados, graduados y exestudiantes que cometieron la 
+falta durante su estadía en la universidad. Incluye organizar una 
+capacitación anual especializada para las personas integrantes de los 
+órganos competentes de la investigación y sanción del hostigamiento 
+sexual con el objeto de informar sobre el correcto tratamiento de las 
+víctimas, el desarrollo del procedimiento, así como la aplicación de 
+los enfoques de género y derechos humanos. Para ser secretario/a de 
+instrucción se debe tener la profesión de abogado/a y debe ser desig-
+nado/a mediante resolución del titular de la entidad, por el plazo 
+mínimo de un año, que puede prorrogarse por un año más. Asimismo, 
+debe cumplir con los siguientes requisitos, al igual que los integrantes 
+de la Comisión Disciplinaria para Actos de Hostigamiento Sexual y 
+los integrantes del Tribunal Disciplinario: 1. Tener conocimiento en 
+derecho administrativo sancionador o disciplinario, derecho laboral 
+disciplinario y/o derechos humanos, con formación en género y 2. No 
+registrar antecedentes policiales, penales ni judiciales, y no haber sido 
+sentenciado y/o denunciado por violencia contra las mujeres y los 
+integrantes del grupo familiar.
+•	 Grupos de investigación en materia de género: se cuenta con dos 
+grupos en este aspecto: 1. Psicología Clínica y de la Salud con Estudios 
+de Genero,16 que se encuentra conformado por docentes y estudiantes 
+que investigan sobre temáticas de violencia de género, problemas de 
+14	 https://s3.amazonaws.com/files.pucp.edu.pe/homepucp/uploads/2016/08/02171957/
+Modelo-Educativo-2023-web- 2.pdf
+15	 https://viceacademico.unmsm.edu.pe/wp-content/uploads/2023/03/003706-2023-R-
+Reglamento-de-Prevenci%C3%B3n-y-Sanci%C3%B3n-del-Hostigamiento-Sexual_
+UNMSM.pdf
+16	 https://vrip.unmsm.edu.pe/psicogen/
+
+Brechas de género en la educación superior universitaria en el Perú  |  12
+salud mental y de estilos de vida saludable en poblaciones de mujeres 
+con y sin problemas de violencia en la relación de pareja, adolescen-
+tes, escolares y estudiantes universitarios. Sus estudios han llamado la 
+atención y han permitido la intervención en salud mental. También 
+han contribuido en la elaboración de protocolos de intervención a 
+situaciones de violencia de género y han propuesto el uso de instru-
+mentos psicológicos validados y adaptados a profesionales de la salud 
+de establecimientos del Ministerio de Salud. 2. Feminidades: Estudios 
+Interdisciplinarios e Interculturales de Género17, que realiza investi-
+gaciones que tengan como punto de partida las distintas disciplinas 
+humanísticas, en un diálogo con la historia, las ciencias sociales, los 
+estudios culturales y de género. Además, asume un rol proactivo en 
+la construcción de una autoestima e identidad de género, frente a 
+cualquier forma de marginación y violencia, planteando la necesidad 
+de empoderar y fortalecer a las mujeres a partir de prácticas artísticas, 
+estudios especializados, actividades críticas y reflexivas de sororidad, 
+y un trabajo de recuperación de la memoria y el papel de la mujer en 
+los distintos campos del saber y el hacer de la comunidad.
+•	 Proyecto multidisciplinario estudiantil: TRINI:18 «que tiene como 
+objetivo principal promover una cultura de tolerancia cero contra la 
+violencia de género, mediante la promoción de la cultura y el poten-
+cial de los espacios virtuales». El proyecto consta de dos frentes: 1. La 
+implementación de espacios culturales que empoderen a la comuni-
+dad universitaria y formen redes de apoyo entre los participantes y, 2. 
+Desarrollo de una web app con alcance y conectividad, ya que tiene 
+como objetivo la difusión de información pertinente y el reporte 
+inmediato de casos de violencia de género.
+•	 Resolución Rectoral N° 011477-2023-R/UNMSM que aprueba la 
+Directiva N° 003-2022-RTSM-Directiva para el Uso del Servicio 
+de Correo Electrónico Institucional:19 permite que «los estudian-
+tes que requieran un correo institucional distinto al formato regular 
+establecido en el artículo 5 numeral 3, podrán requerir modificar el 
+nombre de cuenta que figura en los registros del SUM o del DNI. En 
+ese marco, los y las estudiantes tienen la posibilidad de personalizar 
+sus correos institucionales con sus nombres sociales».
+•	 Plan Operativo Institucional Multianual 2025-2027,20 aprobado 
+con Resolución Rectoral N° 007538-2024-R/UNMSM: cuenta 
+17	 https://vrip.unmsm.edu.pe/femeigen/
+18	 https://psicologia.unmsm.edu.pe/index.php/47-noticias/noticias-academicas/1129-
+eval-copsi-2020-i-2 https://proyectotrini.unmsm.edu.pe/#/trini
+19	 https://viceacademico.unmsm.edu.pe/wp-content/uploads/2023/11/011477-2023-R-
+Directiva_Uso_Correo_Electrónico_Institucional_UNMSM.pdf
+20	 https://occaa.unmsm.edu.pe/occaa/storage/uploads/files/0OhPxEa1Cn-
+Resoluciones%20Rectorales%20007538%20y%20009112-2024%20-%20POI%20
+MULTIANUAL%202025-2027.pdf
+El proyecto 
+multidisciplinario 
+estudiantil: TRINI 
+«que tiene como 
+objetivo principal 
+promover una cultura 
+de tolerancia cero 
+contra la violencia 
+de género, mediante 
+la promoción de la 
+cultura y el potencial 
+de los espacios 
+virtuales».
+
+Brechas de género en la educación superior universitaria en el Perú  |  13
+con la actividad operativa de «Difusión del reglamento de prevención 
+y sanción del hostigamiento sexual y reglamento de defensoría uni-
+versitaria UNMSM», con prioridad «muy alta».
+1.1.3 Universidad Nacional del Altiplano
+•	 Reglamento para la Prevención e Intervención en Casos de 
+Hostigamiento Sexual en la Comunidad Universitaria, aprobado 
+con Resolución Rectoral 1471-2020-R-UNA:21 señala que realiza 
+anualmente encuestas anónimas virtuales sobre la incidencia del hos-
+tigamiento sexual, así como de otras formas de violencia de género 
+y desigualdades o discriminaciones de género y riesgos de que estas 
+sucedan, cuyos resultados se informarán anualmente al Consejo 
+Universitario. Además, diseña y planifica programas de formación y 
+capacitación a través de charlas, talleres u otros sobre prevención de 
+cualquier tipo de violencia de género, incluyendo el hostigamiento 
+sexual. También realiza eventos, charlas y/o talleres adicionales de 
+sensibilización en materia de prevención del hostigamiento sexual y 
+toda forma de violencia de género, así como para la promoción de 
+una cultura de igualdad de derechos entre hombres y mujeres, para 
+la comunidad universitaria.22 Asimismo, ejecuta campañas periódi-
+cas de difusión informativa respecto a las situaciones que constituyen 
+hostigamiento sexual, para crear conciencia y desnaturalizar este tipo 
+de violencia de género.23 Dentro de los requisitos para formar parte 
+del Comité de intervención frente al hostigamiento sexual (CIFHS), 
+se incluye la necesidad de contar con formación, capacitación y/o 
+experiencia en género, derechos humanos, violencia de género y/o 
+hostigamiento sexual.
+•	 Plan Operativo Institucional 2023, aprobado con Resolución 
+Rectoral 0231-2023-R-UNA:24 En el marco de sus Lineamientos de 
+Política Institucional, busca fortalecer la igualdad de género, acciones 
+en contra la violencia, discriminación y lucha contra la corrupción. 
+Asimismo, señala que se rige por el principio de equidad de género.
+21	 https://transparencia.unap.edu.pe/web/wp-content/uploads/2020/12/Reglamento-de-
+Hostigamiento-Sexual-UNA-PUNO.pdf
+22	https://www.facebook.com/share/p/BZGkVNVPyFmrtLEy/
+https://www.facebook.com/share/v/DZ7YwGHWyjAvBe9p/
+https://www.facebook.com/share/p/JoeRNp7mqaN3Qruf/
+https://www.facebook.com/share/p/4ZHbZjsHfj5eou9q/
+https://www.facebook.com/share/p/4VJ7xaxcycRe99cm/
+https://www.facebook.com/share/p/Gdhj7tRg5Np2jmKh/
+https://www.facebook.com/share/p/LdgZKDtWhX68B1ej/
+23	 https://www.facebook.com/share/v/QT8EK521yVdCDmNV/
+https://www.facebook.com/share/p/MuLFnoi2BDnhiqis/
+https://www.facebook.com/share/p/PJn1bV1ko6u3EGmM/
+https://www.facebook.com/share/p/kmQmfC2Q3tQXNZtR/
+24	 https://cdn.www.gob.pe/uploads/document/file/4132070/POI%202023%20
+UNA%20PUNO.pdf.pdf
+
+Brechas de género en la educación superior universitaria en el Perú  |  14
+•	 Plan Operativo Institucional Multianual 2022-2024, aprobado 
+con Resolución Rectoral 1481- 2021-R-UNA:25 cuenta con la 
+actividad operativa de «prevención del hostigamiento sexual en la 
+comunidad universitaria, con prioridad muy alta».
+•	 Plan Estratégico Institucional 2024-2030,26 aprobado con Resolu­
+ción Rectoral 1359-2024-R-UNA: señala que uno de sus principios, 
+acorde al Estatuto Universitario, es la equidad de género, así como 
+el pluralismo intercultural e inclusión, con igualdad de derechos y 
+oportunidades.
+1.1.4 Universidad Nacional de Ingeniería
+•	 Reglamento para la Prevención e Intervención en Casos de 
+Hos­tigamiento Sexual, aprobado con Resolución Rectoral 0171-
+2023-UNI:27 señala que los requisitos para formar parte de las 
+autoridades competentes de la investigación y sanción del hostiga-
+miento sexual (Secretaría de Instrucción, Comisión Disciplinaria 
+para Actos de Hostigamiento Sexual, Tribunal Disciplinario) son: 1. 
+Tener conocimiento en derecho administrativo sancionador o dis-
+ciplinario, derecho laboral disciplinario y/o derechos humanos, con 
+formación en género y 2. No registrar antecedentes policiales, penales 
+y judiciales, y no haber sido sentenciado y/o denunciado por violen-
+cia contra las mujeres y los integrantes del grupo familiar.
+•	 Charla: Hostigamiento y Acoso Sexual Universitario (2023)28
+•	 Plan Estratégico Institucional 2020-2025, ampliado,29 aprobado 
+con Resolución Rectoral N° 1201-2022-UNI: señala que uno de 
+sus principios, acorde al Estatuto Universitario, es el rechazo a toda 
+forma de violencia, intolerancia y discriminación.
+25	 https://transparencia.unap.edu.pe/documentos/POI%20MULTIANUAL%202022-
+2024%20UNA%20PUNO%20F.pdf
+26	 https://transparencia.unap.edu.pe/web/wp-content/uploads/2024/06/PEI.-2024-
+2030-UNA-PUNO.pdf
+27	 https://cdn.www.gob.pe/uploads/document/file/5614855/4979086-resolucion-
+rectoral-nro-0171-2023-uni.pdf?v=1703800441
+28	 https://fim.uni.edu.pe/noticias/institucional/charla-hostigamiento-y-acoso-sexual-
+universitario/
+29	 file:///Users/sharon/Downloads/Plan%20Estrat%C3%A9gico%20UNI%20-%20
+2020-2025.pdf
+
+Brechas de género en la educación superior universitaria en el Perú  |  15
+1.1.5 Universidad Autónoma del Perú
+•	 Reglamento de prevención y sanción del hostigamiento sexual, 
+aprobado con Resolución 004-2022-RECTORADO-UA:30 señala 
+que el Reglamento será de aplicación cuando las manifestaciones de 
+hostigamiento sexual se presenten dentro o fuera de la Universidad, 
+así como a través de medios digitales; siempre que él/ella quejo-
+so/a y él/ella quejado/a pertenezcan a la Comunidad Universitaria 
+de la Universidad Autónoma del Perú. Incluye enfoques de género, 
+interculturalidad, interseccionalidad, derechos humanos, centrado 
+en la víctima, intergeneracional y de discapacidad. La Comisión 
+Disciplinaria para actos de Hostigamiento Sexual es el órgano resolu-
+tivo competente y permanente para pronunciarse en primera instancia 
+sobre las quejas o denuncias relativas a casos de hostigamiento sexual. 
+Está conformada por representantes de la universidad y por, al menos, 
+un representante del alumnado, garantizando la paridad de género. 
+La Comisión Disciplinaria estará integrada por tres miembros, los 
+mismos que deben contar con conocimientos en derecho adminis-
+trativo sancionador o disciplinario, derecho laboral disciplinario y/o 
+derechos humanos. Además, deben contar con formación en género. 
+Asimismo, no deben registrar antecedentes policiales, penales y judi-
+ciales y no haber sido sentenciados y/o denunciados por violencia 
+contra las mujeres y los integrantes del grupo familiar. Son designados 
+por el Directorio, quien nombrará, además, a un suplente por cada 
+integrante.  La Secretaría de Instrucción y el Tribunal Disciplinario, 
+como órganos que intervienen en el proceso, también deben contar 
+con formación en género.
+La Universidad realizará evaluaciones anuales para identificar 
+posibles situaciones de hostigamiento sexual o riesgos de que estas 
+sucedan, dentro de su ámbito de intervención. Estas evaluaciones 
+pueden estar incluidas en los marcos más amplios de evaluación del 
+clima laboral, educativo, o de cualquier otra índole. Los cuestionarios 
+o cualquier otra herramienta de evaluación deben incluir preguntas o 
+mecanismos destinados a levantar información que permita identifi-
+car acciones de mejora para la prevención del hostigamiento sexual. 
+Asimismo, para prevenir el hostigamiento sexual, la Universidad 
+brindará: 1. Una capacitación en materia de hostigamiento sexual al 
+inicio de la relación laboral o educativa, contractual u otra relación 
+de autoridad o dependencia; 2. Una capacitación anual especializada 
+para el área de Gestión del Talento Humano y los demás involucrados 
+en la investigación y sanción del hostigamiento sexual; 3. A través 
+de su página web, difundirá periódicamente la información que per-
+mita identificar las conductas que constituyan actos de hostigamiento 
+sexual y las sanciones aplicables; 4. Charlas o talleres informativos 
+30	 https://www.autonoma.pe/wp-content/uploads/2023/07/REGLAMENTO-DE-
+PREVENCION-Y-SANCION-DEL-HOSTIGAMIENTO-SEXUAL-ACTU_
+compressed.pdf
+La Comisión 
+Disciplinaria 
+para actos de 
+hostigamiento 
+sexual es el 
+órgano resolutivo 
+competente y 
+permanente para 
+pronunciarse en 
+primera instancia 
+sobre las quejas 
+o denuncias 
+relativas a casos 
+de hostigamiento 
+sexual. 
+
+Brechas de género en la educación superior universitaria en el Perú  |  16
+para la sensibilización de la comunidad universitaria en materia de 
+prevención del hostigamiento sexual.
+•	 Reglamento de disciplina para estudiantes de la universidad 
+autónoma del Perú, modificado mediante Resolución N°044-2021-
+CUA-UA:31 regula hostigamiento sexual y refiere al reglamento sobre 
+la materia.
+•	 Convenio Marco de Colaboración con la Real Academia de 
+Ingeniería para impulsar la formación de mujeres profesionales en el 
+ámbito de la ingeniería.32
+•	 Actividades y publicaciones de conmemoración por el Día Inter­
+nacional de la Eliminación de la Violencia Contra la Mujer.33
+•	 Publicación por el mes del orgullo LGBTI.34
+•	 Publicación por el Día Internacional de la Mujer y la Niña en la 
+Ciencia.35
+•	 Publicación por el Día Internacional de la Mujer en la Ingeniería.36
+1.1.6 Universidad Nacional de Piura
+•	 Reglamento para la Prevención, Intervención y Sanción en Casos 
+de Hostigamiento Sexual en la Universidad Nacional de Piura, 
+aprobado con Resolución N° 003-CU-2019:37 señala que, a través de 
+la Defensoría Universitaria, realizará las siguientes acciones de pre-
+vención del hostigamiento sexual en la comunidad universitaria: 1. 
+Campañas periódicas de difusión informativa a través del portal ins-
+titucional, redes sociales y otros canales digitales, pudiendo también 
+31	 https://www.autonoma.pe/wp-content/uploads/2023/07/REGLAMENTO-DE-
+DISCIPLINA-PARA-ESTUDIANTES-DE-PREGRADO.pdf
+32	 https://www.autonoma.pe/noticias/la-universidad-autonoma-del-peru-y-la-real-
+academia-de-ingenieria-rai-firman-convenio-para-impulsar-la-presencia-de-mujeres-
+en-la-ingenieria/
+https://www.facebook.com/share/p/KpUqsLUFoCca8ztF/
+33	 https://www.facebook.com/share/p/mpCvGTLu8Rub8Djg/
+https://www.facebook.com/share/p/6B24THYEWmsd98uP/
+https://www.facebook.com/share/p/uPawYmnAzao8iESZ/
+https://www.autonoma.pe/noticias/rompiendo-codigos-y-construyendo-suenos-muje-
+res-en-ingenieria-que-dejan-su-huella-en-el-mundo/
+34	 https://www.facebook.com/share/85KD5rwnjtF795FL/
+https://www.facebook.com/share/WNePHCvcMFUisTvK/
+https://www.facebook.com/share/XGxCyP1MAfqASnTV/
+35	 https://www.facebook.com/share/p/Qpm5Vsi6paB5X4Hn/
+36	 https://www.facebook.com/share/p/j8MtW78Ebjz8eevo/
+37	 https://www.unp.edu.pe/transparenciaunp/down/reglamentoprevintervysancion 
+hostisex.pdf
+
+Brechas de género en la educación superior universitaria en el Perú  |  17
+hacer uso de afiches, volantes, y realizar talleres; 2. Anualmente, y de 
+manera virtual, se realizarán encuestas anónimas sobre la incidencia 
+del hostigamiento sexual y se promoverá la realización de investiga-
+ciones relacionadas a la materia. Para la etapa de investigación, la 
+Defensoría Universitaria podrá apoyarse en un(a) docente y/o un(a) 
+representante estudiantil con conocimientos en materia legal y/o vio-
+lencia de género y un psicólogo, de ser el caso.
+•	 Publicación que señala que el decano de Arquitectura destaca lide-
+razgo y capacidades del género femenino.38
+•	 Desarrollo de la conferencia «Orientaciones para desarrollar experien-
+cias de aprendizaje inclusivas», que organizó la Facultad de Ciencias 
+Sociales y Educación en el marco de las actividades programadas por 
+los 62 años de creación institucional de la Universidad Nacional de 
+Piura.39
+•	 La Dirección de Responsabilidad Social Universitaria realizó el taller 
+«Sensibilización en prevención de la violencia de género».40
+•	 Publicación por el Día Internacional de la Mujer y la Niña en la 
+Ciencia.41
+•	 Publicación de docente de economía en Congreso LASA 2024 sobre 
+la investigación titulada «Empleo y género en la agroexportación en 
+el Perú».42
+•	 Publicación sobre docente investigadora de la Facultad de Ingeniería 
+Industrial que recibió la «Medalla de Oro» por su destacada partici-
+pación en la XVI Exhibición Internacional de Inventos de Mujeres de 
+Corea del Sur «KIWIE» 2023.43
+1.1.7 Universidad Nacional Hermilio Valdizán
+•	 Reglamento de Estudios:44 señala como falta grave a «acosar u hos-
+tigar sexualmente en todas sus formas y a través de cualquier medio 
+(comentarios, actitudes o gestos insinuantes e impropios)».
+38	 https://www.facebook.com/share/p/JomD8AV2j4GuM8a3/
+39	 https://www.facebook.com/share/p/qxwSknG6MjQBzGNB/
+40	 https://www.facebook.com/share/p/rxhtTyk16YsNtRqN/
+41	 https://www.facebook.com/share/p/ikadNG2H4cGBdXut/
+42	 https://www.facebook.com/share/p/qJceczgh5qQpKgsE/
+43	 https://www.facebook.com/share/p/7tYHb5Uz2fUqXdeU/
+44	 https://webs.unheval.edu.pe/public/filemanager/files/VICEACADEMICO/DOCS/
+Resolucion-de-Consejo-Universitario-No-733-2022-UNHEVAL-1-reglamento-de-
+estudios.pdf
+
+Brechas de género en la educación superior universitaria en el Perú  |  18
+•	 Página web de la Defensoría Universitaria para realizar denuncias en 
+materia de hostigamiento sexual.45
+•	 Publicación de la universidad como miembro de la Red de Inves­
+tigación en Diferenciales de Género en Educación Superior 
+Iberoamericana. Señala que se socializó la siguiente investiga-
+ción: «Elección de carrera profesional con perspectiva de género en 
+estudiantes de educación básica, Perú 2018», en el VII Seminario 
+Internacional en Tegucigalpa-Honduras.46
+•	 Publicación por el Día Internacional de la Mujer.47
+1.1.8 Universidad Nacional de Ucayali
+•	 Base de datos de procesos en trámite y procesos resueltos de la 
+Defensoría Universitaria de la Universidad Nacional de Ucayali.48
+•	 V Expo-Feria 2024 sobre «Amor, Sexualidad y Género», por parte de 
+la Escuela Profesional de Psicología de la Facultad de Ciencias de la 
+Salud.49
+•	 Modelo Educativo,50 aprobado con Resolución N° 795-2023-UNU-
+CU-R: señala que desde el punto de vista de los valores sociales y 
+humanos que debe tener la educación para la promoción de la 
+interculturalidad, se compromete con combatir toda forma de discri-
+minación, opresión y dominación; además de seguir la lucha por la 
+igualdad, la justicia social y la equidad de género.
+1.1.9 Universidad Nacional de Moquegua
+•	 Página web de «Prevención e intervención ante el hostigamiento 
+sexual en la Universidad Nacional de Moquegua». Incluye: «¿Cómo 
+reconocer que estás siendo víctima de hostigamiento sexual?» «¿Cómo 
+presentar una denuncia, queja o recibir orientación?». También, 
+proporciona el enlace de la grabación de la charla «Prevención e inter-
+vención ante el hostigamiento sexual»,51 normatividad y documentos 
+de gestión.52
+45	 https://defensoria.unheval.edu.pe/
+46	 https://www.facebook.com/share/p/rrh7rH8UrSZtqHEJ/
+https://www.facebook.com/share/p/C3Dzwjq7VG62X183/
+47	 https://www.facebook.com/share/p/B8zYEig6WuWL2tCL/
+48	 https://www.unu.edu.pe/portal/index.php/casos-resueltos-defensoria/106-noticias
+49	 https://www.facebook.com/share/p/rbknVW4vGL9M2zNd/
+50	 https://www.unu.edu.pe/portal/images/pdf/2024/Anexo-01-Modelo-Educati-
+vo-UNU.pdf
+51	 https://www.facebook.com/share/p/LXRhAtdqt5ycQzqD/
+52	 https://unam.edu.pe/prevencion-contra-hostigamiento-sexual/
+
+Brechas de género en la educación superior universitaria en el Perú  |  19
+•	 Flujograma de atención de denuncias por hostigamiento sexual.53
+•	 Documento titulado «Prevención de actos de hostigamiento sexual 
+en la comunidad universitaria» que da cuenta de la importancia de las 
+acciones de prevención.54
+•	 Modelo para recepción de denuncias.55
+•	 Reglamento para la Prevención e Intervención ante el 
+Hostigamiento Sexual en la Universidad Nacional de Moquegua, 
+aprobado con Resolución de Comisión Organizadora 220-2024- 
+UNAM/CO:56 señala que la Defensoría Universitaria y Bienestar 
+Universitario, realizarán: 1. Campañas periódicas de difusión infor-
+mativa respecto a las situaciones que constituyen hostigamiento 
+sexual; 2. De manera virtual y anónima se realizarán encuestas sobre 
+la incidencia del hostigamiento en la universidad y se promove-
+rán investigaciones en la materia; 3. Se gestionarán capacitaciones 
+y espacios de sensibilización sobre la problemática;57 4. Se brindará 
+información sobre los canales de atención.58 Asimismo, para ocupar 
+la Comisión Disciplinaria para Actos de Hostigamiento Sexual y 
+Secretaría de Instrucción,59 se debe contar con formación en género, 
+así como no registrar antecedentes y no haber sido denunciado por 
+violencia contra las mujeres e integrantes del grupo familiar.
+•	 Directiva para la Prevención e Intervención ante el Hostigamiento 
+Sexual en la Universidad Nacional de Moquegua:60 incluye realizar 
+acciones de prevención contra el hostigamiento sexual en la comuni-
+dad universitaria y procedimientos para la denuncia o queja.
+53	 https://unam.edu.pe/wp-content/uploads/2024/05/Flujograma-atencion-denuncias.
+pdf
+54	 https://unam.edu.pe/wp-content/uploads/2024/05/Folleto-hostigamiento-sexual-
+MINEDU.pdf
+55	 https://unam.edu.pe/wp-content/uploads/2024/05/Modelo-Formato-impreso.pdf
+56	 https://unam.edu.pe/download/resolucion-de-comision-organizadora-n-o-0330-2024-
+unam/?ind=1715725109749&filename=Resolucion-de-C-O-N%C2%B0-330-2024- 
+UNAM.pdf&wpdmdl=79193&refresh=66c651ecc24b21724273132
+57	 https://www.facebook.com/share/p/462DHwAVSobhsZXG/
+https://www.facebook.com/share/p/iC5pFtC2T6oyfqXy/
+https://www.facebook.com/share/p/ki9JSFza5J7dLmbx/
+https://www.facebook.com/share/p/N8DuB8fCXoNB1z8D/
+https://www.facebook.com/share/p/t6rPxhkSsCoh9mGh/
+https://www.facebook.com/share/p/BQd3WeTjdLk7Yfsv/
+58	 https://www.facebook.com/share/p/ut6BnijHBizX3SFN/
+59	 https://unam.edu.pe/download/resolucion-de-comision-organizadora-n-o-0331-2024-
+unam/?ind=1715724157929&filename=Resolucion-de-C-O-N%C2%B0-331-2024- 
+UNAM.pdf&wpdmdl=79190&refresh=66c653eb86b0a1724273643
+60	 https://unam.edu.pe/wp-content/uploads/2021/06/DIRECTIVA-PARA-LA-
+PREVENCION-E-INYERVENCION-ANTE-EL-HOSTIGAMIENTO-SEXUAL-
+EN-LA-UNAM.pdf
+
+Brechas de género en la educación superior universitaria en el Perú  |  20
+•	 Noticia de que la Defensoría Universitaria realiza campaña sobre 
+derechos de los estudiantes y contra el hostigamiento y acoso sexual.61
+•	 Actividad de reconocimiento juvenil por la prevención de la violencia 
+de género.62
+•	 Programa de Voluntariado Colectivo Juvenil contra la Violencia.63
+•	 Plan Operativo Institucional Multianual 2022-2024:64 en el marco 
+de sus principios, destaca el «rechazo a toda forma de violencia, into-
+lerancia y discriminación». Cuenta con las actividades operativas 
+de «atención de casos ordinarios de vulneración a derechos, quejas, 
+consultas y mediaciones interpuestas por estudiantes, docentes uni-
+versitarios y personal administrativo» y «capacitación del personal de 
+la defensoría relacionado a la función defensorial».
+•	 Plan Estratégico Institucional 2024-2028,65 aprobado con 
+Resolución de Comisión Organizadora 230-2024-UNAM/CO: 
+señala que uno de sus principios, acorde al Estatuto Universitario, es 
+el rechazo a toda forma de violencia, intolerancia y discriminación.
+1.1.10 Universidad Nacional Intercultural Fabiola 
+Salazar Leguía de Bagua
+•	 Charlas de prevención y promoción sobre hostigamiento y acoso 
+sexual, dirigidas a toda la comunidad universitaria.66
+•	 Charlas sobre violencia de género.67
+61	 https://unam.edu.pe/defensoria-universitaria-realiza-campana-sobre-derechos-de-los-
+estudiantes-y-contra-el-hostigamiento-y-acoso-sexual/
+62	 https://www.facebook.com/share/p/p5Dk94qrBgnGZsfG/
+63	 https://www.facebook.com/share/p/rT63p1n2EcyiYNim/
+https://www.facebook.com/UnamPeru/videos/2519787631505660/
+64	 https://unam.edu.pe/wp-content/uploads/2021/05/POI-MULTIANUAL-2022-
+2024-OK.pdf
+65	 https://unam.edu.pe/wp-content/uploads/2024/04/PEI-2024-2028-UNAM-RCO-
+230-2024-UNAM.pdf
+66	 https://www.unibagua.edu.pe/enlaces/noticias/311-charlas-hostigamiento-acoso-
+sexual
+https://unibagua.edu.pe/enlaces/noticias/256-prevencion-hostigamiento-sexual
+https://www.unibagua.edu.pe/enlaces/noticias/272-compromiso- 
+hostigamiento-violencia
+https://www.unibagua.edu.pe/enlaces/noticias/315-prevencion-hostigamiento
+https://www.facebook.com/share/p/SdwQpw1ghT5zHtwm/
+https://www.facebook.com/share/p/C47n1BfHoxg9bbWP/
+https://www.facebook.com/share/p/BE1HzwwGKTABeMNV/
+https://www.facebook.com/share/p/DXitr5sFmPTMBR51/
+https://www.facebook.com/share/p/FQKWKbKC2phNrSEu/
+https://www.facebook.com/share/p/xRVNQFXMWzer5xSz/
+67	 https://www.facebook.com/share/p/4BXySbn93dUryrtF/
+
+Brechas de género en la educación superior universitaria en el Perú  |  21
+•	 Conmemoración por el Día Internacional de la Mujer con el desarro-
+llo de un taller de liderazgo y amor propio.68
+•	 Documento titulado «Prevención de actos de hostigamiento sexual 
+en la comunidad universitaria», que da cuenta de la importancia de 
+las acciones de prevención.69
+•	 Plan Operativo Institucional Multianual 2024,70 aprobado con 
+Resolución de Comisión Organizadora 045-2024-UNIFSLB/CO: 
+cuenta con las actividades operativas de «implementación del pro-
+grama de atención preventivo promocional de la salud mental», 
+«implementación y funcionamiento de la unidad del servicio de 
+tópico de bienestar universitario», «campañas de salud», «ejecución 
+de un taller de sensibilización enfoque intercultural dirigido a la 
+comunidad universitaria».
+•	 Plan Estratégico Institucional 2024-2026, ampliado al 2027,71 
+aprobado con Resolución Presidencial 136-2024-UNIFSLB/P: 
+señala que uno de sus principios, acorde al Estatuto Universitario, es 
+el rechazo a toda forma de violencia, intolerancia y discriminación.
+1.2 Cuestionario a universidades
+Adicionalmente, de forma complementaria, para profundizar en el 
+conocimiento respecto de las políticas de género en las universidades, 
+se realizó un sondeo descriptivo a cincuenta y seis universidades, con el 
+objetivo de contestar, de forma declarativa, las siguientes preguntas:
+https://www.facebook.com/share/p/7BVa5vxKTUSVvaee/
+https://www.facebook.com/share/p/Pz34zJgETFScbzNb/
+https://www.facebook.com/share/p/Lpmk29QQsjoPWLuY/
+https://www.facebook.com/share/p/tCeehEwicRucbEy6/
+https://www.facebook.com/share/p/73b4gC4VJVxMoovm/
+68	 https://www.facebook.com/share/p/yYXsnEwFvkcVyU4U/
+https://www.facebook.com/share/p/beUb8PKHDFH3oCsz/
+https://www.facebook.com/share/p/Ubo514xuofDLp7cQ/
+69	 https://www.facebook.com/share/p/H2CYAsD3h4QDvTRg/
+70	 https://unibagua.edu.pe/transparencia/gestion-organizacional/planes/
+poi-anual-2024-modificado.pdf
+71	 file:///Users/sharon/Downloads/RESOLUCI%C3%93N%20PRESIDENCIAL%20
+N%C2%B0136-2024- UNIFSLB-P.pdf
+
+Brechas de género en la educación superior universitaria en el Perú  |  22
+Tabla 1 
+Cuestionario a universidades sobre políticas de género
+Preguntas
+Sí
+No
+¿Cuenta con una política, normativa, plan, instrumento, u otros
+que contribuyan, de manera explícita, a la promoción de la 
+igualdad de género?
+30 (54 %)
+26 (46 %)
+¿Cuenta con un documento de planificación institucional que, de 
+manera explícita, contribuya a la promoción de la igualdad
+de género?
+27 (48 %)
+29 (52 %)
+¿Cuenta con presupuesto destinado a la implementación de 
+políticas institucionales vinculadas a la igualdad de género?
+9 (16 %)
+47 (84 %)
+¿Cuenta con, por lo menos, una instancia, unidad de 
+organización o persona encargada, de manera explícita, de la 
+promoción de la igualdad de género, y que atienda especialmente
+las necesidades de las mujeres en su diversidad?
+26 (46 %)
+30 (54 %)
+¿Cuenta con convenios, alianzas o acuerdos interinstitucionales 
+para la promoción de la igualdad de género?
+24 (43 %)
+32 (57 %)
+¿Cuenta con sistemas de información institucional, que 
+incorporan la variable «sexo» u otras con perspectiva de género/
+interseccional?
+51 (91 %)
+4 (9 %)
+¿Cuenta con políticas de recursos humanos orientadas a 
+promover la igualdad de género y atienda de manera explícita las 
+necesidades de las mujeres docentes y no docentes, como personal 
+de la universidad?
+40 (71 %)
+16 (29 %)
+¿Cuenta con algún tipo de servicio de cuidado disponible para 
+estudiantes y el personal docente y no docente?
+20 (36 %)
+36 (64 %)
+¿Se hace uso de lenguaje inclusivo con perspectiva de género?
+36 (64 %)
+20 (36 %)
+¿Se aplica la perspectiva de género para que el diseño del espacio 
+e infraestructura asegure un uso democrático, equitativo y 
+seguro, atendiendo las diversas características y necesidades de 
+mujeres y hombres?
+39 (70 %)
+17 (30 %)
+¿Cuenta con mecanismos de acceso que atienda, de manera 
+explícita, las características de mujeres y hombres en su 
+diversidad?
+21 (38 %)
+35 (62 %)
+¿Brinda formación con perspectiva de género y atiende de manera 
+específica las necesidades de las mujeres en su
+diversidad?
+34 (61 %)
+22 (39 %)
+
+Brechas de género en la educación superior universitaria en el Perú  |  23
+A partir de la información recopilada, de forma declarativa, se puede 
+señalar que el 54 % de las universidades cuenta con alguna política o 
+normativa para promover la igualdad de género. Asimismo, solo el 48 % 
+tiene documentos explícitos de planificación que fomentan la igualdad 
+de género y solo el 16 % destina presupuesto para la implementación 
+de políticas de igualdad de género, mientras que el 84 % no lo hace. 
+Respecto a las instancias especializadas, el 46 % tiene una unidad o per-
+sona encargada de la igualdad de género y el 43 % tiene acuerdos o 
+alianzas para promover la igualdad de género. Además, respecto de los 
+sistemas de información, el 91 % cuenta con sistemas de información 
+que incluyen variables de género y el 71 % tiene políticas de recursos 
+humanos orientadas a la igualdad de género. Sin embargo, solo el 36 % 
+ofrece servicios de cuidado para estudiantes y personal.
+Respecto del lenguaje inclusivo, el 64 % de las universidades declara 
+que usan lenguaje inclusivo con perspectiva de género y que el 38 % 
+tiene mecanismos que atienden explícitamente las características diver-
+sas de hombres y mujeres. En la misma línea, el 61 % brinda formación 
+con perspectiva de género, pero solo el 41 % promueve la investigación 
+con enfoque de género. En adición el 75 % ofrece servicios de bienestar 
+con enfoque de género y el 70 % aplica una perspectiva de género en el 
+diseño de espacios. Por último, respecto de la prevención de la violencia 
+de género, el 82 % tiene mecanismos para una formación libre de este 
+tipo de violencia, pero solo el 34 % cuenta con mecanismos de vincula-
+ción laboral con esta perspectiva.
+Asimismo, se observa que contar con un «presupuesto destinado a la 
+implementación de políticas institucionales vinculadas a la igualdad de 
+género» resulta ser la categoría más incipiente. Esto permite hipotetizar 
+sobre la relación directamente proporcional entre la falta de presupuesto 
+y falta de mecanismos vinculados a la igualdad de género. Sin embargo, 
+las universidades declaran que «cuentan con sistemas de información 
+institucional, que incorporan la variable «sexo» u otras con perspectiva 
+de género/interseccional», lo cual constituye una medida que no requiere 
+¿Cuenta con mecanismos que promueven la investigación y 
+generación de conocimiento con perspectiva de género?
+23 (41 %)
+33 (59 %)
+¿Brinda servicios de bienestar con enfoque de género, y atiende 
+específicamente las necesidades de las mujeres en su diversidad?
+42 (75 %)
+14 (25 %)
+¿Cuenta con mecanismos que les permitan brindar una formación 
+integral libre de violencia de género?
+46 (82 %)
+10 (18 %)
+¿Cuenta con mecanismos para el egreso y/o la vinculación con 
+el mundo laboral, con perspectiva de género y que atienda de 
+manera explícita las necesidades de las mujeres en su diversidad?
+19 (34%)
+37 (66%)
+Fuente: Elaboración propia en base a la encuesta a universidades realizada por el MINEDU.
+
+Brechas de género en la educación superior universitaria en el Perú  |  24
+mayor presupuesto, pues puede incluir el desarrollo de una base de datos 
+de las y los estudiantes, de manera declarativa.
+Entre las otras categorías que cuentan con mayor incidencia, se 
+encuentran «mecanismos que les permitan brindar una formación inte-
+gral libre de violencia de género», «brindar los servicios de bienestar con 
+enfoque de género, y que atienden específicamente las necesidades de 
+las mujeres en su diversidad», «políticas de recursos humanos orienta-
+das a promover la igualdad de género y atienda de manera explícita las 
+necesidades de las mujeres docentes y no docentes, como personal de 
+la universidad» y «la aplicación de la perspectiva de género para que el 
+diseño del espacio e infraestructura asegure un uso democrático, equi-
+tativo y seguro, atendiendo las diversas características y necesidades de 
+mujeres y hombres». En ese sentido, y articulando con la declaración de 
+falta de presupuesto, se puede hipotetizar que, de contar con mayor pre-
+supuesto, las universidades podrían potenciar sus acciones de formación, 
+servicios y políticas con enfoque de género. En ese marco, se articula el 
+hecho de que la declaración de «contar con algún tipo de servicio de cui-
+dado disponibles para estudiantes y el personal docente y no docente», 
+cubra solo el 36 % de universidades, considerando que se trata de una 
+de las políticas, en materia de servicios, que requerirían mayor presu-
+puesto. Esta hipótesis también se relaciona con la baja incidencia de las 
+categorías de «mecanismos de acceso que atienda, de manera explícita, 
+las características de mujeres y hombres en su diversidad» y «mecanismos 
+para el egreso y/o la vinculación con el mundo laboral, con perspectiva 
+de género y que atienda de manera explícita las necesidades de las muje-
+res en su diversidad», lo cual supondría profundizar en el presupuesto 
+con enfoque de género.
+Seguidamente, también es posible hipotetizar que las universidades 
+que cuentan con políticas normativas explícitas para la promoción de la 
+igualdad de género son más propensas a implementar acciones concre-
+tas, como el uso de lenguaje inclusivo, la promoción de la investigación 
+con perspectiva de género y la oferta de servicios de cuidado para estu-
+diantes y personal docente. Así, aun cuando el 54 % de las universidades 
+tiene políticas de igualdad de género, solo un 36 % ofrece servicios de 
+cuidado y un 41 % promueve la investigación con enfoque de género. 
+Esto sugiere que la existencia de políticas podría estar correlacionada 
+con la implementación de otras medidas. Por ejemplo, la existencia de 
+políticas institucionales claras sobre igualdad de género podría aumentar 
+la proporción de mujeres en roles académicos y administrativos.
+Asimismo, se evidencia que el 84 % de las universidades no asigna 
+un presupuesto específico para estas políticas, lo que podría limitar la 
+efectividad de las iniciativas de género, tales como servicios de cuidado 
+o mecanismos de prevención de violencia de género. Por consiguiente, 
+se puede inferir que las universidades que asignan presupuesto para 
+promover la igualdad de género logran una mayor implementación de 
+programas y mecanismos de apoyo para mujeres. También es posible 
+hipotetizar que las universidades con sistemas de información que incor-
+poran la variable de género muestran una mayor conciencia y adaptación 
+(...) se puede 
+hipotetizar que, de 
+contar con mayor 
+pre­supuesto, las 
+universidades 
+podrían potenciar 
+sus acciones de 
+formación, servicios y 
+políticas con enfoque 
+de género
+
+Brechas de género en la educación superior universitaria en el Perú  |  25
+de sus políticas hacia la equidad de género. Esto en base a que el 91 % de 
+las universidades tiene sistemas que registran información desagregada 
+por género, lo que podría permitir una mejor comprensión de las bre-
+chas y la formulación de políticas más efectivas.
+Por último, el uso de lenguaje inclusivo en las universidades está 
+asociado con una cultura más inclusiva y con menores índices de dis-
+criminación de género. El 64 % de las universidades lo utiliza. Este uso 
+podría correlacionarse con una mayor sensibilización hacia la igualdad 
+y la no discriminación. Adicionalmente, solo el 34 % de las universida-
+des tiene mecanismos que favorecen la vinculación laboral con enfoque 
+de género. Esto podría estar relacionado con la persistencia de las des-
+igualdades en la transición de las mujeres al mercado laboral. Entonces, 
+la falta de mecanismos para la vinculación laboral con perspectiva de 
+género podría contribuir a las dificultades de inserción laboral de las 
+mujeres universitarias.
+Cabe destacar que, aunque esta información es declarativa y no 
+cuenta con medios de verificación específicos para cada pregunta, per-
+mite generar hipótesis que podrían servir como punto de partida para 
+investigaciones empíricas que evalúen el impacto de las políticas de 
+igualdad de género en diferentes aspectos del entorno universitario y su 
+respectiva comunidad académica.
+1.3. A manera de balance de buenas prácticas 
+institucionales
+A partir de una revisión documentaria de fuentes secundarias de las diez 
+universidades seleccionadas, a modo de balance, es posible señalar que 
+los medios de verificación revisados y analizados recopilan diversas estra-
+tegias e iniciativas implementadas por las universidades con el objetivo 
+de fomentar la igualdad de género, inclusión, y prevención de este tipo 
+de violencia en el ámbito educativo. Estas buenas prácticas están alinea-
+das con principios de diversidad, equidad y respeto, con un enfoque 
+transversal que busca transformar tanto el ambiente académico como el 
+administrativo de las instituciones. Si bien, algunas universidades imple-
+mentan más mecanismos en materia de género que otras, en general, 
+se pueden evidenciar nueve principales áreas de acción y las medidas 
+implementadas.
+Primero: las universidades han desarrollado políticas específicas para 
+promover la igualdad de género en diversas áreas estratégicas como la 
+docencia, investigación y gestión institucional. Estas políticas buscan 
+garantizar la representación equitativa de mujeres y hombres en los espa-
+cios académicos y administrativos, con especial atención a las mujeres 
+en carreras tradicionalmente masculinizadas y viceversa. Asimismo, se 
+promueven mecanismos de conciliación entre la vida familiar y profesio-
+nal, tales como la creación de guarderías y lactarios, lo que permite a las 
+madres y padres, estudiantes y docentes, equilibrar sus responsabilidades 
+académicas y de cuidado.
+
+Brechas de género en la educación superior universitaria en el Perú  |  26
+Segundo: se han implementado lineamientos para asegurar que el 
+enfoque de género esté presente en los currículos educativos. Este enfo-
+que permite sensibilizar a los estudiantes sobre la importancia de la 
+igualdad y la no discriminación desde una perspectiva interseccional, 
+abarcando no solo las diferencias de género, sino también la diversidad 
+étnica, cultural y socioeconómica. Estas prácticas buscan reducir las des-
+igualdades y promover el reconocimiento de la diversidad en todas sus 
+formas dentro de la comunidad universitaria.
+Tercero: una de las áreas más importantes abordadas por las universi-
+dades es la prevención y sanción del hostigamiento sexual. Se han creado 
+reglamentos específicos que detallan los procedimientos para la inter-
+vención en casos de hostigamiento sexual, así como la formación de 
+comisiones disciplinarias que garantizan un tratamiento adecuado de 
+las denuncias. Además, se realizan capacitaciones periódicas para sensi-
+bilizar a la comunidad universitaria sobre las conductas que constituyen 
+hostigamiento sexual y las medidas para prevenirlo, tanto en el ámbito 
+presencial como virtual.
+En esa misma línea, y como cuarta área de acción, se evidencia que las 
+universidades han adoptado medidas para garantizar el respeto a la iden-
+tidad de género de todos los miembros de la comunidad universitaria. Se 
+han implementado políticas para el uso del nombre social en registros y 
+comunicaciones internas, lo que permite a las personas trans y de género 
+no binario ser reconocidas de acuerdo con su identidad. Asimismo, se 
+llevan a cabo campañas de sensibilización para educar a estudiantes, 
+docentes y personal administrativo sobre el respeto a la diversidad sexual 
+y de género, con el objetivo de erradicar la discriminación en todas sus 
+formas.
+Quinto: varias universidades han creado oficinas y comisiones dedi-
+cadas exclusivamente a la igualdad de género y la diversidad. Estas 
+entidades son responsables de coordinar y supervisar la implementación 
+de políticas de género, brindar asistencia técnica, y asegurar que se res-
+peten los derechos de todas las personas en la comunidad universitaria. 
+También promueven la creación de observatorios de género, que reco-
+pilan datos y estadísticas sobre la situación de la igualdad y la violencia 
+de género dentro de la universidad, con el fin de informar y mejorar las 
+políticas existentes.
+Sexto: un elemento clave en las buenas prácticas es la capacitación 
+constante de estudiantes, docentes y personal administrativo. Estas capa-
+citaciones abarcan temas como la igualdad de género, el respeto a la 
+diversidad, la prevención de la violencia de género y el acoso sexual. Las 
+instituciones organizan talleres, charlas y campañas de sensibilización 
+para promover un ambiente universitario libre de discriminación y vio-
+lencia, destacando la importancia de involucrar a toda la comunidad en 
+estos esfuerzos. Respecto de este punto, cabe destacar que, cruzando la 
+información con la data recopilada como fuente primaria, se permite 
+señalar que no existe un conocimiento a profundidad, visto de forma 
+general en las universidades, respecto del concepto de género, por lo que 
+los esfuerzos, en materia de capacitaciones, en ese marco, aún quedan 
+pendientes de ser reforzados.
+
+Brechas de género en la educación superior universitaria en el Perú  |  27
+Séptimo: algunas universidades han implementado programas y pro-
+yectos estudiantiles que buscan empoderar a los estudiantes y fomentar 
+una cultura de igualdad. Estos crean espacios de apoyo mutuo y soli-
+daridad, donde se promueven valores como la tolerancia cero ante la 
+violencia de género y el acoso. Además, algunos proyectos han desa-
+rrollado herramientas digitales, como aplicaciones web, que permiten 
+reportar casos de violencia de género de manera inmediata, facilitando, 
+así, la intervención oportuna.
+Octavo, el fomento de la investigación en temas de género es otro 
+aspecto importante. Se han creado grupos de investigación interdisci-
+plinarios que abordan cuestiones de género desde diversas perspectivas 
+académicas, contribuyendo a la generación de conocimiento y a la crea-
+ción de nuevas políticas para mejorar la igualdad de género en el ámbito 
+universitario. Estos grupos de investigación también colaboran con enti-
+dades externas y participan en redes internacionales que promueven el 
+desarrollo de capacidades en materia de igualdad.
+Noveno, la inclusión y el respeto por la diversidad cultural son valores 
+fundamentales en las políticas universitarias. En línea con estos prin-
+cipios, se promueve la participación de estudiantes provenientes de 
+comunidades indígenas y rurales, asegurando que tengan acceso a progra-
+mas de apoyo académico y social que les permitan integrarse plenamente 
+en la vida universitaria. Las universidades también desarrollan eventos y 
+actividades que celebran la diversidad cultural y fomentan el pluralismo 
+dentro de la comunidad académica. Sin embargo, aún quedan pendien-
+tes apoyos como mentorías o becas de corte más específico, relacionado 
+con las problemáticas presentadas en los principales hallazgos respecto 
+de la necesidad de nivelación, y apoyo económico y emocional.
+Finalmente, se constató que, en general, existe un compromiso ins-
+titucional de las universidades por crear un entorno más inclusivo, 
+equitativo y libre de violencia. Las políticas implementadas son un paso 
+importante hacia la transformación cultural necesaria para garantizar que 
+todas las personas, sin importar su género, identidad o antecedentes, ten-
+gan las mismas oportunidades de desarrollo académico y profesional. La 
+continuidad de estas acciones y su evaluación constante son claves para 
+asegurar el éxito a largo plazo de las iniciativas de igualdad de género y 
+diversidad en las instituciones de educación superior. Las fuentes secun-
+darias, a modo de medios de verificación sobre instrumentos de gestión 
+institucional y pedagógica que busquen reducir las barreras relacionadas 
+con las desigualdades de género en el Acceso, Permanencia y Egreso, 
+en el ámbito universitario, evidencian que, en general, las universidades 
+seleccionadas están trabajando activamente para implementar políticas y 
+programas que promuevan la igualdad de género, la diversidad, y la no 
+discriminación. Sin embargo, cabe destacar que las percepciones recogi-
+das como parte de las fuentes primarias no necesariamente se condicen 
+con esta perspectiva, ya que hay aún algunos actores que cuestionan la 
+importancia de la variable género, de forma más específica para carreras 
+STEM y la presencia femenina.
+algunas 
+universidades han 
+implementado 
+programas y pro­
+yectos estudiantiles 
+que buscan 
+empoderar a los 
+estudiantes y 
+fomentar una cultura 
+de igualdad. Estos 
+programas crean 
+espacios de apoyo 
+mutuo y solidaridad, 
+donde se promueven 
+valores como la 
+tolerancia cero ante la 
+violencia de género y 
+el acoso.
+
+Brechas de género en la educación superior universitaria en el Perú  |  28
+Sistematización de prácticas 
+internacionales
+2
+
+Brechas de género en la educación superior universitaria en el Perú  |  29
+E
+sta sección recoge experiencias internacionales que vienen 
+impulsando acciones institucionales para la reducción de brechas 
+de género en el ámbito superior, en particular, el universitario; 
+tanto desde las políticas públicas y la innovación organizacional, hasta 
+iniciativas de cooperación internacional, privada y pública.
+Para ello, se ha hecho una revisión de experiencias que dan cuenta de 
+acciones sobre la base de tres ejes: igualdad de oportunidades, fomento 
+de ingreso paritario y lucha contra la violencia de género. Estos ejes 
+temáticos han sido elegidos en función de constituir los temas de mayor 
+preocupación en la implementación de mecanismos de equidad de 
+género, tanto a nivel de la literatura vinculada a los estudios educativos, 
+como en la casuística encontrada vinculada a los procesos de imple-
+mentación de políticas vigentes. Se ha revisado el caso de países como 
+Argentina, Chile, México y Perú en la región, así como mecanismos 
+impulsados desde organismos internacionales, de sociedad civil o desde 
+espacios multilaterales.
+2.1  Medidas para la igualdad
+Cuando hablamos de medidas para la igualdad hacemos alusión a tres 
+conceptos claves: equidad, igualdad de oportunidades e igualdad de 
+posiciones o resultados. Estas medidas nos permiten contextualizar las 
+diversas situaciones de desigualdad de facto que existen, teniendo en 
+cuenta que las necesidades de cada grupo social no son necesariamente 
+diferentes. En ese sentido se entiende que la igualdad, como principio de 
+justicia social, constituye una aspiración vinculada a la igualdad de trato 
+y ante la ley, pero que requiere de medidas de equiparación entre esas 
+diferencias. En ese sentido, la equidad «significa que proporcionamos 
+recursos y oportunidades que se ajustan a las necesidades o circunstan-
+cias específicas de esa persona o grupo y, de ese modo, podemos alcanzar 
+un resultado igualitario» (World Economic Forum, 2023). Esas diferen-
+cias traen consigo situaciones de discriminación, que limitan el goce de 
+derechos en condiciones de igualdad con otras personas debido a una 
+distinción injustificada que se establece en la política, la ley o el trato 
+Sistematización de prácticas 
+internacionales
+2
+
+Brechas de género en la educación superior universitaria en el Perú  |  30
+aplicados; o por a falta de condiciones adecuadas para el desarrollo de las 
+personas, y que perpetúa la desigualdad (Amnistía Internacional, 2024).
+En esa línea, la igualdad de oportunidades «busca nivelar las opor-
+tunidades (…) que están fuera del control del individuo, no influyan en 
+los resultados de una persona» (Grupo Banco Mundial, 2024). Para ello, 
+es necesario poder distribuir servicios básicos y garantizar condiciones 
+de vida que permitan romper esas barreras de discriminación estruc-
+tural que generan vidas tan distintas por razones injustificadas como el 
+género, la raza o etnicidad, el lugar de nacimiento, el entorno familiar 
+u otras características. Sin embargo, no siempre estas medidas generan 
+una transformación de los sistemas debido a que, en ocasiones, se tratan 
+de barreras de carácter estructural que pueden tomar mucho tiempo en 
+dar resultados, y que afectarán a muchas generaciones antes de esa trans-
+formación. Así, por ejemplo, se calcula que faltan más de 130 años para 
+cerrar la brecha de género a nivel global (Euro News, 2022). Ante esta 
+evidencia, surge el paradigma de la igualdad de resultados o posiciones 
+que llevan a la «creación de un entorno social favorable abordando la 
+ideología y construcciones culturales que crean jerarquías dentro de las 
+relaciones de género (…) (siendo) las medidas positivas (las que más) han 
+mostrado (eficiencia)» (European Institute for Gender Equality, 2024). 
+Como señala Dubet, «la igualdad de posiciones se basa en que es acaso 
+la mejor manera de realizar la igualdad de oportunidades. Si entende-
+mos por oportunidades la posibilidad de circular en la estructura social, 
+de recorrer los escalones, ya sea para subir o para bajar en función del 
+mérito y del valor propios, resulta evidente que esta fluidez aumenta 
+al achicarse la distancia entre los puestos, al no encontrarse con tantos 
+obstáculos quienes suben ni con tanto que perder quienes bajan» (2012, 
+p.50). En esta sección, hablaremos de los tres niveles cuando nos refira-
+mos a igualdad de oportunidades.
+2.1.1  Políticas de género a nivel institucional
+El caso de la Universidad de Chile
+En 2018, en respuesta a las movilizaciones feministas, se estable-
+ció la Comisión de Género y Diversidades del Senado Universitario 
+de la Universidad de Chile con el propósito de promover políticas 
+de género y diversidad, trabajar en objetivos estratégicos del Plan de 
+Desarrollo Institucional y supervisar la implementación de políticas en 
+la Universidad. Para ello, se crea la Dirección de Igualdad de Género 
+(DIGEN) y un Consejo Consultivo para reforzar la institucionalidad 
+de género. Es así como desde el 2018, varias facultades e institutos han 
+establecido Unidades o Direcciones centradas en temas de acoso sexual 
+y violencia de género. Actualmente, dieciséis unidades académicas cuen-
+tan con Comisiones o Direcciones de Género.
+La política de igualdad de género de la Universidad de Chile se basa 
+en los siguientes principios: 1. Igualdad de género, que busca la igualdad 
+sustantiva; también garantiza trato y oportunidades iguales para todos, 
+reconoce la interseccionalidad de género y busca la erradicación de la 
+violencia de género, junto con la redistribución equitativa de poder 
+
+Brechas de género en la educación superior universitaria en el Perú  |  31
+y recursos; 2. Promoción, respeto y reconocimiento a los Derechos 
+Humanos, lo que se alínea con convenciones internacionales, ya que 
+reconoce la igualdad inherente en dignidad y derechos para todas las 
+personas, tanto en el ámbito institucional como en el contexto de la 
+política de igualdad de género; 3. Reconocimiento y respeto a las diver-
+sas identidades, asegurando que todos los miembros de la comunidad 
+universitaria gocen de los mismos derechos y libertades, sin distinción 
+por género, identidad, orientación sexual, origen social, étnico u otra 
+condición, valorando la diversidad de expresiones; 4. Participación que, 
+junto con el diálogo social, son reconocidos como valores democráti-
+cos y derechos de los integrantes de la comunidad universitaria; 5. Rol 
+público de la Universidad: se reconoce el papel público de la Universidad 
+de Chile, y destaca su capacidad para influir en la construcción de una 
+sociedad más justa y democrática, resaltando la importancia de la igual-
+dad de género; y 6. Interseccionalidad, que favorece la participación y 
+empoderamiento de todas las personas en la comunidad universitaria, 
+sin discriminación alguna.
+Para ello, se han desarrollado estrategias para la política de género, 
+que buscan la transversalización de esta  con enfoque de derechos en el 
+quehacer institucional, la promoción de alianzas internas y externas con 
+unidades académicas y administrativas, así como la colaboración con 
+diversos estamentos, comunicación efectiva y visibilización de las muje-
+res y disidencia sexuales que impulsen la participación de la comunidad 
+universitaria y el aprendizaje permanente y generación de conocimiento 
+en la materia.
+Entre las líneas de acción de la política de igualdad de género 
+encontramos:
+y Revisión y adecuación de normas internas e instrumentos de 
+planificación que favorezcan el pleno desarrollo de las personas.
+y Creación de sistemas de información en torno a las relaciones de 
+género.
+y Incorporación y participación de las mujeres y diversidades 
+sexogenéricas.
+y Sistemas permanentes de evaluación participativa.
+y Formación, docencia y aprendizaje.
+y Investigación, innovación y creación artística.
+y Comunicación, extensión y vinculación con el medio.
+y Participación y representación en la academia.
+y Género y trabajo, mejorando las condiciones laborales de todos los 
+integrantes de la comunidad universitaria.
+y Atención a casos de acoso sexual y violencia de género.
+y Corresponsabilidad social en el cuidado.
+y Institucionalidad de género.
+y Medidas de acceso, retención y egreso equitativas.
+(...) se reconoce el 
+papel público de 
+la Universidad de 
+Chile, y destaca su 
+capacidad para influir 
+en la construcción 
+de una sociedad más 
+justa y democrática, 
+resaltando la 
+importancia de la 
+igual­dad de género.
+
+Brechas de género en la educación superior universitaria en el Perú  |  32
+La Universidad Autónoma de México
+La Universidad Autónoma de México cuenta con una Dirección de 
+Políticas de Igualdad y No Discriminación, institución que diseña 
+e implementa políticas de igualdad de género y no discriminación e 
+impulsa procesos de armonización normativa en dos diferentes niveles en 
+la UNAM, a nivel de la administración central y, de manera transversal, 
+en todas sus estructuras académicas y administrativas.
+Así, se creó la Comisión Especial de Igualdad de Género (CEIG), que 
+es responsable de impulsar la igualdad de género en los diversos ámbi-
+tos de la vida institucional, concentrando información sobre barreras y 
+situaciones de exclusión; también, promueve lineamientos y políticas ins-
+titucionales a través de las autoridades, entidades y dependencias, órganos 
+colegiados y de la participación organizada de los miembros de la comuni-
+dad universitaria, y fomenta una cultura de igualdad. Asimismo, se creó 
+una coordinación para la igualdad de Género (CIGU) como instancia 
+de transversalización; y se conformó una Defensoría de los Derechos 
+Universitarios, Igualdad y Atención de la Violencia de Género, Centro 
+de Investigaciones y Estudios de Género (CIEG) y Comisiones internas 
+para la Igualdad de Género (CInIG), entre otras iniciativas.
+2.1.2  Desde la sociedad civil global
+El caso de Athena Swan Charter
+La Carta  Athena Swan (AdvancedHE, 2024) es un marco que se uti-
+liza en todo el mundo para apoyar y transformar la igualdad de género 
+en la educación superior (ES) y la investigación. Establecida en 2005 
+para alentar y reconocer el compromiso de promover las carreras de las 
+mujeres en el empleo en ciencia, tecnología, ingeniería, matemáticas y 
+medicina (STEM), la Carta se está utilizando ahora en todo el mundo 
+para abordar la igualdad de género de manera más amplia, y no solo las 
+barreras que afecta al progreso de las mujeres. Esta carta es impulsada 
+por la organización Advance HE, con sede en el Reino Unido, organi-
+zación que busca entre otras cuestiones impulsar sellos de calidad con 
+relación a la igualdad y equidad en el sector.
+Los principales objetivos de la Carta  Athena Swan son: 1. Ayudar a las 
+instituciones a alcanzar sus objetivos de igualdad de género; 2. Ayudar a 
+las instituciones a cumplir con los requisitos de la legislación sobre igual-
+dad, así como los requisitos y expectativas de algunos financiadores y 
+consejos de investigación; 3. Utilizar un marco de autoevaluación especí-
+fico para ayudar a los solicitantes a identificar las áreas de acción positiva, 
+así como a reconocer y compartir buenas prácticas; y 4. Apoyar la promo-
+ción de prácticas laborales inclusivas que puedan aumentar la retención 
+de académicos, y personal profesional y de apoyo valiosos, demostrando 
+el compromiso de una institución con un entorno de trabajo equitativo. 
+Todo esto, en base a apoyar a una mayor inclusión de las personas en 
+todos los roles, de todas las identidades de género y de quienes enfren-
+tan desigualdades interseccionales. Y, empoderar a los participantes para 
+que asuman compromisos activos en línea con sus objetivos de igualdad 
+
+Brechas de género en la educación superior universitaria en el Perú  |  33
+de género, así como para reconocer y recompensar el trabajo en esta 
+materia.
+En ese marco, la Carta  Athena Swan cuenta con ocho compromisos 
+principales:
+y	 Adoptar procesos sólidos, transparentes y responsables para el tra-
+bajo en materia de igualdad de género.
+y	 Abordar las desigualdades estructurales y las injusticias sociales que se 
+manifiestan como experiencias y resultados diferenciales para el per-
+sonal y los estudiantes.
+y	 Abordar comportamientos y culturas que restan valor a la seguridad y 
+la colegialidad de nuestros entornos de trabajo y estudio, incluida la 
+no tolerancia a la violencia de género, la discriminación, la intimida-
+ción, el acoso o la explotación.
+y	 Comprender y abordar las desigualdades interseccionales.
+y	 Reconocer que las personas pueden determinar su propia identidad 
+de género y abordar los problemas específicos que enfrentan las per-
+sonas trans y no binarias.
+y	 Examinar la segregación ocupacional por género y elevar el esta-
+tus, la voz y las oportunidades profesionales de cualquier grupo 
+identificado infravalorado y en riesgo.
+y	 Mitigar el impacto de género de las responsabilidades de cuidado y 
+las interrupciones profesionales, y apoyar la flexibilidad y el manteni-
+miento de un «equilibrio saludable en toda la vida».
+y	 Mitigar el impacto de género de los contratos ocasionales y de corto 
+plazo para el personal que busca carreras sostenibles.
+2.1.3  Desde espacios multilaterales
+Políticas de la Unesco para la prioridad «Igualdad de 
+género» (2014-2021)
+En la última década se han logrado avances significativos para ampliar el 
+acceso de niñas y mujeres a la educación a nivel global. La tasa neta de 
+escolarización en el nivel primario aumentó del 79 % en 1999 al 90 % 
+en 2015, con mejoras constantes en la matrícula en secundaria. A pesar 
+de estos progresos, muchas niñas y mujeres aún carecen de una educa-
+ción de calidad debido a las complejas desigualdades de género presentes 
+en diversos aspectos educativos como infraestructura, acceso, retención, 
+planes de estudio, material didáctico, pedagogía, vida escolar, resultados 
+del aprendizaje, y opciones de educación y carrera.
+La discriminación es más extrema para las niñas y mujeres en zonas 
+rurales y marginales de países de bajos ingresos. Aunque las estadísti-
+cas sugieren que la mayoría de  menores no escolarizados son niñas, la 
+disparidad de género también puede afectar a niños y hombres, espe-
+cialmente, en niveles secundarios y superiores. La estigmatización, 
+discriminación, violencia y estereotipos de género en la educación, junto 
+con disparidades en los resultados del aprendizaje, son problemas globa-
+les que trascienden el desarrollo económico o educativo de los países. La 
+
+Brechas de género en la educación superior universitaria en el Perú  |  34
+desigualdad de género en la educación es una preocupación mundial que 
+afecta a todos, no solo a niñas y mujeres en países en desarrollo.
+La iniciativa de la Unesco «Gran Programa I» se centra en abordar las 
+persistentes disparidades de género en la educación; por ello, busca pro-
+mover la igualdad a lo largo de todo el sistema educativo. Esto incluye 
+medidas en la participación (acceso y entornos de aprendizaje seguros) 
+dentro de la educación (contenidos, contexto, prácticas de enseñanza y 
+aprendizaje) y mediante ella (resultados del aprendizaje y oportunidades 
+en la vida y el trabajo). El programa se compromete a traducir la com-
+prensión común de la igualdad de género a educación en acciones con la 
+participación activa de todo el personal, incluidos los directivos.
+El Gran Programa I se basa en la colaboración de los Estados 
+Miembros y asociados, que fortalecen la capacidad y conocimientos 
+de la UNESCO. Se busca que las políticas educativas vayan más allá 
+de enfoques cuantitativos y convencionales para ampliar el acceso a la 
+escuela. Se presta mayor atención a mejorar la calidad y pertinencia del 
+aprendizaje, considerando las cuestiones de género y respondiendo a las 
+necesidades de niñas y niños, mujeres y hombres. Se insta a los Estados 
+miembros a realizar análisis de género en todos los niveles y contextos 
+educativos para evitar la ceguera ante estas cuestiones y evitar políticas 
+ineficaces.
+La igualdad de género es un elemento clave en la agenda educativa 
+global de la UNESCO, ya que influye en nuevos enfoques y políticas 
+post-2015. Se destaca la importancia de basar la agenda y las políticas 
+futuras en investigaciones y estudios prospectivos que aborden los desa-
+fíos desde la perspectiva de la igualdad de género.
+En consonancia con la Alianza Mundial de la UNESCO para la 
+Educación de las Niñas y Mujeres, el Programa de Educación busca 
+reducir la brecha de género en la alfabetización de jóvenes y adultos, 
+así como en la educación posprimaria, pues aborda aspectos de acceso, 
+calidad y resultados del aprendizaje. Aunque se enfoca en estas áreas 
+específicas, se centra en la integración de cuestiones de género en todas 
+las actividades educativas, definiendo indicadores y metas concretas en 
+todos los niveles de enseñanza.
+En colaboración con países asociados a nivel mundial, regional y 
+nacional, se propone entender mejor los obstáculos para el avance de la 
+igualdad de género, ampliando y fortaleciendo la base de conocimien-
+tos especializados y la experiencia en lo que funciona y lo que no, además 
+de comprometer recursos financieros para traducir los compromisos en 
+acciones.
+Uno de los principales objetivos es promover un enfoque integral e 
+intersectorial de la educación de calidad en todos los niveles y formas 
+de aprendizaje, así como en las metodologías para medir los resultados 
+de los educandos. Asimismo, la igualdad de género busca oportunida-
+des equitativas entre mujeres y hombres para un desarrollo sostenible. 
+En ciencias, especialmente en áreas como física e ingeniería, donde las 
+mujeres son menos del 25 %, se necesita aumentar su participación. El 
+Gran Programa II, bajo el primer Plan de Acción para «Igualdad entre 
+La igualdad de género 
+es un elemento 
+clave en la agenda 
+educativa global de 
+la UNESCO, ya que 
+influye en nuevos 
+enfoques y políticas 
+post-2015.
+
+Brechas de género en la educación superior universitaria en el Perú  |  35
+hombres y mujeres», ha avanzado incorporando perspectivas de género 
+en todas las áreas programáticas. Aunque se reconoce la falta de medi-
+ciones y análisis, se destaca la importancia de las ciencias sociales para 
+comprender obstáculos a la inclusión y participación equitativa en cien-
+cias, considerándolos resultados de políticas implícitas.
+En el marco del Plan de Acción del Gran Programa II, se busca mejo-
+rar la recopilación y evaluación de datos para seleccionar las mejores 
+intervenciones en políticas y difundirlas como prácticas ejemplares. Se 
+continuará apoyando el fortalecimiento de las capacidades de las muje-
+res en ciencias exactas y naturales, ya que se promoverá a científicas como 
+modelos en todas las regiones. La asociación UNESCO-L'Oréal «La 
+mujer y la ciencia» y redes como la Organización de Mujeres Científicas 
+para el Mundo en Desarrollo resultan claves para celebrar modelos ejem-
+plares, inspirar la participación de mujeres y niñas en carreras científicas, 
+y fomentar el diálogo entre científicas. Además, el Gran Programa II 
+seguirá estableciendo normas, asegurando que las perspectivas de las cien-
+tíficas, incluidos los conocimientos indígenas y tradicionales, se integren 
+en las soluciones para problemas de desarrollo sostenible como el cambio 
+climático, la pérdida de biodiversidad, la gestión del agua dulce, la salud 
+de los océanos y el desarrollo de industrias y sociedades ecológicas.
+Finalmente, cabe destacar que PNUD cuenta con La Estrategia de 
+Igualdad de Género 2023-2025 para América Latina y el Caribe que 
+busca ofrecer una visión estratégica que aborde la igualdad de género 
+y el empoderamiento de las mujeres en toda su diversidad como eje 
+central y transversal de un desarrollo inclusivo, sostenible y genuina-
+mente transformador. Esta Estrategia se construye en el marco del Plan 
+Estratégico del PNUD 2022-2025; el Programa Regional 2022-2025 y 
+la Estrategia de Igualdad de Género del PNUD 2022-2025. Asimismo, 
+el Plan Estratégico del PNUD 2022-2025 tiene como prioridades: 1) la 
+promoción de economías inclusivas y el empoderamiento económico 
+de las mujeres, 2) apoyar la transformación inclusiva e igualitaria de las 
+sociedades, 3) promover un desarrollo basado en la naturaleza, género 
+transformador e informado en los riesgos, y 4) fomentar una gobernanza 
+democrática inclusiva con participación y liderazgo de las mujeres.
+2.2  Fomento para el ingreso en paridad
+Con fomento para el ingreso en paridad hacemos referencia al fenó-
+meno de la segregación horizontal entre estudiantes y docentes en los 
+diversos campos de conocimiento. Entendemos por segregación la 
+acción por la cual sujetos o grupos de personas se encuentra separadas, 
+física y simbólicamente, por barreras geográficas, socioculturales u eco-
+nómicas, y que afectan el ejercicio de sus derechos y el acceso a servicios 
+y espacios de bienestar social (Cornell Law School, 2024). En el caso 
+educativo, esta segregación se puede dar al interior de las organizaciones 
+educativas (entre grupos sociales de pares al interior de las escuelas, insti-
+tutos o universidades) o entre las propias instituciones (ECASS, 2024) y 
+
+Brechas de género en la educación superior universitaria en el Perú  |  36
+llevan a ocupar posiciones no solo distintas, sino desiguales y que afec-
+tan sus trayectorias de vida. En términos de segregación horizontal nos 
+encontramos que la menor presencia de mujeres en la matrícula, por 
+campos  de conocimiento, se da en los de la tecnología y la ingenie-
+ría, en donde incluso encontramos carreras con menos de diez mujeres 
+matriculadas por cada cien estudiantes como en mecánica, metalúrgica, 
+electricidad o electrónica (Chávez 2023, p. 15); y altamente feminiza-
+dos como educación o salud (con programas con práctica inexistencia 
+de estudiantado masculino como educación inicial, educación especial 
+u obstetricia, con menos de cinco matriculados por cada cien (Chávez 
+2023, p. 16). Otro ejemplo, de acuerdo con el análisis realizado por el 
+Sistema de Información Universitaria (SIU), Portal TUNI, de Sunedu, 
+al 2022-II: por cada cien mujeres matriculadas en las carreras de electri-
+cidad y energía hay 1481 hombres matriculados y, por cada cien mujeres 
+matriculadas en las carreras de educación inicial hay un hombre matri-
+culado, advirtiendo tanto la masculinización como la feminización de 
+algunas carreras universitarias. Esto sigue la tendencia global, en tanto la 
+OECD enfatiza las desigualdades de género en la matrícula de carreras 
+STEM en el pregrado y en las carreras de salud y educación, ya que  las 
+STEM son masculinizadas; mientras que salud y educación, feminizadas 
+(con umbrales del 30 % de la matrícula minoritaria). Lo preocupante en 
+términos de política pública educacional es si estas diferencias se deben 
+estrictamente a preferencias y no a variables limitantes que dificulten el 
+acceso a las distintas áreas de estudio. Así, la evidencia presentada revela 
+que son las mujeres las que tienen más dificultades al elegir carreras 
+STEM; mientras que los hombres eligen en menor medidas las carreras 
+menos rentables como educación y salud, pero supuestamente no existen 
+barreras de acceso, sino, más bien, se trata de un tema de preferencias.
+Esta división sexual del conocimiento se refleja también en la segre-
+gación vertical, en donde persisten importantes brechas en el ejercicio 
+del gobierno universitario, ya que hay menos de una rectora o decana 
+por cada cinco rectores o decanos; y menos de uno por cada diez en el 
+caso de los puestos de rector (Chávez y Penelas, 2021). Ello se repite, 
+a su vez, en el gobierno de las facultades, en donde la gran parte de 
+decanas se encuentran en las facultades históricamente feminizadas, y 
+están  ausentes de los procesos de toma decisión en las facultades de 
+las carreras STEM. Así, a nivel de segregación, lo que encontramos es 
+que tantos hombres como mujeres provienen de procesos formativos 
+marcadamente heteronormativos,72 donde las vocaciones u opciones 
+profesionales vienen ya marcadas por su propia trayectoria educativa 
+anterior. Esto es especialmente desventajoso para las mujeres que prefie-
+ren no vincularse a los campos STEM, donde no solo hay menos pares y 
+menos docentes o investigadoras mujeres en las universidades, sino, tam-
+bién, menos referentes académicos o profesionales mujeres en el ámbito 
+laboral, donde, además, hay mayores retornos en términos económicos. 
+72	Heteronormatividad es un concepto que considera a la heterosexualidad como el 
+modo preferido o la norma social para la orientación sexual.
+Esta división sexual 
+del conocimiento se 
+refleja también en la 
+segre­gación vertical, 
+en donde persisten 
+importantes brechas 
+en el ejercicio del 
+gobierno universitario, 
+ya que hay menos de 
+una rectora o decana 
+por cada 5 rectores 
+o decanos; y menos 
+de 1 por cada 10 en el 
+caso de los puestos de 
+rector.
+
+Brechas de género en la educación superior universitaria en el Perú  |  37
+Estas múltiples segregaciones tienen consecuencias en el tránsito de las 
+trayectorias de vida fuera del sistema educativo, en particular, en lo rela-
+cionado a sus retornos profesionales. Siguiendo la tendencia global, las 
+mujeres ganan hasta un tercio menos que sus pares varones en los mismos 
+puestos y capacidades, situación que se replica en el país, donde, en pro-
+medio, las mujeres con estudios universitarios completos pueden ganar 
+hasta 20 % menos con relación a los hombres en la misma condición 
+(cifras al 2020, Sunedu, 2022, pp. 219-220), cifra que se mantiene esta-
+ble desde el 2018 (Sunedu, 2020, p. 168).
+Una de las variables claves para entender esta diferencia está relacio-
+nada, justamente, a las carreras elegidas por los estudiantes, donde los 
+campos STEM son los más masculinizados, los que reciben mayores 
+retornos económicos; y viceversa: los campos más feminizados reciben 
+menos ingresos. Así, si el ingreso promedio en las carreras vinculadas 
+al campo de la ingeniería, industria y construcción, y tecnología de la 
+información y comunicación es de 2998 soles mensuales; el del campo 
+de la educación es de 1832 (Chávez 2023, p. 22). Este campo es en 
+donde la gran mayoría de trabajadores son mujeres. Es decir, la segre-
+gación horizontal en los estudios de pregrado incide en la igualdad de 
+oportunidades que mujeres y hombres tendrán en su vida profesional.
+2.2.1  Desde la política pública
+Argentina: Aprender Conectados
+Se evidencian disparidades de género en el acceso a espacios vinculados 
+con las nuevas tecnologías, incluyendo el ámbito educativo. En respuesta 
+a esto, Aprender Conectados, una iniciativa de alfabetización digital, 
+busca equipar a estudiantes de todos los niveles con las competencias 
+necesarias para la era digital. Esta propuesta no solo fomenta la parti-
+cipación de las mujeres en la educación relacionada con programación, 
+robótica y el ámbito digital, sino que también busca atraer a niñas y 
+jóvenes mediante iniciativas como Mujeres Programadoras y la Maratón 
+Nacional de Programación y Robótica. Estos esfuerzos buscan involucrar 
+a las jóvenes en áreas de conocimiento que presentan una alta demanda 
+en el mercado laboral de Argentina y a nivel global. La segunda edición 
+de la Maratón Nacional de Programación y Robótica, organizada por el 
+Ministerio de Educación, Cultura, Ciencia y Tecnología como parte del 
+Plan Aprender Conectados, está abierta para la inscripción de estudian-
+tes de primaria y secundaria en escuelas de gestión estatal de todo el país.
+Chile: Iniciativa Más Mujeres Científicas (+MC)
+En todo el mundo hay una importante falta de representación de muje-
+res en carreras STEM (ciencia, tecnología, ingeniería y matemáticas). 
+Según la UNESCO, solo el 35 % de los estudiantes en estas carreras, a 
+nivel mundial, son mujeres. En Chile, esta tendencia se refleja, ya que 
+solo el 27,5 % de los seleccionados en carreras STEM son mujeres, con 
+menos del 40 % en dos tercios de las carreras de este ámbito.
+Para abordar esta subrepresentación, algunas universidades en Chile 
+han optado por ofrecer, voluntariamente, vacantes reservadas para 
+
+Brechas de género en la educación superior universitaria en el Perú  |  38
+mujeres en carreras de tecnología. Estas vacantes se asignan mediante un 
+ranking ponderado entre las mujeres en lista de espera, fuera del sistema 
+centralizado de asignación del DEMRE.
+En el Proceso de Admisión Centralizado 2023, alrededor de 30 progra-
+mas de educación superior ofrecieron vacantes reservadas para mujeres, 
+representando entre el 1 % y el 10 % del total de vacantes regulares. 
+A partir del Proceso de Admisión 2024, se aprueba la incorporación 
+de cuotas de género en la plataforma centralizada del sistema de acceso 
+a universidades. Las universidades deben expresar su interés, especifi-
+cando las carreras y la cantidad de cupos para mujeres. Estos ajustes se 
+implementarán en el algoritmo de asignación de vacantes de manera 
+automatizada.
+Los objetivos del plan incluyen fortalecer la iniciativa de las universi-
+dades, aumentar la transparencia y objetividad en la selección y fomentar 
+la entrada de mujeres a carreras STEM, reducir costos asociados al pro-
+ceso de selección, y proporcionar datos útiles para evaluar el programa.
+La implementación de cuotas de género se rige por ciertos criterios 
+acordados por el Comité Técnico de Acceso. Las universidades pue-
+den optar voluntariamente a estas cuotas, aplicables solo a carreras de 
+Ciencias y Tecnología, no superando el 20 % de las vacantes regulares. 
+Estas cuotas son adicionales, asignadas después de las vacantes regulares, 
+y son exclusivas para postulantes mujeres. Si no hay mujeres en lista de 
+espera, las cuotas se declaran desiertas.
+2.2.2  Desde el ámbito universitario
+La Universidad de Chile y su política de Ingreso Prioritario 
+de Equidad de Género
+La Universidad de Chile ha implementado el Programa de Ingreso 
+Prioritario de Equidad de Género (PEG) desde el proceso de Admisión 
+2014, con el objetivo de fomentar la equidad de género en carreras con 
+brechas significativas en la participación de mujeres. Este programa 
+busca eliminar sesgos culturales que históricamente han limitado las 
+opciones de elección y desarrollo de las mujeres en áreas como la ingenie-
+ría y ciencias afines.
+Desde su inicio en 2014, el Programa de Equidad de Género (PEG) 
+fue adoptado por la Facultad de Ciencias Físicas y Matemáticas. 
+Posteriormente, en 2020 las Facultades de Artes y de Economía y 
+Negocios se unieron al programa, creando vacantes especiales para muje-
+res en algunas de sus carreras. En el proceso de admisión 2024, la Facultad 
+de Agronomía y la Facultad de Ciencias también se integraron al PEG.
+Además, la Facultad de Ciencias Sociales ha implementado un pro-
+grama similar en las carreras de Pedagogía en Educación Parvularia y 
+Trabajo Social, que permite el ingreso prioritario de estudiantes hombres 
+a carreras con mayor participación femenina. Esta iniciativa busca pro-
+mover la diversidad de género en diversas disciplinas académicas.
+
+Brechas de género en la educación superior universitaria en el Perú  |  39
+2.3  Lucha contra la violencia de género
+En el caso de la violencia de género, esta es definida por ONU-Mujer 
+como toda forma de violencia, material o simbólica, ejercida contra una 
+mujer o minoría sexual por motivos de género. Esta puede ser de carác-
+ter físico, sexual, psicológico, patrimonial o sexista; y tiene la finalidad de 
+humillar, manipular o forzar la voluntad de la víctima con algún fin vin-
+culado a la subordinación frente a otro que ejerce poder. Esta constituye 
+la expresión más cruda de la discriminación sexual, siendo por tanto una 
+problemática social de carácter público.
+En particular, en el caso del ámbito educativo, encontramos la preva-
+lencia del hostigamiento sexual o sexista, expresión de violencia basada 
+en la imposición de conductas de naturaleza sexual no deseadas en donde 
+una de las partes ejerce poder para tener un acercamiento sexual no con-
+sensuado o indebido. Este puede estar presente en los vínculos entre 
+pares (estudiantes, docentes o personal administrativo), pero también 
+en relaciones donde existe jerarquía funcional (jefes-subordinados) o de 
+facto (docentes-estudiantes) (Hoces, 2023). Asimismo, puede involu-
+crar la segregación de mujeres transgénero, por no contar con una ley de 
+identidad de género que las valide como mujeres.
+En esa línea, es fundamental entender que el derecho a la educa-
+ción, en cualquiera de sus niveles, incluye el derecho a contar con una 
+Educación Sexual Integral (ESI) entendida como «el espacio sistemático 
+de enseñanza y aprendizaje que promueve valores, conocimientos, acti-
+tudes y habilidades para la toma de decisiones conscientes y críticas con 
+relación al cuidado del propio cuerpo, las relaciones interpersonales y el 
+ejercicio de la sexualidad. Tiene como finalidad principal que los estu-
+diantes vivan su sexualidad de manera saludable, integral y responsable 
+en el contexto de relaciones interpersonales democráticas, equitativas y 
+respetuosas. La ESI toma en cuenta las particularidades de cada etapa de 
+desarrollo y considera las dimensiones biológica-reproductiva, socioafec-
+tiva, ética y moral» (MINEDU, 2016). En el caso peruano, esto ha sido 
+incorporado explícitamente en la Ley General de Educación (vía Decreto 
+Supremo N.º 007-2021-MINEDU que modifica el Reglamento de la 
+Ley N.º 28044, Ley General de Educación (2004), aprobado por Decreto 
+Supremo N.º 011-2012-ED), que promueve una educación inclusiva en 
+todas sus etapas, formas, modalidades, niveles y ciclos. Ello, en concor-
+dancia con lo previsto en la Ley N.º 30797, que promueve la educación 
+inclusiva (2018), modifica el artículo 52 e incorpora los artículos 19-A y 
+62-A en la Ley N.º 28044, Ley General de Educación. Este instrumento 
+permite también la inclusión del hostigamiento como, además de un 
+delito con su propio ordenamiento penal para la sanción y protección, 
+una barrera educativa que impide o limita el acceso, permanencia, parti-
+cipación, desarrollo de competencias y culminación educativa. Es decir, 
+que la lucha y prevención de toda forma de violencia en el ámbito 
+educativo, tiene como requisito indispensable y fundamental a la edu-
+cación sexual, tal y cual se reconoce en el ámbito nacional en el propio 
+currículo educativo peruano.
+En el caso de la 
+violencia de género, 
+esta es definida por 
+ONU-Mujer como toda 
+forma de violencia, 
+material o simbólica, 
+ejercida contra una 
+mujer o minoría sexual 
+por motivos de género. 
+
+Brechas de género en la educación superior universitaria en el Perú  |  40
+2.3.1  Argentina y la educación sexual integral en el 
+sistema educativo
+El Ministerio de Educación, Cultura, Ciencia y Tecnología de la Nación 
+trabaja en eliminar disparidades y prejuicios mediante nuevas formas 
+de enseñanza. Se enfatiza que la educación es clave para otorgar a las 
+mujeres los mismos derechos y oportunidades que a los hombres, pro-
+moviendo el respeto, la inclusión y la reprobación de cualquier forma 
+de discriminación. Es así como se impulsó la implementación de la 
+Educación Sexual Integral (ESI), que busca proporcionar conocimien-
+tos y habilidades para tomar decisiones conscientes y críticas en temas 
+relacionados con el cuerpo, las relaciones interpersonales, la sexualidad 
+y los derechos de niños y jóvenes en todo el país. El Programa Nacional 
+de ESI realiza capacitaciones docentes, cursos virtuales, monitoreo y eva-
+luación sistemática, con el respaldo de UNICEF.
+Además, se estableció la planificación de Jornadas Educar en Igualdad, 
+en colaboración con las escuelas, con el propósito de prevenir y erradicar 
+la violencia de género. Se destaca la existencia de la cartilla Educar en 
+igualdad, que proporciona orientaciones y propuestas didácticas sobre 
+violencia de género, y se menciona la actualización en proceso de este 
+material.
+Por otro lado, el Ministerio, en colaboración con la Secretaría de Salud 
+y el Ministerio de Desarrollo Social, está llevando a cabo el Plan Nacional 
+de Prevención del Embarazo No Intencional en la Adolescencia. Se están 
+llevando a cabo acciones de capacitación dirigidas específicamente a los 
+docentes de educación secundaria. Se ha desarrollado un material que se 
+ha distribuido en todas las instituciones educativas participantes, junto 
+con otras publicaciones ya existentes. Este programa de capacitación 
+incluye visitas a las escuelas seleccionadas por el plan, con el objetivo 
+de fortalecer la planificación, organización e implementación de la pro-
+puesta institucional con los estudiantes.
+2.3.2  Argentina: La ley Micaela o cómo prevenir la 
+violencia de género en las universidades
+Las autoridades de las universidades argentinas, reunidas en el último 
+encuentro anual del Consejo Interuniversitario, han decidido adoptar 
+la Ley Micaela, que establece la capacitación obligatoria en género para 
+todos los agentes universitarios, incluyendo docentes, no docentes y 
+autoridades. Esta ley, promulgada en enero de 2019, impone la obligato-
+riedad de capacitaciones con perspectiva de género para los funcionarios 
+de los tres poderes del Estado.
+Aunque muchas instituciones universitarias han establecido equipos y 
+herramientas para abordar la prevención e intervención en casos de vio-
+lencia de género, existe una variabilidad en el grado de implementación. 
+En respuesta a esta diversidad, la Secretaría de Políticas Universitarias, a 
+través de la Dirección Nacional de Desarrollo Universitario, ha lanzado 
+una convocatoria para que las instituciones presenten proyectos destina-
+dos a elaborar o fortalecer políticas de prevención y atención directa ante 
+casos de violencia de género.
+
+Brechas de género en la educación superior universitaria en el Perú  |  41
+Un comité de expertos en la temática analizará los proyectos, y los 
+seleccionados recibirán financiamiento por parte de la Secretaría de 
+Políticas Universitarias. El propósito de esta propuesta es disminuir 
+las disparidades entre las universidades en la ejecución de políticas de 
+género e incentivar la visión compartida en los esfuerzos de cada institu-
+ción. Se dará preferencia a los proyectos que fomenten la transversalidad 
+de la perspectiva de género y contemplen protocolos de atención para 
+sus comunidades.
+2.3.3  Chile y la lucha contra la discriminación de 
+Género (Ley 21.369)
+La Ley 21.369, que aborda el acoso sexual, la violencia y la discrimina-
+ción de género en la educación superior en Chile, surge como respuesta 
+a demandas históricas relacionadas con la erradicación de las violencias 
+de género en la sociedad. Nace a partir de las movilizaciones feministas 
+de mayo de 2018, las cuales cuestionaron a diversas instituciones educa-
+tivas, tanto estatales como privadas, así como al Sistema de Educación 
+Superior en su totalidad y al Estado, señalando la carencia de mecanis-
+mos institucionales adecuados para abordar distintas formas de violencia 
+de género. Tras cuatro años, desde ese momento, y en medio de una 
+crisis social, política y sanitaria, se plantea que el Estado debe asumir la 
+responsabilidad de enfrentar de manera coordinada los desafíos que esta 
+ley presenta para todo el Sistema de Educación Superior en Chile.
+La ley en cuestión establece el derecho de toda persona a desempeñarse 
+en entornos libres de violencia y discriminación de género, especial-
+mente en el ámbito de la educación superior. Asimismo, impone a todas 
+las instituciones de educación superior la obligación de adoptar políticas 
+integrales para prevenir, investigar, sancionar y erradicar estas conduc-
+tas. Durante su proceso legislativo, recibió respaldo de diversos sectores 
+políticos y participación activa de organizaciones, como el Consejo de 
+Rectores de las Universidades Chilenas, el Consorcio de Universidades 
+del Estado de Chile, la Asociación de Universidades Regionales, la Red de 
+Universidades Públicas no Estatales, la Asociación Red de Investigadoras, 
+Corporación Humanas, Académicas e Investigadoras, entre otras. La ley 
+cuenta con amplio respaldo y legitimidad, proporcionando herramien-
+tas institucionales específicas para abordar las problemáticas de violencia 
+y discriminación de género en la educación superior.
+Por consiguiente, resulta necesario para las instituciones de 
+educación superior (IES) partir por reconocer que las violencias y discri-
+minaciones de género, tanto en un sentido amplio como dirigidas hacia 
+mujeres y disidencias sexo genéricas, se consideran una vulneración de la 
+dignidad de las personas. Estas afectan negativamente los derechos indi-
+viduales y tienen un impacto en la comunidad educativa en su totalidad. 
+Por lo tanto, la calidad y pertinencia de la educación superior actual 
+implican la capacidad de crear ambientes respetuosos, seguros y de bien-
+estar, eliminando las violencias y discriminaciones de género.
+Asimismo, la implementación de esta ley representa un desafío para 
+la educación superior en Chile, pues asigna responsabilidades específicas 
+La ley en cuestión 
+establece el derecho 
+de toda persona 
+a desempeñarse 
+en entornos libres 
+de violencia y 
+discriminación de 
+género, especialmente 
+en el ámbito de la 
+educación superior. 
+
+Brechas de género en la educación superior universitaria en el Perú  |  42
+a IES para abordar de manera integral las violencias de género en el 
+ámbito educativo. Estas responsabilidades abarcan tanto procesos inter-
+nos (como la inducción, contratación y formación del personal) como 
+procesos externos (como la acreditación institucional y la fiscalización), 
+involucrando a diversas instituciones que componen el Sistema de 
+Educación Superior. Este sistema incluye todas las IES mencionadas en 
+la ley, abarcando los subsistemas universitario y técnico profesional, y 
+servicios públicos relacionados con la labor educativa, lo cual incluye a 
+los encargados de supervisar y contribuir al aseguramiento de la calidad 
+y mejoramiento continuo.
+Para avanzar en la implementación de la Ley 21.369, se debe destacar 
+en primer lugar la importancia de la integralidad en la formulación de 
+políticas y proyectos educativos para superar las desigualdades de género 
+en sus comunidades. El reconocimiento de las violencias de género como 
+problemas sociales que afectan a las comunidades educativas implica un 
+enfoque institucional integral para generar cambios culturales y aprendi-
+zajes. La aprobación de políticas y acciones por parte de las instituciones 
+es solo el comienzo, ya que el objetivo final es crear entornos educativos 
+seguros y libres de violencia, y promover relaciones igualitarias de género 
+y evitando la reproducción de violencias de género en diversos ámbitos 
+de la sociedad.
+Hallazgos
+Como puede verse, las iniciativas para disminuir brechas de género en 
+el sistema universitario constituyen ya una práctica institucionalizada en 
+algunos países e instituciones que han priorizado esta rama de interven-
+ción como prioritaria.
+Haciendo la revisión de experiencias en el ámbito de las iniciativas 
+para la igualdad, se han encontrado dos ámbitos en los que se han desa-
+rrollado medidas específicas al respecto: las políticas a nivel institucional, 
+llevadas a cabo por universidades pública y privadas, así como los impul-
+sados desde las iniciativas globales impulsadas tanto de redes globales 
+como de espacios multilaterales. Lo más  común es el desarrollo de polí-
+ticas institucionales de paridad en la gestión universitaria, así como la 
+Tabla 2
+Resumen de iniciativas de igualdad de género en el ámbito universitario
+Etapa APE que 
+beneficia
+Tipo
+País
+Nombre del 
+mecanismo
+Acción
+Medidas para la igualdad
+Acceso
+Políticas y 
+mecanismos 
+institucionales
+Perú: Pontificia 
+Universidad 
+Católica del 
+Perú
+Oficina para 
+la Igualdad 
+de Género y 
+Diversidad
+Política de Igualdad de Género 
+para la Docencia
+
+Brechas de género en la educación superior universitaria en el Perú  |  43
+Acceso y 
+Permanencia
+Iniciativas 
+globales
+Advance HE
+Carta Athena 
+Swan
+Adoptación voluntaria de 
+acciones para incorporar 
+principios de equidad y no 
+discriminación de género, entre 
+otras, en la gestión universitaria
+UNESCO
+Políticas para 
+la prioridad 
+«Igualdad de 
+género»
+Asociación UNESCO-L'Oréal 
+«La mujer y la ciencia» y redes 
+como la Organización de 
+Mujeres Científicas para el 
+Mundo en Desarrollo
+Cátedras especializadas
+Alianza Mundial de la 
+UNESCO para la Educación de 
+las Niñas y Mujeres
+Permanencia
+Políticas y 
+mecanismos 
+institucionales
+Chile: 
+Universidad de 
+Chile
+Dirección de 
+Igualdad de 
+Género (DIGEN) 
+y un Consejo 
+Consultivo
+Comisión de Género y 
+Diversidades del Senado 
+Universitario
+Política integral de igualdad de 
+género
+16 direcciones o comisiones de 
+género en facultades
+México: 
+Universidad 
+Autónoma de 
+México
+Dirección de 
+Políticas de 
+Igualdad y No 
+Discriminación
+Comisión Especial de Igualdad 
+de Género
+Defensoría de los Derechos 
+Universitarios, Igualdad y 
+Atención de la Violencia de 
+Género
+Política institucional de igualdad 
+de género y no discriminación
+Centro de Investigaciones y 
+Estudios de Género (CIEG)
+Perú: Pontificia 
+Universidad 
+Católica del 
+Perú
+Oficina para 
+la Igualdad 
+de Género y 
+Diversidad
+Política para el Respeto de la 
+Identidad de Género y Normas 
+Relativas a la Inclusión del 
+Nombre Social
+promoción de generación de conocimiento en la formulación de cáte-
+dras especializadas.
+Desde el ámbito del fomento del ingreso paritario, se han encontrado 
+medidas específicas tanto a nivel de políticas nacionales como de medi-
+das de alcance institucional, en particular, en el Cono Sur.
+
+Brechas de género en la educación superior universitaria en el Perú  |  44
+Tabla 3
+ Resumen de iniciativas de fomento de ingreso en paridad
+Etapa APE 
+que beneficia
+Tipo
+País
+Nombre del 
+mecanismo
+Acción
+Fomento de ingreso en paridad
+Acceso
+Políticas y 
+mecanismos 
+nacionales
+Argentina
+Aprender 
+Conectados
+Alfabetización digital 
+y capacitación en 
+programación para mujeres
+Acceso
+Políticas y 
+mecanismos 
+nacionales
+Chile
+Iniciativa 
+Más Mujeres 
+Científicas 
+(+MC)
+Fomentar la entrada de 
+mujeres a carreras STEM
+Acceso
+Políticas y 
+mecanismos 
+institucionales
+Chile: 
+Universidad 
+de Chile 
+(entre otras)
+Programa 
+de Ingreso 
+Prioritario de 
+Equidad de 
+Género
+Creación de vacantes 
+especiales para mujeres 
+en carreras altamente 
+masculinizadas
+En el caso de los mecanismos para la lucha contra toda forma de 
+violencia, encontramos que el ámbito de mayor intervención se mani-
+fiesta en políticas nacionales, a través de la promulgación de programas 
+y normas específicas de atención a la violencia en el ámbito educativo.
+Tabla 4
+Resumen de iniciativas de fomento de lucha contra la violencia de género
+Etapa APE 
+que beneficia
+Tipo
+País
+Nombre del 
+mecanismo
+Acción
+Lucha contra la discriminación y la violencia
+Acceso y 
+Permanencia
+Políticas y 
+mecanismos 
+nacionales
+Argentina
+Educación Sexual 
+Integral y prevención 
+de la violencia de 
+género en el sistema 
+educativo
+Prevención del embarazo 
+adolescente
+Prevención de la violencia 
+de género con adolescentes y 
+jóvenes
+Permanencia
+Políticas y 
+mecanismos 
+nacionales
+Argentina
+Ley Micaela
+Capacitación obligatoria en 
+prevención de la violencia de 
+género en actores universitarios
+Chile
+Ley 21.369
+Implementación obligatoria 
+de políticas integrales contra 
+la violencia de género en 
+instituciones de educación 
+superior
+
+Brechas de género en la educación superior universitaria en el Perú  |  45
+Asimismo, podemos apreciar que las iniciativas son multinivel y mul-
+tiactor, es decir, que se han desarrollado tanto desde la política pública 
+estatal, como de iniciativas institucionales y también desde espacios de 
+sociedad civil global y cooperación internacional. Esto supone también 
+diferentes estrategias de intervención, que vienen desde el ámbito de lo 
+normativo prescriptivo, lo regulatorio y también desde la generación de 
+incentivos de distinción institucional (sellos de calidad). En todos los 
+casos, el liderazgo y el compromiso de los órganos rectores en alguno de 
+esos ámbitos (el fomento, lo regulatorio y los incentivos) es fundamental.
+Por otro lado, cabe resaltar la necesidad de entender que estos mecanis-
+mos deben funcionar de forma integral, vinculando temas de prevención 
+y sanción de la violencia de género con oportunidades académicas para la 
+igualdad real, tanto a nivel del estudiantado como del profesorado. En 
+ese sentido, el éxito de una intervención estatal o privada para afrontar 
+barreras que crean brechas de género debería contemplar como mínimo 
+acciones para la lucha frontal contra toda forma de violencia de género, 
+que incluye prevención y sanción contra el hostigamiento, pero tam-
+bién el reconocimiento de las diversidades y sus expresiones identitarias 
+en el campus; asimismo, oportunidades para la igualdad, tanto a nivel 
+institucional (carrera docente, académica y de referentes de autoridad y 
+liderazgo) como del estudiantado en relación al ingreso y posibilidades 
+de hacer carrera en campos altamente masculinizados.
+En ese sentido, el contar con marcos normativos nacionales viabi-
+liza la atención hacia temas urgentes, como la violencia de género, y 
+permiten contar con marcos más amplios vinculados a los aspectos 
+estructurales que permiten su aparición, tales como la discriminación 
+por género y la cosificación de los cuerpos feminizados en los ámbitos 
+educativos. De igual manera, el compromiso institucional desde las uni-
+versidades ha permitido la construcción de marcos normativos internos 
+que asuman, desde una perspectiva integral, acciones para la igualdad de 
+oportunidades que generan no solo situaciones de equidad, sino también 
+de referencia de mujeres en áreas de mayor reconocimiento y retorno eco-
+nómico en el ejercicio profesional, y que provienen de la inclusión del 
+enfoque de género a lo largo de las trayectorias educativas. Este último es 
+especialmente importante en el campo de las mujeres en las áreas STEM 
+donde se evidencian mayores brechas tanto a nivel de los cuerpos acadé-
+micos, el acceso y la generación de vocaciones, como de las condiciones 
+futuras en lo laboral.
+Como se ha visto, si bien en el caso peruano existe una normativa 
+nacional e institucional vinculada a la atención de casos de hostiga-
+miento sexual, así como de la inclusión en el currículo nacional de 
+educación básica regular del enfoque de género, su desarrollo al interior 
+de la educación superior universitaria es aún muy limitado. Son pocas 
+las universidades que abordan con atención las barreras desde una pers-
+pectiva integral.
+Hay que tomar en cuenta que la inclusión del enfoque de género en 
+las universidades es un esfuerzo que trasciende a su ámbito institucional, 
+ya que demanda la articulación sistémica con otros actores, así como la 
+Como se ha visto, 
+si bien en el caso 
+peruano existe una 
+normativa nacional 
+e institucional 
+vinculada a la 
+atención de casos 
+de hostigamiento 
+sexual, así como de 
+la inclusión en el 
+currículo nacional 
+de educa­ción básica 
+regular del enfoque de 
+género, su desarrollo 
+al interior de la 
+educación superior 
+universitaria es aún 
+muy limitada.
+
+Brechas de género en la educación superior universitaria en el Perú  |  46
+generación de condiciones para viabilizar su actuar. De allí que se haga 
+necesario contar con propuestas que expliciten acciones para una real 
+implementación del enfoque en varios niveles de intervención, desde la 
+política pública más amplia hasta la planificación estratégica al interior 
+de la gestión universitaria.
+
+Brechas de género en la educación superior universitaria en el Perú  |  47
+Referencias bibliográficas
+
+Brechas de género en la educación superior universitaria en el Perú  |  48
+Referencias bibliográficas
+Aguilar, V. J. C. (2023). Hacia un Futuro de Oportunidades Igualitarias: 
+Mentoría y Redes de Apoyo para el Empoderamiento de las 
+Mujeres en el Ámbito Organizacional. Newman Business Review, 
+9(2), 100-128.
+Aguirre, M. C. U., Reinoso, J. R. R., Gavilanes, M. E. O., Ullauri, M. 
+D. C. A. y Iñiguez, E. A. E. (2022). Vinculación con la sociedad 
+desde la perspectiva de género: un estudio en la universidad 
+ecuatoriana. Práxis Educativa, (17).
+Alcázar, L. y Balarín, M. (2018). ¿Cómo abordar el estudio de las 
+inequidades de género en el mundo académico? En L. Alcázar y M. 
+Balarín (Eds.) Desigualdad en la academia: mujeres en las Ciencias 
+Sociales peruanas. Lima: Grupo Sofía y GRADE.
+Álvarez, L., García, V. y Tuero, E. (2020). Necesidades socioeducativas 
+de las familias ante el abandono escolar prematuro.  INFAD Revista 
+de Psicología, 1(1), 321-330. https://revista.infad.eu/index.php/
+IJODAEP/article/view/1788/1581
+Ames, P. y Correa, N. (2018). Mujeres en carreras científicas: una 
+aproximación antropológica desde las narrativas y las trayectorias 
+de vida de científicas sociales peruanas. Desigualdad en la academia: 
+mujeres en las Ciencias Sociales peruanas. Lima: Grupo Sofía y 
+GRADE.
+Akinlolu, M. (2022). Gender stereotypes and career choices: a cross-
+sectional study on a group of south African students in construction 
+programmes. Acta Structilia 29(2), 83-115.
+Auriol, E., Friebel, G., & Wilhelm, S. (2019). Women in European 
+Economics. Mimeo. https://cepr.org/voxeu/columns/women- 
+european-economics
+Báez, M. (2012). El surgimiento de las escuelas normales femeninas 
+en Colombia. Revista Historia de la Educación latinoamericana. 
+https://revistas.uptc.edu.co/index.php/historia_educacion_ 
+latinamerican/article/view/1471
+
+Brechas de género en la educación superior universitaria en el Perú  |  49
+Bagues, M., Sylos-Labini, M., & Zinovyeva, N. (2017). Doesthe gender 
+composition of scientific committees’ matter? American Economic 
+Review, 107(4), 1207-38. https://doi.org/10.1257/aer.20151211
+Bartolomé-Pina, A. (2020). Cambios educativos en tiempos de 
+pandemia. Innovaciones Educativas, 22(Especial), 13-16. https://
+doi.org/10.22458/ie.v22iEspecial.3155
+Bartual, M. T., Turmo, J., Sierra, F. J. y Carbonell i Esteller, M. (2022). 
+Percepciones de género y factores de influencia. Evidencia en 
+estudiantes universitarios de Barcelona (España) y Cartagena 
+de Indias (Colombia). Revista Complutense de Educación, 33(2), 
+325-336.
+Beltrán, A. y Lavado, P. (2014). El impacto del uso del tiempo de las 
+mujeres en el Perú: un recurso escaso y poco valorado en la economía 
+nacional. http://hdl.handle.net/11354/967
+Blau, F. D., Currie, J. M., Croson, R. T. A., & Ginther, D. K. (2010). 
+Can Mentoring Help Female Assistant Professors? Interim Results 
+from a Randomized Trial. The American Economic Review, 100(2), 
+348-352. http://www.jstor.org/stable/27805017
+Blickenstaff, J. (2005). Women and science careers: leaky pipeline or 
+gender filter? Gender and Education, 17(4), 369-386.
+Bordón, P. Canals, C. y Rojas, S. (2015). Retención en los programas 
+e instituciones de educación superior. Nueva evidencia para 
+Chile. Estudios de Política Educativa, (2). https://hdl.handle.
+net/20.500.12365/18565
+Bordón, P. Canals, C., & Mizala, A. (2020). The gender gap in college 
+major choice in Chile. Economics of Education Review 77. https://
+doi.org/10.1016/j.econedurev.2020.102011.
+Brítez, G. (2021). Importancia del curriculum oculto en el proceso 
+de enseñanza-aprendizaje. Ciencia Latina Revista Científica 
+Multidisciplinar, 5(6), 13859-13870. https://doi.org/10.37811/
+cl_rcm.v5i6.1361
+Brito, S., Basualto, L. y Posada, M. (2020). Percepción de prácticas de 
+discriminación, exclusión y violencia de género en estudiantes 
+universitarias. Revista interdisciplinaria de estudios de género de El 
+Colegio de México, (6).
+Brown, J. V., Crampton, P. E., Finn, G. M., Morgan, J. E., & Project 
+Team. (2020). From the sticky floor to the glass ceiling and 
+everything in between: protocol for a systematic review of barriers 
+and facilitators to clinical academic careers and interventions to 
+address these, with a focus on gender inequality. Systematic reviews, 
+(9), 1-7.
+Buchmann, C., & Diprete, T. A. (2009). Gender-specific trends in 
+the value of education and the emerging gender gap in college 
+completion. Demography, 43(1), 1-24.
+
+Brechas de género en la educación superior universitaria en el Perú  |  50
+Burneo, J., Barrantes, R. y Duffó, D. (2022). Brechas de género en el 
+Perú: efectos de la rápida digitalización de la educación de tercer 
+nivel durante la pandemia del COVID-19. Southern Voice, (76). 
+https://southernvoice.org/wp-content/uploads/2022/06/Brechas-
+genero-Peru-Barrantes-et-al-2022.pdf
+Buquet, A., Cooper, J. A. y Mingo, A. (2013). Intrusas en la universidad. 
+Universidad Nacional Autónoma de México.
+Buzzio, G. (1993). The woman’s role in the administration of higher 
+education in Peru. En H. Mukherjee y M. L. Kearney (Eds.). 
+Women in higher education management,  147-164. Commonwealth 
+Secretariat- Unesco.
+Cabrera, E. R. y Rodríguez, E. D. C. (2022) ¿Podría existir un Techo 
+de cristal en las universidades españolas? Estudio concreto de la 
+Universidad de La Laguna.
+Canales, D., Bautista, T., Moreno, J. G., García-Minjares, M. y Sánchez-
+Mendiola, M. (2022). Análisis de trayectorias académicas con 
+enfoque de curso de vida: un estudio de caso en estudiantes de 
+medicina. Educación convincente, 9 (1). https://doi.org/10.1080/2
+331186X.2021.2018118
+Cárdenas, N. y García, M. (2024). Mecanismos de acción para promover 
+la educación inclusiva en el contexto de América Latina. Reincisol, 
+3(5), 339-358.
+Casas, F. (2012). Reformismo sin reforma. El papel del Estado en el proceso 
+de transformación de las políticas de creación de universidades 
+desde el CONAFU entre 1995-2010. https://www.flacso.org.ar/
+wp-content/uploads/2020/01/Casas-Sulca-Frank-Renato.pdf
+Castillo-Peña, J. (2021). Expectativas y trayectorias educativas 
+postsecundarias de jóvenes de territorios rurales en Chile. Una 
+mirada desde el desarrollo humano. Revista Iberoamericana de 
+Educación Superior, 12(34), 127-144.
+Cervantes, C., Chávez, J. y García, I. (2016). ¿Es diversa la Universidad? 
+Derechos humanos y homosexualidad. En J. Larios y J. M. de la 
+Mora (coords.), Diversidad sexual y universidad. Enfoques, 159-200.
+Charles, K. K., & Luoh, M. C. (2003). Gender differences in completed 
+schooling. Review of Economics and statistics, 85(3), 559-577.
+Chapa, A. C., Cadena, I., Almanza, A. M. y Gómez, A. H. (2022). 
+Violencia de género en la universidad: percepciones, actitudes y 
+conocimientos desde la voz del estudiantado. Revista Guillermo de 
+Ockham, 20(1), 77-91.
+Chaves, L. D. y Narváez-Burbano, J. H. (2023). Aproximaciones al 
+estudio de la deprivación sociocultural desde los sistemas: escuela, 
+familia y comunidad. Revista Guillermo de Ockham, 21(1), 65-78.
+Chávez, I. C. (2023). Género y Educación. Una mirada al sistema 
+universitario desde las trayectorias estudiantiles. Lima: Sunedu.
+
+Brechas de género en la educación superior universitaria en el Perú  |  51
+Chavez, I. C. y Merino, E. P. R. (2021). Brechas de género en la 
+gobernanza universitaria y la carrera docente en el Perú. Revista 
+Educación Superior y Sociedad (ESS), 33(2), 738- 766.
+Chandler, C. (1996). Mentoring and Women in Academia: 
+Reevaluating the Traditional Model. National Women's Studies 
+Association Journal (NWSA Journal) 3(8), 79-100. https://
+web.mit.edu/cortiz/www/Diversity/MentoringAndWomenIn 
+Academia.pdf
+Clark, S., McGrane, A., Boyle, N., Joksimovic, N., Burke, L., Rock, 
+N., & O’Sullivan, K. (2020). «You’re a teacher, you’re a mother, 
+you’re a worker»: Gender inequality during COVID-19 in Ireland. 
+Gender, Work & Organization, 28(4), 1352-1362. https://doi. 
+org/10.1111/gwao.12611
+Crabtree, S. A., & Shiel, C. (2018). Loaded dice: games playing and the 
+gendered barriers of the academy. Gender and Education, 30(7), 
+899-916. https://doi.org/10.1080/09540253.2018.1447090
+Consejo Nacional de Ciencia, Tecnología e Innovación. (2020). Líneas 
+Orientadoras para la Promoción de la Mujer en la Ciencia, Tecnología 
+e Innovación Tecnológica (CTI) 2021- 2030: «Para el Ingreso, 
+Permanencia y Desarrollo de Mujeres» -LOPM-CTI. https://
+cdn.www.gob.pe/uploads/document/file/1718706/Lineas_
+orientadoras_%28LOPM-CTI%29.pdf.pdf?v=1623422415
+Conger, D., & Long, M. (2008, 29 de julio). Why are Men Falling 
+Behind? Explanations for the Gender Gap in College Outcomes. 
+[Ponencia] Texas Higher Education Opportunity Project 
+Conference, New Jersey, EEUU.
+Corsi, M., D’Ippoliti, C., & Zacchia, G. (2018). A Case Study of 
+Pluralism in Economics: The Heterodox Glass Ceiling in Italy. 
+Review of Political Economy, 30(2), 172- 189. https://doi.org/10.1
+080/09538259.2018.1423974
+Davila, L. A. R. (2022). El acoso escolar homofóbico a jóvenes en nivel 
+secundaria. (Tesis de licenciatura, Universidad Autónoma 
+Metropolitana). http://rixplora.upn.mx/jspui/bitstream/RIUPN/ 
+181568/1/2485%20-%20UPN092LPRELU2022.pdf
+Domínguez, T. M. (2023). Experiencias de acoso y hostigamiento sexual 
+de estudiantes en las Instituciones de Educación Superior en México. 
+Una mirada a las consecuencias y las personas perpetradoras. (Tesis 
+de licenciatura, Universidad Autónoma del Estado de Morelos). 
+http://riaa.uaem.mx/handle/20.500.12055/4301
+Duarte, O. S. (2019). Contexto familiar y los factores intervinientes 
+en el rendimiento académico del sujeto educativo: Aproximación 
+diagnóstica. Polo del Conocimiento: Revista científico-profesional, 
+4(4), 25-38.
+
+Brechas de género en la educación superior universitaria en el Perú  |  52
+Dubet, F. (2012). Los límites de la igualdad de oportunidades. Nueva 
+sociedad, (239), 42-50. https://shs.hal.science/halshs-00718737/
+document#:~:text=FRANÇOIS%20DUBET,www.nuso.org
+de Alarcón, R. D. G., Moreno, M. L. C., Coello, M. E. S., Muro, E. S. 
+P., Sánchez, C. D. T., Alarcón, H. R. G. y Blanco, D. S. V. (2022). 
+Prevalencia, reacciones y efectos del hostigamiento sexual en dos 
+universidades públicas del Perú. Revista de Investigación Estadística, 
+4(1), 36-46.
+de Lourdes Larrea, M., Paula, C., Almeida, M., Palacios, P., Acosta, D., 
+José, M. y López, J. (2020). ¿Cómo se mide el acoso sexual? Aportes 
+para determinar la prevalencia del acoso sexual em las instituciones de 
+educación superior. SciELO-Editorial Abya-Yala.
+Departamento de Evaluación, Medición y Registro Educacional. (2024) 
+Cuotas de Género. Postulación centralizada. Sistema de Acceso. 
+https://portaluchile.uchile.cl/dam/jcr:9070f462-73ba-4ca2-
+b633-db2821ee7882/Cuotas- de-Genero.pdf
+Echeverría, S., Sotelo, M., Barraza, E. y Ramos, D. (2016) Deserción o 
+interrupción en las trayectorias estudiantiles. Congresos CLABES. 
+https://revistas.utp.ac.pa/index.php/clabes/article/view/1346
+Esteva, P. y Ormart, E. B. (2010). Curriculum oculto en contextos 
+universitarios: análisis centrado en latransmisión implícita de 
+valores. En II Congreso Internacional de Investigación y Práctica 
+Profesional en Psicología XVII Jornadas de Investigación Sexto 
+Encuentro de Investigadores en Psicología del MERCOSUR. Facultad 
+de Psicología, Universidad de Buenos Aires. https://www.
+aacademica.org/000-031/413
+European Institute for Gender Equality. (2014). Gender Perspective. 
+Disponible en: https://eige.europa.eu/publications-resources/
+thesaurus/terms/1257?language_content_entity=en
+Falcón, C. y Arraiz, A. (2020). Construcción de identidad profesional 
+docente durante la formación inicial como maestros. Revista 
+Complutense de Educación, 30(1), 55-74.
+Fernández, M. (2022) Análisis del abandono de los estudiantes de grado en 
+las universidades presenciales en España. Ministerio de Universidades.
+Fraire, M., Moine, M. B., Tamagno, M. P. y Tamagno, M. V. (2023). 
+Cultura organizacional y la perspectiva de género. XII Congreso de 
+Administración del Centro de la República. VIII Congreso de 
+Ciencias Económicas del Centro de la República. IX Encuentro 
+Internacional de Administración del Centro de la República.
+IAPCS - Universidad Nacional de Villa María, Villa María.
+Gaete, R., Álvarez, J. y Ramírez, M. (2019). Reflexiones y experiencias 
+de profesoras-investigadoras mexicanas sobre el Techo de cristal. 
+Calidad en la Educación, (50), 457- 491.
+
+Brechas de género en la educación superior universitaria en el Perú  |  53
+Gallardo, M. (2021). Does maternity affect women’s careers? Perceptions 
+of working mothers in academia. Education XX1, 24(1),405-428, 
+https://doi.org/10.5944/educXX1.26714
+Gallego-Morón, N. y Matus-López, M. (2021). Análisis de género de 
+las barreras en la promoción académica. Estudio de caso de una 
+universidad argentina. Perfiles latinoamericanos, 29(57), 279-307.
+Giddens, A. (2000). Sociología. Alianza Editorial.
+Gutiérrez-Mozo, M. E., Parra-Martínez, J. y Gilsanz, A. (2020). Gestión 
+de infraestructuras con perspectiva de género. Caso: El Campus de 
+la Universidad de Alicante. Ciudad y territorio 52(203), 103-120.
+Guvenen, F., Kaplan, G., & Song, J. (2014). The glass ceiling and the 
+paper floor: Gender differences among top earners, 1981-2012 
+(No. w20560). National Bureau of Economic Research.
+Guy, M. E. (1994). Organizational architecture, gender and women's 
+careers. Review of Public Personnel Administration, 14(2), 77-90.
+Hamilton, S. F. (1994). Opening career paths for youth: What needs to 
+be done? Who can do it? American Youth Policy Forum.
+Hernández-López, A. M., Luna-Nemecio, J. y Atayde-Manríquez, K. 
+X. (2020). Cultura de Género en las Universidades en el marco 
+de la socioformación y el desarrollo social sostenible: Análisis 
+Documental. Pacha. Revista De Estudios Contemporáneos Del Sur 
+Global, 1(1), 32. https://doi.org/10.46652/pacha.v1i1.8
+Hernández-Hernández, O. M. (2020). Familia y género. Miradas Sobre 
+Familia, Género y Migración en Latinoamérica, 1(1), 81.
+Hill, C. & Corbett, C. (2010) Why So Few? Women in Science, Technology, 
+Engineering, and Mathematics. Washington: American Association 
+of University Women.
+Hospido, L., & Sanz, C. (2019). Gender gaps in the evaluation of 
+research: evidence from submissions to economics conferences. 
+Documento de Trabajo  1918. Banco de España.
+Høigaard, R., & Mathisen, P. (2009). Benefits of formal mentoring for 
+female leaders. International Journal of Evidence Based Coaching & 
+Mentoring, 7(2).
+Hoces, Z. (2023). Percepción del hostigamiento sexual en estudiantes en 
+una universidad pública peruana. Revista Innova Educación, 5(2), 
+79-90.
+Huopalainen, A. S., & Satama, S.T. (2019). Mothers and re-searchers 
+in the making: Negotiating ‘new’ motherhood within the ‘new’ 
+academia. Human Relations, 72(1). https://doi.org/10.1177/ 
+0018726718764571
+Hupkau, C., & Petrongolo, B. (2020). Work, Care and Gender During 
+the COVID-19 Crisis. Fiscal Studies, 41(3), 623-651. https://doi.
+org/10.1111/1475-5890.12245
+
+Brechas de género en la educación superior universitaria en el Perú  |  54
+Instituto Nacional de Formación y Capacitación Laboral-Banco 
+Interamericano de Desarrollo (INFOCAL-BID). (s.f.) Guía para 
+la inclusión del enfoque de género en el desarrollo curricular. Programa 
+para el fortalecimiento de la formación técnica y profesional de mujeres 
+de bajos ingresos. https://www.oitcinterfor.org/sites/default/files/
+edit/docref/genero/guia_gen_desc_bo.pdf
+Instituto Internacional de la UNESCO para la Educación Superior en 
+América Latina y el Caribe. (2023). Perú: seguimiento de buenas 
+prácticas del derecho a la educación superior alrededor del mundo; 
+iniciativas de políticas sobre el derecho a la educación superior en 
+Perú. Organización de las Naciones Unidas para la Educación, 
+la Ciencia y la Cultura. https://unesdoc.unesco.org/ark:/48223/
+pf0000385633
+Instituto Nacional de Estadística e Informática. (2022). Perú: Indicadores 
+de Educación según Departamentos, 2011-2021. https://www.
+inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/
+Lib1871/libro.pdf
+Instituto Nacional de Estadística e Informática. (2010). Perú: 
+Brechas de Género, 2001- 2013. Avances hacia la igualdad 
+entre mujeres y hombres. https://www.inei.gob.pe/media/Menu 
+Recursivo/publicaciones_digitales/Est/Lib1210/libro.pdf
+Instituto Nacional de Estadística e Informática. (2023). Cifras sobre 
+brechas 
+de 
+género. 
+https://m.inei.gob.pe/estadisticas/indice- 
+tematico/brechas-de-genero-7913/
+Isla, S. F. R. (2020). Migración profesional venezolana en Chile: 
+Expectativas laborales, trayectoria, percepción de ajuste, y proyecciones 
+laborales futuras (Tesis de Maestría, Pontificia Universidad Católica 
+de Chile).
+Ivancheva, M., Lynch, M. K., & Keating, K. (2019). Precarity, gender 
+and care in the neoliberal academy. Gender, Work and Organization, 
+26, 448-462. https://doi.org/10.1111/gwao.12350
+Kamichi, M. J. (2023). La realidad de la informalidad en el Perú previo 
+a su bicentenario. Desde el Sur, 15(1).
+Kniveton, B. H. (2019) The Influences and Motivations on Which 
+Students Base Their Choice of Career. Loughborough’s Institutional 
+Repository. https://hdl.handle.net/2134/2642
+Kuhn, A., & Wolter, S. C. (2020). Things versus People: Gender 
+Differences in Vocational Interests and in Occupational Preferences. 
+Institute of Labor Economics. https://repec.iza.org/dp13380.pdf
+Lee, M. (2021). The underrepresentation of women in senior
+leader­ship positions. Dissertation [Degree of Doctor of Business 
+Administration, Liberty University, School of Business] https://
+digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=3986& 
+context=doctoral
+
+Brechas de género en la educación superior universitaria en el Perú  |  55
+Loden, M. (2017). Techo de cristal. https://www.sesametime.com/
+assets/diccionario/techo-de-cristal/
+Lundberg, S., & Stearns, J. (2019).Women in Economics: Stalled 
+Progress. Journal of Economic Perspectives, 33(1), 3-22. https://
+pubs.aeaweb.org/doi/pdfplus/10.1257/jep.33.1.3
+Mannarelli, M. (2018). La domesticación de las mujeres. Patriarcado y 
+género en la historia peruana. La Siniestra Ensayos.
+Mcilongo, M., & Strydom, K. (2021). The significance of mentorship 
+in supporting the career advancement of women in the public 
+sector. Heliyon, 7(6).
+Martínez, F. (2023). Políticas de atención y prevención ante el acoso y 
+hostigamiento sexual en las Instituciones Públicas de Educación 
+Superior. (Tesis de Maestría, Universidad Autónoma del estado 
+de Hidalgo). http://dgsa.uaeh.edu.mx:8080/bibliotecadigital/
+handle/231104/3318
+Martínez, H. y Salazar, S. (2022). Experiencia de acoso sexual en 
+estudiantes universitarios y la espacialidad intersticial como 
+dispositivo de exclusión-negación. Última década, 30(58), 
+257-288.
+Mendoza-Rodas, M., Vassallo-Cruz, K. L. y Barragán, R. D. J. S. (2021). 
+Mujer y universidad: Un modelo de igualdad de oportunidades 
+en una universidad peruana. Revista de Estilos de Aprendizaje, 
+14(Especial), 50-61.
+Ministerio de la Mujer y Poblaciones Vulnerables. (2019). Política 
+Nacional de Igualdad de Género. https://www.gob.pe/institucion/
+mimp/normas-legales/271118-008-2019-mimp
+Ministerio de la Mujer y Poblaciones Vulnerables. (2017). Conceptos 
+fundamentales sobre el enfoque de género para abordar políticas públicas. 
+https://cdn.www.gob.pe/uploads/document/file/199417/ 
+Conceptos_fundamentales_sobre_el_enfoque_de_género_para_
+abordar_políticas_públicas.pdf?v=1594241607
+Ministerio de Educación. (2023). Universidad en cifras. https://reposito 
+rio.minedu.gob.pe/bitstream/handle/20.500.12799/9077/ 
+La%20Universidad%20en%20Cifras.pdf?sequence=1 
+&isAllowed=y
+Ministerio de Educación. (2021a). Reporte sobre la interrupción de 
+estudios universitarios en el Perú, en el contexto del COVID-19 
+https://repositorio.minedu.gob.pe/handle/20.500.12799/7742
+Ministerio de Educación. (2021b). Identificación y caracterización de las 
+brechas entre educación básica e instituciones públicas de educación 
+superior. https://repositorio.minedu.gob.pe/handle/20.500. 
+12799/7741
+Ministerio de Educación. (2020). Política Nacional de Educación Superior 
+y Técnico-Productiva. https://n9.cl/cscl6
+
+Brechas de género en la educación superior universitaria en el Perú  |  56
+Mojica, C. (2023). Understanding Gender in the Dynamics of the 
+Hidden Curriculum: An ELT Colombian Case Study. HOW. A 
+colombian journal for english teachers, 30(1), 9-27.
+Morrison, A. M., White, R. P., White, R. P., & Van Velsor, E. (1987). 
+Breaking The Glass Ceiling: Can Women Reach The Top Of America's 
+Largest corporations? Basic Books.
+Necochea, Y., Nervi, C., Tuesta, V., Olazabal, L., Rodríguez, J., Gastelo, 
+A. y León-Jiménez, F. (2017) Frecuencia y características del 
+abandono estudiantil en una Escuela de Medicina de Lambayeque, 
+2006-2014. Revista Médica Herediana, 28(3). 171-177. https://
+revistas.upch.edu.pe/index.php/RMH/article/view/3184
+Organización para la Cooperación y el Desarrollo Económicos. 
+(2023). Education at a Glance 2023: OECD Indicators, OECD. 
+Publishing, Paris. https://www.oecd-ilibrary.org/education/
+education-at-a-glance-2023_e13bef63-en
+Ortega, D., Rodríguez, J. y Mateos, A. (2021). Educación superior y 
+la COVID-19: adaptación metodológica y evaluación online en 
+dos universidades de Barcelona. Revista Digital de Investigación 
+en Docencia Universitaria, 15(1). https://www.redalyc.org/
+journal/4985/498571977005/html/
+ONU Mujeres. (2024). Preguntas frecuentes: Tipos de violencia contra 
+las mujeres y las niñas. https://www.unwomen.org/es/articulos/
+preguntas-frecuentes/preguntas-frecuentes-tipos-de-violencia-
+contra-las-mujeres-y-las-ninas
+Organización de las Naciones Unidas para la Educación, la Ciencia y 
+la Cultura. (30 de abril de 2024). Thesaurus. Vocabularies Unesco. 
+https://vocabularies.unesco.org/browser/thesaurus/es/?clang=en
+Organización de las Naciones Unidas para la Educación, la Ciencia y la 
+Cultura. (2014). Plan de acción de la UNESCO para la prioridad 
+«Igualdad de género» (2014- 2021). Documentos estratégicos 
+complementarios del 37 C/4 y el 37 C/5. Organización de las 
+Naciones Unidas para la Educación, la Ciencia y la Cultura. https://
+unesdoc.unesco.org/ark:/48223/pf0000227222_spa
+Pérez, L. M. (Ed.). (2020). La economía del cuidado, mujeres y desarrollo: 
+perspectivas desde el mundo y América Latina. Universidad del 
+Pacífico.
+Perez-Felkner, L. (2013). Socialization in Childhood and Adolescence. 
+Handbook of Social Psychology. Springer Publishing.
+Pesantes, M. A. y Cárdenas, C. (2019). «Nosotras también podemos». 
+Mujeres indígenas en la Universidad de la Amazonía Peruana y la 
+Universidad Científica del Perú. Salud sin límites y Consorcio de 
+Investigación Económica y Social CIES.
+Petric, N. (2020). Egreso universitario a término: elementos que 
+permiten comprender su trama. Diálogos Pedagógicos, (34), 61-82. 
+
+Brechas de género en la educación superior universitaria en el Perú  |  57
+https://repositorio.uca.edu.ar/bitstream/123456789/9287/1/
+egreso-universitario-termino-elementos.pdf
+Pichardo, J. I. y Cabezas, L. P. (2019). Universidad y diversidad 
+sexogenérica: barreras, innovaciones y retos de futuro. Methaodos. 
+revista de ciencias sociales, 7(1). https://doi.org/10.17502/m.rcs.
+v7i1.287
+Piedra, M. (2022). Currículo oculto y no tan oculto de género en la 
+educación superior. Revista Reflexiones, 101(2), 192-215. http://
+dx.doi.org/10.15517/rr.v101i2.45869
+Prado, D. C. N., Chamorro, S. R. y Oviedo, N. V. O. (2021). Importancia 
+de los factores protectores frente a prejuicios, estereotipos y 
+discriminación educativa por razón de género en la Universidad 
+de Nariño. Revista Historia de la Educación Colombiana, (26-27), 
+39-70.
+Programa Nacional de Becas y Crédito Educativo. (2023). Resolución 
+Directoral 
+Ejecutiva 
+N° 
+167-2023-MINEDU/VMGI-
+PRONABEC, RDE n.˚ 167-2023 - Bases del concurso y expediente 
+técnico.
+Programa Nacional de Becas y Crédito Educativo. (2022). Memoria 
+Anual del Pronabec. https://cdn.www.gob.pe/uploads/document/
+file/4498935/Memoria%20Anual%20del%20Pronabec%20
+2022.pdf?v=1683306322
+Programa Nacional de Becas y Crédito Educativo. (2019). Memoria Anual 
+del Pronabec. https://www.gob.pe/institucion/pronabec/informes-
+publicaciones/1898611-memoria-anual-del-pronabec-2019
+Pontificia Universidad Católica del Perú. (29 de setiembre de 2021). 
+Conoce los servicios de acompañamiento psicológico para nuestros 
+estudiantes y docentes. https://bit.ly/3uV4kVp
+Pontificia Universidad Católica del Perú. (30 de setiembre de 2020). 
+El fondo conectividad PUCP mantendrá abiertas las inscripciones 
+mientras se desarrolle el semestre a distancia. https://bit.ly/3v1d78o
+Pontificia Universidad Católica del Perú. (2018). Normas Relativas a la 
+Inclusión del Nombre Social. https://n9.cl/9vsat
+Pontificia Universidad Católica del Perú. (2017). Política para el Respeto 
+de la Identidad de Género. https://n9.cl/qt32d
+Pontificia Universidad Católica del Perú. (2015). Políticas de Igualdad de 
+Género para la Docencia. https://n9.cl/ry3xn
+Programa de las Naciones Unidas para el Desarrollo. (2023). Estrategia 
+de Igualdad de Género 2023-2025 para América Latina y el Caribe. 
+https://www.undp.org/sites/g/files/zskgke326/files/2023-08/
+estrategia-regional-de-igualdad-de-genero-2023-2025.pdf
+Raga, R. M. (2021). La autodeterminación de género en el ámbito 
+educativo: mecanismos de implementación en las universidades. 
+Lex Social: Revista de Derechos Sociales, 11(2), 248-288.
+
+Brechas de género en la educación superior universitaria en el Perú  |  58
+Ragazzo, M. R. (2018). Entre el Techo de cristal y el suelo pegajoso. 
+la persistencia de la cultura androcéntrica al interior de las 
+organizaciones. Revista Ciencia Administrativa.
+Red Peruana de Universidades. (2020). Acciones de las universidades de la 
+RPU frente a la pandemia COVID-19. https://bit.ly/3iIGs2x
+Rivera-Osorio, J. F. y Arias-Gómez, M. C. (2020). Acoso escolar contra 
+jóvenes LGBT e implicaciones desde una perspectiva de salud. 
+Revista de la Universidad Industrial de Santander. Salud, 52(2), 
+147-151.
+Ricalde, F. A. (2020). Gestión educativa para una educación de calidad. 
+Revista de Ciencias Naturales, 2(2), 205-211.
+Rodriguez, Y. (2020). «Recomendaciones para la mejora de la 
+implementación del Programa Nacional BECA 18 – Modalidad 
+Ordinaria». Pontificia Universidad Católica del Perú. http://
+repositorio.pucp.edu.pe/index/handle/123456789/172148
+Rodríguez, J. S. y Montoro, L. (2013). La educación superior en el Perú: 
+situación actual y perspectivas. PUCP. https://repositorio.pucp.edu.
+pe/items/24556909-1de2-4772-bcd2-0cdecb4be038
+Rodríguez-Pineda, M. y Zamora-Araya, J. (2021). Abandono 
+temprano en estudiantes universitarios: un estudio de cohorte 
+sobre sus posibles causas. Uniciencia, 35. http://hdl.handle.
+net/11056/20236
+Rodríguez, M. (2019). La investigación sobre deserción universitaria 
+en Colombia 2066-2016. Tendencias y resultados. Pedagogía y 
+Saberes (15) pp. 49-66.
+Rujas, J. (2022). Meritocracia y educación: más allá de la igualdad de 
+oportunidades. Con-ciencia social, 5, 207-218
+Sánchez de Madariaga, I., Rica, S. D. L. y Dolado, J. J. (2011). Libro 
+blanco: Situación de las mujeres en la ciencia española. https://icp.
+csic.es/archivos/Igualdad/Legislacion/informes/LibroBlanco_
+Interactivo.pdf
+Sarkar, P., & Howlader, M. (2022). Women in mathematics: a study of 
+the gender gap. International Research Journal of Modernization in 
+Engineering, Technology and Science, 4(10).
+Shepherd, S. (2017). Why are there so few female leaders in higher 
+education: A case of structure or agency? Management in Education, 
+31(2) 82-87.
+Superintendencia de Educación Superior Universitaria. (2020). II 
+Informe bienal sobre la realidad universitaria en el Perú. https://
+cdn.www.gob.pe/uploads/document/file/1230044/Informe%20
+Bienal.pdf?v=160%203336820
+Superintendencia de Educación Superior Universitaria. (2021a). 
+III 
+Informe 
+Bienal 
+de 
+Realidad 
+Universitaria. 
+https://
+
+Brechas de género en la educación superior universitaria en el Perú  |  59
+www.gob.pe/institucion/sunedu/campa%C3%B1as/
+7990-iii-informe-bienal-%20sobre-la-realidad-universitaria
+Superintendencia de Educación Superior Universitaria. (2021b). Modelo 
+de Renovación de Licencia Institucional. https://cdn.www.gob.pe/
+uploads/document/file/2151022/Modelo.pdf?v=1630646546
+Tafur, R. M. y Soria-Valencia, E. (2021). Aprendizaje y buenas prácticas 
+sobre la pandemia en educación superior en Perú. Educación 
+Superior y Pandemia. Aprendizajes y buenas prácticas en Iberoamérica, 
+164-184.
+Times Higher Education y UNESCO International Institute of Higher 
+Education in Latin America and the Caribbean. (2022). THE 
+Report: Gender Equality: How Global Universities are Performing. 
+https://www.timeshighereducation.com/digital-editions/
+gender-equality-how-global-universities-are-performing-part-1
+The Chronicle of Higher Education. (2002). The Male Enrollment Crisis. 
+Newspaper.
+Torrico, M. G. C., Fernández, M. B., Pareja, E. F. H. y Millán, A. J. 
+(2022). Innovación docente para la igualdad y para la diversidad 
+en las políticas universitarias de España. Aula abierta, 51(1), 75-84.
+Torres, Á. C. P. (2021). Perspectiva de género en el currículo oculto: 
+catalizador de la visibilización femenina. Revista de Estilos de 
+Aprendizaje, 14(Especial), 5-19.
+Torres, S., Ortiz Rojas, K. D. y Giraldo, Y. (2022). Tejiendo sobre la 
+perspectiva de género y la prevención de violencias en entornos 
+comunitarios y educativos. Cuadernos de Trabajo Comunitario 2. 
+Universidad de Chile. (sf.) Dirección de Igualdad de Género: Política de 
+Igualdad de Género. https://direcciondegenero.uchile.cl/
+Universidad de Chile. (sf.) Proceso de Admisión. https://uchile.cl/
+presentacion/asuntos-academicos/pregrado/admision-especial/
+equidad-de-genero
+Universidad del Pacífico. (2018). Política de Igualdad de Género. https://
+n9.cl/x55xh
+Valencia, A. M. U. (2018). Techo de cristal y suelo pegajoso: estudios 
+de género en la academia. Revista de Investigación Científica, 4(1), 
+1844-1848. https://www.jovenesenlaciencia.ugto.mx/index.php/
+jovenesenlaciencia/article/view/2886
+Vargas, M. I. C., Ordoñez, R. P. M., Rodríguez, B. L. R. y Patiño, A. 
+E. C. (2020). Factores familiares, comunitarios y escolares que 
+influyen en el rendimiento académico de los estudiantes. Polo del 
+Conocimiento: Revista científico-profesional, 5(1), 622-646.
+Venegas-García, H. F. y Brito-Vega, H. (2023). Mentorías entre mujeres 
+investigadoras para prevalecer en la ciencia. Revista Ciencia UANL, 
+26(118), 36-3.
+
+Brechas de género en la educación superior universitaria en el Perú  |  60
+Viveros, M. (2016). La interseccionalidad: una aproximación situada a 
+la dominación. Debate Feminista 52.
+Williams, J. C. (2004). Hitting the Maternal Wall-Before They Reach 
+a «Glass Ceiling» in Their Careers, Women Faculty May Hit a 
+«Maternal Wall». Academe Bulletin of the American Association 
+of University Professors, 90, 16. https://repository.uclawsf.edu/
+faculty_scholarship/1202
+Wilson, V. (2014). Research Methods: Triangulation. Evidence Based 
+Library and Information Practice.
+Zacchia, G. (2017). Diversity in Economics: A Gender Analysis of Italian 
+Academic Production (August 2017). Institute for New Economic 
+Thinking Working Paper Series, 61. https://www.ineteconomics.
+org/uploads/papers/WP_61-Zacchia-Diversity-Final.pdf
+Zavala, V. y Córdova, G. (2010). Decir y callar: lenguaje, equidad y poder en 
+la universidad peruana. https://doi.org/10.18800/9789972429187
+
+
